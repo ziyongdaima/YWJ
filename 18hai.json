@@ -16,7 +16,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
-   
+    {
+      "key": "csp_XBPQ_虎牙.",
+      "name": "🌤┃直播┃虎牙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/xbpq黄仓库.json"
+    },
        {
       "key": "美少女",
       "name": "少女影视",
