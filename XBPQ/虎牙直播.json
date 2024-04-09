@@ -2,7 +2,7 @@
         "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
         "直接播放": "1",
         "请求头": "手机",
-        "分类": "电影$2067#电视剧$2079#综艺$1011#古装$4201#TVB$4061#搞笑$4183",
+        "分类": "电影$2067#电视剧$2079#综艺$1011#古装$4201#TVB$4061#搞笑$4183#有声小说$6657",
         "分类url": "https://live.huya.com/liveHttpUI/getTmpLiveList?iTmpId={cateId}&iPageNo={catePg}&iPageSize=120&iLibId=2213&iGid=2135",
         "数组": "vList[]",
         "图片": "sScreenshot",
