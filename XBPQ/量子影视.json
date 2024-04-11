@@ -27,7 +27,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类url":"http://www.lzizy9.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-"分类":"电影$1#电视剧$2#动漫$3#综艺$4",
+"分类":"电影片$1#连续剧$2#动漫片$3#综艺片$4",
 "筛选":
 {
 "1":[
