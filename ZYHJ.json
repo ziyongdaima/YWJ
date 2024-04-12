@@ -32,6 +32,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
+	"jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/xbpq1223.jar"  ,
       "ext": {
         "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
         "直接播放": "1",
