@@ -16,7 +16,7 @@
 "搜索副标题":"title=*>&&</a>",
 "搜索后缀":"/index.php/vod/detail/id/",
 "线路数组":"data-dropdown-value=&&</div>",
-"线路标题":"<span>&&</small>[替换:量子m3u8>>线路一#量子云>>线路二]",
+"线路标题":"<span>&&</small>[替换:量子m3u8>>线路一#量子云>>线路二]+集",
 "播放数组":"<div class=\"sort-item\"&&</div>",
 "影片类型":"<span class=\"video-tag-icon\">&&立即播放",
 "导演":"导演：&&</div>",
