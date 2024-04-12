@@ -34,7 +34,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/TVB云播.json"
+      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/大米星球.json"
+    },
+	   {
+      "key": "csp_XBPQ_虎1.",
+      "name": "83轮播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/两个BT.json"
     },
      
        {
