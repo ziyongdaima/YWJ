@@ -24,7 +24,29 @@
 	{ "key": "csp_xBPQ_DD","name": "蛋蛋影视/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/蛋蛋影视.json"},
 	{ "key": "csp_xBPQ_LZ","name": "量子影视/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/量子影视.json"},
 	{ "key": "csp_xBPQ_HH","name": "黑狐影视/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/黑狐影视.json"},
-
+  {
+      "key": "csp_XBPQ_虎牙2.",
+      "name": "🌤┃直播┃虎牙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+        "直接播放": "1",
+        "请求头": "手机",
+        "分类": "电影$2067#电视剧$2079#综艺$1011#古装$4201#TVB$4061#搞笑$4183#科技$5461",
+        "分类url": "https://live.huya.com/liveHttpUI/getTmpLiveList?iTmpId={cateId}&iPageNo={catePg}&iPageSize=120&iLibId=2213&iGid=2135",
+        "数组": "vList[]",
+        "图片": "sScreenshot",
+        "标题": "sRoomName",
+        "副标题": "sRecommendTagName",
+        "链接": "lProfileRoom",
+        "播放请求头": "User-Agent$User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/60",
+        "链接前缀": "https://m.huya.com/"
+      }
+    },
 
 
 
