@@ -36,15 +36,19 @@
       "filterable": 0,
       "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/大米星球.json"
     },
-	   {
-      "key": "csp_XBPQ_虎1.",
-      "name": "83轮播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/真不卡影院.json"
+  {
+      "key": "优质资源",
+      "name": "优质🌟资源",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "福利"
+	
+      ]
     },
      
        {
