@@ -24,55 +24,12 @@
 	{ "key": "csp_xBPQ_DD","name": "蛋蛋影视/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/蛋蛋影视.json"},
 	{ "key": "csp_xBPQ_LZ","name": "量子影视/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/量子影视.json"},
 	{ "key": "csp_xBPQ_HH","name": "黑狐影视/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/黑狐影视.json"},
-  {
-      "key": "csp_XBPQ_虎牙2.",
-      "name": "🌤┃直播┃虎牙",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-	
-      "ext": {
-        "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
-        "直接播放": "1",
-        "请求头": "手机",
-        "分类": "电影$2067#电视剧$2079#综艺$1011#古装$4201#TVB$4061#搞笑$4183#有声小说$6657",
-        "分类url": "https://live.huya.com/liveHttpUI/getTmpLiveList?iTmpId={cateId}&iPageNo={catePg}&iPageSize=120&iLibId=2213&iGid=2135",
-        "数组": "vList[]",
-        "图片": "sScreenshot",
-        "标题": "sRoomName",
-        "副标题": "sRecommendTagName",
-        "链接": "lProfileRoom",
-        "播放请求头": "User-Agent$User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/60",
-        "链接前缀": "https://m.huya.com/"
-      }
-    },
-
-	   {
-      "key": "优质资源",
-      "name": "优质🌟资源",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "短剧大全",
-	"动作片",
-        "科幻片",
-        "恐怖片",
-        "动画片",
-        "国产动漫",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "大陆综艺",
-        "港台综艺"
-      ]
-    },
-
+	{ "key": "csp_xBPQ_sh","name": "骚火影视/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/骚火.json"},
+	{ "key": "csp_xBPQ_fr","name": "freeok/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/freeok.json"},
+	{ "key": "csp_xBPQ_rb","name": "热播/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/热播.json"},
+  
+  
+  
 
 
 	{ "key": "csp_XYQHiker_996","name": "996影视/XYQH","type": 3, "api": "csp_csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/996影视.json"},
