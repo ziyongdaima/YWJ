@@ -4,9 +4,9 @@
     
     "站名":"低端影视",
     
-    "主页url":"http://www.jinyanw.com/",
+    "主页url":"https://ddys.pro/",
     
-    "简介":"运输车提醒您请勿相信影片中的广告，以免上当受骗！+none;\">&&本站收藏",
+    "简介":"+none;\">&&本站收藏",
     
     "导演":"导演：&&</p>",
     
@@ -52,7 +52,7 @@
     
     "播放列表":"<li&&</li>",
     
-    "分类url":"http://www.jinyanw.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+    "分类url":"https://ddys.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
