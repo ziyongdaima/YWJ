@@ -28,6 +28,7 @@
 	{ "key": "csp_xBPQ_fr","name": "freeok/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/freeok.json"},
 	{ "key": "csp_xBPQ_rb","name": "热播/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/热播.json"},
 	{ "key": "csp_xBPQ_cz","name": "厂长/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/厂长.json"},
+	{ "key": "csp_xBPQ_dan","name": "低端/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/低端.json"},
   
   
   
@@ -42,7 +43,10 @@
 	{ "key": "csp_XYQHiker_DY","name": "斗鱼直播/XYQH","type": 3, "api": "csp_csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/斗鱼直播.json"},
 	{ "key": "csp_XYQHiker_RB","name": "热播之家/XYQH","type": 3, "api": "csp_csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/热播之家.json"},
 	{ "key": "csp_XYQHiker_KB","name": "看吧TV/XYQH","type": 3, "api": "csp_csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/看吧TV.json"},
-	{ "key": "csp_XYQHiker_HY","name": "虎牙直播/XYQH","type": 3, "api": "csp_csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/虎牙直播.json"}
+	{ "key": "csp_XYQHiker_HY","name": "虎牙直播/XYQH","type": 3, "api": "csp_csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/虎牙直播.json"},
+
+
+	{"key": "csp_短剧网","name": "短剧🍊看看","type": 1, "api": "http://zzdj.cc/api.php/provide/vod"},
 
  
 
