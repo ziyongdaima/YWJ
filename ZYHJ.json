@@ -296,11 +296,7 @@
     }
   ],
 
-  "script": [
-        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-      ]
-    },
-    {
+  {
       "name": "磁力广告",
       "hosts": [
         "magnet"
@@ -323,7 +319,7 @@
         "新片首发",
         "UUE29"
       ]
-    },
+    }
   
 
 
