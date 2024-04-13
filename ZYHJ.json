@@ -32,7 +32,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-	"jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DM.jar"  ,
+	"jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/XBPQ.jar"  ,
       "ext": {
         "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
         "直接播放": "1",
@@ -47,6 +47,30 @@
         "播放请求头": "User-Agent$User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/60",
         "链接前缀": "https://m.huya.com/"
       }
+    },
+
+	   {
+      "key": "优质资源",
+      "name": "优质🌟资源",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "短剧大全",
+	"动作片",
+        "科幻片",
+        "恐怖片",
+        "动画片",
+        "国产动漫",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "大陆综艺",
+        "港台综艺"
+      ]
     },
 
 
@@ -105,7 +129,7 @@
 
 
 
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DM.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/PG.jar",
 
 
 
