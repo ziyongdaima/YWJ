@@ -51,7 +51,8 @@
 	{"key": "种了",
 	"name": "种子漫漫",
 	"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
-	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/路漫漫.js"}
+	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/路漫漫.js"},
+	
 	{"key": "csp_短剧网","name": "短剧🍊看看","type": 1, "api": "http://zzdj.cc/api.php/provide/vod"},
 	{"key": "种子",
 	"name": "种子短剧",
