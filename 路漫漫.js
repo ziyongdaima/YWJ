@@ -1,6 +1,6 @@
 var rule = {
 	title:'路漫漫',
-	host:'https://www.96ba.com',
+	host:'https://m.lmm52.com/',
 	// url:'/vod/show/id/fyclass/page/fypage.html',
 	url:'/vod/show/id/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
