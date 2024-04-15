@@ -46,7 +46,7 @@
 
 
         {"key": "py_huya","name": "虎牙🐯直播","type": 3,"api": "py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/pyhuya.py"},
- {"key": "py_cup","name": "茶杯8🐯直播","type": 3,"api": "py_cup","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/py_cctv.py"},
+ {"key": "py_cup","name": "茶杯8🐯直播","type": 3,"api": "py_cup","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/py_bilimd.py"},
 	
 	{"key": "种了",
 	"name": "种子漫漫",
