@@ -47,6 +47,41 @@
 
         {"key": "py_huya","name": "虎牙🐯直播","type": 3,"api": "py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/pyhuya.py"},
  {"key": "py_cup","name": "茶杯8🐯直播","type": 3,"api": "py_cup","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/py_cokemv.py"},
+
+
+
+       {"key": "BDYS","name": "BD荐影┃新片","type": 3,"api": "csp_BDYS","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "Bjw","name": "dj荐影┃新片","type": 3,"api": "csp_duanjuw","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "git","name": "git┃新片","type": 3,"api": "csp_Gitcafe","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "lkbt","name": "ldbt荐影┃新片","type": 3,"api": "csp_lkanbot","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "in","name": "in荐影┃新片","type": 3,"api": "csp_lnit","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "iqiyi","name": "lq荐影┃新片","type": 3,"api": "csp_IQIYI","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "jp","name": "jp荐影┃新片","type": 3,"api": "csp_JianPian","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "kaikan","name": "kuaik荐影┃新片","type": 3,"api": "csp_kuaikan","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "kba","name": "kub荐影┃新片","type": 3,"api": "csp_KubaCL","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "loca","name": "loca荐影┃新片","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "meiju","name": "meiju荐影┃新片","type": 3,"api": "csp_MeijuMi","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "Mtt","name": "BMtt荐影┃新片","type": 3,"api": "csp_MejuTT","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "MGTV","name": "MGTV荐影┃新片","type": 3,"api": "csp_MGTV","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "mp4Mov","name": "mp4荐影┃新片","type": 3,"api": "csp_Mp4Mov","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "New6v","name": "6v荐影┃新片","type": 3,"api": "csp_New6v","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "Proxy","name": "Pro荐影┃新片","type": 3,"api": "csp_proxy","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "pus","name": "pus荐影┃新片","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "Seed","name": "Seed荐影┃新片","type": 3,"api": "csp_SeedHub","searchable": 0,"quickSearch": 0,"changeable": 0},
+        {"key": "P360","name": "360荐影┃新片","type": 3,"api": "csp_SP360","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "UPY","name": "UPY荐影┃新片","type": 3,"api": "csp_Upyunso","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "xl","name": "xl影┃新片","type": 3,"api": "csp_Xunlei8","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "YIs","name": "YIS影┃新片","type": 3,"api": "csp_Yisou","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "121","name": "121影┃新片","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "zhao","name": "zhao影┃新片","type": 3,"api": "csp_Zhaozy","searchable": 0,"quickSearch": 0,"changeable": 0},
+	
+
+
+
+
+
+
+
 	
 	{"key": "种了",
 	"name": "种子漫漫",
