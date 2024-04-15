@@ -32,7 +32,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             result['filters'] = self.config['filter']
         return result
     def homeVideoContent(self):
-        rsp = self.fetch("http://api.8a5.cn/parse/kuaikan/py.php?do=homeVideoContent")
+        rsp = self.fetch("https://www.kuaikanys.net/parse/kuaikan/py.php?do=homeVideoContent")
         alists = json.loads(rsp.text)
         alist = alists['list']
         result = {
@@ -46,7 +46,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         for key in extend:
             urlParams.append(str(key) + '=' + extend[key])
         params = '&'.join(urlParams)
-        url = 'http://api.8a5.cn/parse/kuaikan/py.php?do=categoryContent&tid={0}&page={1}&{2}'.format(tid, pg,params)
+        url = 'https://www.kuaikanys.net/parse/kuaikan/py.php?do=categoryContent&tid={0}&page={1}&{2}'.format(tid, pg,params)
         rsp = self.fetch(url)
         alists = json.loads(rsp.text)
         alist = alists['list']
@@ -60,7 +60,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def detailContent(self,array):
         tid = array[0]
-        url = 'http://api.8a5.cn/parse/kuaikan/py.php?do=detailContent&id={0}'.format(tid)
+        url = 'https://www.kuaikanys.net/parse/kuaikan/py.php?do=detailContent&id={0}'.format(tid)
         rsp = self.fetch(url)
         alists = json.loads(rsp.text)
         vod = alists['vod']
@@ -72,7 +72,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         return result
 
     def searchContent(self,key,quick):
-        url = 'http://api.8a5.cn/parse/kuaikan/py.php?do=searchContent&wd={0}'.format(key)
+        url = 'https://www.kuaikanys.net/parse/kuaikan/py.php?do=searchContent&wd={0}'.format(key)
         rsp = self.fetch(url)
         alists = json.loads(rsp.text)
         list = alists['list']
