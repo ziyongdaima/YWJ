@@ -30,9 +30,9 @@
 	{ "key": "csp_xBPQ_cz","name": "厂长/XBPQ","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/厂长.json"},
 	
   
+  { "key": "csp_xB_cz","name": "TVB/XBiubiu","type": 3, "api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBiubiu/TVB云播.json"},
+	
   
-  
-
 
 	{ "key": "csp_XYQHiker_996","name": "996影视/XYQH","type": 3, "api": "csp_csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/996影视.json"},
 	{ "key": "csp_XYQHiker_NM","name": "农民影视/XYQH","type": 3, "api": "csp_csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/农民影视.json"},
