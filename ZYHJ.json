@@ -50,21 +50,21 @@
 
 
 
-       {"key": "BDYS","name": "BD荐影┃新片","type": 3,"api": "csp_BDYS","searchable": 1,"quickSearch": 1,"changeable": 1},
-	{"key": "Bjw","name": "dj荐影┃新片","type": 3,"api": "csp_duanjuw","searchable": 1,"quickSearch": 1,"changeable": 1},
-	{"key": "git","name": "git┃新片","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"changeable": 1},
-	{"key": "lkbt","name": "ldbt荐影┃新片","type": 3,"api": "csp_lkanbot","searchable": 1,"quickSearch": 1,"changeable": 1},
-	{"key": "in","name": "in荐影┃新片","type": 3,"api": "csp_lnit","searchable": 1,"quickSearch": 1,"changeable": 1},
-	{"key": "iqiyi","name": "lq荐影┃新片","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"changeable": 1},
-	{"key": "jp","name": "jp荐影┃新片","type": 3,"api": "csp_JianPian","searchable": 1,"quickSearch": 1,"changeable": 1},
-	{"key": "kaikan","name": "kuaik荐影┃新片","type": 3,"api": "csp_kuaikan","searchable": 1,"quickSearch": 1,"changeable": 1},
-	{"key": "kba","name": "kub荐影┃新片","type": 3,"api": "csp_KubaCL","searchable": 1,"quickSearch": 1,"changeable": 1},
+       {"key": "BDYS","name": "BD荐影┃新片","type": 3,"api": "csp_DM84","searchable": 1,"quickSearch": 1,"changeable": 1},
+	{"key": "Bjw","name": "dj荐影┃新片","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1},
+	{"key": "git","name": "git┃新片","type": 3,"api": "csp_BH","searchable": 1,"quickSearch": 1,"changeable": 1},
+	{"key": "lkbt","name": "ldbt荐影┃新片","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"changeable": 1},
+	{"key": "in","name": "in荐影┃新片","type": 3,"api": "csp_Hg","searchable": 1,"quickSearch": 1,"changeable": 1},
+	{"key": "iqiyi","name": "lq荐影┃新片","type": 3,"api": "csp_Itv","searchable": 1,"quickSearch": 1,"changeable": 1},
+	{"key": "jp","name": "jp荐影┃新片","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"changeable": 1},
+	{"key": "kaikan","name": "kuaik荐影┃新片","type": 3,"api": "csp_Local","searchable": 1,"quickSearch": 1,"changeable": 1},
+	{"key": "kba","name": "kub荐影┃新片","type": 3,"api": "csp_Qtv","searchable": 1,"quickSearch": 1,"changeable": 1},
 	{"key": "loca","name": "loca荐影┃新片","type": 3,"api": "csp_LocalFile","searchable": 1,"quickSearch": 1,"changeable": 1},
 	{"key": "meiju","name": "meiju荐影┃新片","type": 3,"api": "csp_MeijuMi","searchable": 1,"quickSearch": 1,"changeable": 1},
 	{"key": "Mtt","name": "BMtt荐影┃新片","type": 3,"api": "csp_MejuTT","searchable": 1,"quickSearch": 1,"changeable": 1},
 	{"key": "MGTV","name": "MGTV荐影┃新片","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"changeable": 1},
-	{"key": "mp4Mov","name": "mp4荐影┃新片","type": 3,"api": "csp_Mp4Mov","searchable": 0,"quickSearch": 0,"changeable": 0},
-	{"key": "New6v","name": "6v荐影┃新片","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"changeable": 1},
+	{"key": "mp4Mov","name": "mp4荐影┃新片","type": 3,"api": "csp_SP33","searchable": 0,"quickSearch": 0,"changeable": 0},
+	{"key": "New6v","name": "6v荐影┃新片","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 1},
 	{"key": "Proxy","name": "Pro荐影┃新片","type": 3,"api": "csp_proxy","searchable": 1,"quickSearch": 1,"changeable": 1},
 	{"key": "pus","name": "pus荐影┃新片","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"changeable": 1},
 	{"key": "Seed","name": "Seed荐影┃新片","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -139,7 +139,7 @@
 
 
 
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DM1.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/hypy.jar",
 
 
 
