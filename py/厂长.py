@@ -39,7 +39,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         return result
 
     def homeVideoContent(self):
-        url = "https://czspp.com"
+        url = "https://www.cz233.com/"
         header = {
             "Connection": "keep-alive",
             "Referer": url,
@@ -69,7 +69,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def getCookie(self,url):
         header = {
-            "Referer": 'https://www.czzy77.com/',
+            "Referer": 'https://www.cz233.com/',
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
         }
         session = requests.session()
@@ -86,11 +86,11 @@ class Spider(Spider):  # 元类 默认的元类 type
                 b = ord(a)
                 c = c + str(b)
             value = hashlib.md5(c.encode()).hexdigest()
-            session.get('https://www.czzy77.com/a20be899_96a6_40b2_88ba_32f1f75f1552_yanzheng_ip.php?type=96c4e20a0e951f471d32dae103e83881&key={0}&value={1}'.format(key, value), headers=header)
+            session.get('https://www.cz233.com/a20be899_96a6_40b2_88ba_32f1f75f1552_yanzheng_ip.php?type=96c4e20a0e951f471d32dae103e83881&key={0}&value={1}'.format(key, value), headers=header)
             return session.get(url, headers=header)
         elif '检测中' in rsp.text:
             append = self.regStr(rsp.text, 'href =\"(/.*?)\"')
-            session.get('https://www.czzy77.com{0}'.format(append), headers=header)
+            session.get('https://www.cz233.com{0}'.format(append), headers=header)
             return session.get(url, headers=header)
         else:
             return rsp
@@ -99,7 +99,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def categoryContent(self, tid, pg, filter, extend):
         result = {}
-        url = 'https://www.czzy77.com/{0}/page/{1}'.format(tid,pg)
+        url = 'https://www.cz233.com/{0}/page/{1}'.format(tid,pg)
         rsp = self.getCookie(url)
         root = self.html(self.cleanText(rsp.text))
         aList = root.xpath("//div[contains(@class,'bt_img mi_ne_kd mrb')]/ul/li")
@@ -128,7 +128,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def detailContent(self, array):
         tid = array[0]
-        url = 'https://www.czzy77.com/movie/{0}.html'.format(tid)
+        url = 'https://www.cz233.com/movie/{0}.html'.format(tid)
         rsp = self.getCookie(url)
         root = self.html(self.cleanText(rsp.text))
         node = root.xpath("//div[@class='dyxingq']")[0]
@@ -199,7 +199,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         return result
 
     def searchContent(self, key, quick):
-        url = 'https://www.czzy77.com/xssearch?q={0}'.format(urllib.parse.quote(key))
+        url = 'https://www.cz233.com/xssearch?q={0}'.format(urllib.parse.quote(key))
         rsp = self.getCookie(url)
         root = self.html(self.cleanText(rsp.text))
         vodList = root.xpath("//div[contains(@class,'mi_ne_kd')]/ul/li/a")
@@ -229,7 +229,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         "filter": {}
     }
     header = {
-        "Referer": "https://www.czzy77.com/",
+        "Referer": "https://www.cz233.com/",
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
     }
     def parseCBC(self, enc, key, iv):
@@ -242,7 +242,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def playerContent(self, flag, id, vipFlags):
         result = {}
-        url = 'https://www.czzy77.com/v_play/{0}.html'.format(id)
+        url = 'https://www.cz233.com/v_play/{0}.html'.format(id)
         rsp = self.getCookie(url)
         pat = '\\"([^\\"]+)\\";var [\\d\\w]+=function dncry.*md5.enc.Utf8.parse\\(\\"([\\d\\w]+)\\".*md5.enc.Utf8.parse\\(([\\d]+)\\)'
         html = rsp.text
