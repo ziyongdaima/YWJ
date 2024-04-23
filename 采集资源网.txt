@@ -1,8 +1,5 @@
 #官方解析
-6U资源,http://www.6uzy.cc/inc/apijson_vod.php
-天堂资源,http://vipmv.cc/api.php/provide/vod/
-诺讯资源,http://caiji.nxflv.com/api.php/provide/vod/
-小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/
+
 忆梦资源,http://anltv.cn/api.php/provide/vod/
 时光影视,https://www.shigys.com/api.php/provide/vod/at/xml
 ikun,https://ikunzyapi.com/api.php/provide/vod/at/xml
