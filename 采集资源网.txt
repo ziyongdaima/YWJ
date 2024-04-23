@@ -1,11 +1,9 @@
 #官方解析
 
 忆梦资源,http://anltv.cn/api.php/provide/vod/
-时光影视,https://www.shigys.com/api.php/provide/vod/at/xml
-ikun,https://ikunzyapi.com/api.php/provide/vod/at/xml
-天猫,https://www.tianmaozy.com/api.php/provide/vod/at/xml/
-umao,http://umao.ml/api.php/provide/vod/at/xml
-#
+
+ikun,https://ikunzyapi.com/api.php/provide/vod/
+
 #切片资源
 索尼资源,https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/
 非凡,http://cj.ffzyapi.com/api.php/provide/vod/at/xml/
