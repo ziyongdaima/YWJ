@@ -21,7 +21,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         result = {}
         cateManual = {
             
-            "电视剧": "dsj",
+          
             "国产剧": "gcj",
             "美剧": "meijutt",
             "韩剧": "hanjutv",
