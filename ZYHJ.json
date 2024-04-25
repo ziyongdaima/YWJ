@@ -10,74 +10,42 @@
 	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/douban.js"},
 
  
+    
      {
-      "key": "量子资源",
-      "name": "量子💜资源",
-      "type": 1,
-      "api": "http://www.6uzy.cc/inc/apijson_vod.php",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "playurl": "https://lziplayer.com/?url=",
-      "categories": [
-        "短剧",
-        "动作片",
-        "科幻片",
-        "恐怖片",
-        "国产动漫",
-        "国产剧",
-        "韩剧",
-        "大陆综艺"
-      ]
+      "key": "csp_虎牙网",
+      "name": " 玩偶🐯直播",
+       "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      
+      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/xdy/玩偶哥哥XYQHikerAL.json",
+	     "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/tvbox/token.txt"
+	     
+    },
+  {
+      "key": "csp_白嫖",
+      "name": " 爆破🐯直播",
+       "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+       
+      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/白嫖影视.json"
     },
 
-
- {
-      "key": "快看资源",
-      "name": "快看💜资源",
-      "type": 1,
-      "api": "http://vipmv.cc/api.php/provide/vod/ ",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "playurl": "https://kkzyplayer.com/player/?url=",
-      "categories": [
-        "热门短剧",
-        "网络电影",
-        "动作片",
-        "科幻片",
-        "喜剧片",
-        "国产动漫",
-        "国产剧",
-        "港台剧",
-        "韩国剧",
-        "国产综艺"
-      ]
-    },
-
- {
-      "key": "虎牙资源",
-      "name": "虎牙💜资源",
-      "type": 1,
-      "api": "http://caiji.nxflv.com/api.php/provide/vod/",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "playurl": "https://huyajx.com/play/?url=",
-      "categories": [
-        "短剧",
-        "动作片",
-        "科幻片",
-        "喜剧片",
-        "中国动漫",
-        "内地剧",
-        "香港剧",
-        "韩剧",
-        "综艺"
-      ]
+  {
+      "key": "py_DY",
+      "name": "alist🐟直播",
+      "type": 3,
+      "api": "py_alist",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/alist.py"
+     
     },
 
 
