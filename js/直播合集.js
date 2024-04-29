@@ -135,7 +135,7 @@ var rule = {
                 })
             }
         });
-        VOD.vod_play_from = "🐼肥猫画质";
+        VOD.vod_play_from = "播放线路";
         VOD.vod_play_url = d.map(function(it) {
             // return it.title + "$" + it.url
             return it.title + "$" + play_url + urlencode(it.url + "|" + jo.platForm + "|" + jo.roomId)
