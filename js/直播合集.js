@@ -5,8 +5,8 @@ var rule = {
     // homeUrl: '/api/live/getRecommend?page=1&size=20',//网站的首页链接,用于分类获取和推荐获取
     homeUrl: '/api/live/getRecommendByPlatformArea?platform=bilibili&area=舞见&page=1&size=20',//网站的首页链接,用于分类获取和推荐获取
     url: '/api/live/getRecommendByPlatformArea?platform=fyclass&area=fyfilter&page=fypage&size=20', //网站的分类页面链接
-    class_name: '斗鱼&虎牙&哔哩&网易&抖音',
-    class_url: 'douyu&huya&bilibili&cc&douyin',
+    class_name: '斗鱼&虎牙&网易',
+    class_url: 'douyu&huya&cc',
     filterable: 1,
     filter_url: '{{fl.area}}',
     filter: {
@@ -19,9 +19,9 @@ var rule = {
     filter_def:{
         douyu:{area:'原创IP'},
         huya:{area:'一起看'},
-        bilibili:{area:'电子榨菜'},
-        cc:{area:'星秀'},
-        douyin:{area:'全部'}
+      
+        cc:{area:'星秀'}
+       
     },
     // detailUrl: '/index/liveRoom?platform=fyclass&roomId=fyid',
     // detailUrl: '/api/live/getRoomInfo?uid=&platform=fyclass&roomId=fyid',
@@ -110,8 +110,8 @@ var rule = {
             vod_id: jo.roomId,
             vod_name: jo.roomName,
             vod_pic: jo.roomPic,
-            type_name: jo.platForm.replace("huya", "虎牙").replace("douyu", "斗鱼").replace("cc", "网易CC").replace("bilibili", "哔哩哔哩").replace("douyin", "抖音") + "." + jo.categoryName,
-            vod_content: "🏷分区：" + jo.platForm.replace("huya", "虎牙").replace("douyu", "斗鱼").replace("cc", "网易CC").replace("bilibili", "哔哩哔哩").replace("douyin", "抖音") + "·" + jo.categoryName + " 🏷UP主：" + jo.ownerName + " 🏷人气：" + jo.online + (jo.isLive === 1 ? " 🏷状态：正在直播" : "状态：未开播")
+            type_name: jo.platForm.replace("huya", "虎牙").replace("douyu", "斗鱼").replace("cc", "网易CC") + "." + jo.categoryName,
+            vod_content: "🏷分区：" + jo.platForm.replace("huya", "虎牙").replace("douyu", "斗鱼").replace("cc", "网易CC") + "·" + jo.categoryName + " 🏷UP主：" + jo.ownerName + " 🏷人气：" + jo.online + (jo.isLive === 1 ? " 🏷状态：正在直播" : "状态：未开播")
         };
         var playurl = JSON.parse(request("http://live.yj1211.work/api/live/getRealUrl?platform=" + jo.platForm + "&roomId=" + jo.roomId)).data;
         var name = {
