@@ -9,10 +9,16 @@
 	"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
 	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/douban.js"},
 
- "name": "love直播",
-	"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
-	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/直播合集.js"
-	},
+  {
+      "key": "csp_aiqiyi",
+      "name": "直播  🍄  追剧",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/直播合集.js"
+    },
 
     
      {
