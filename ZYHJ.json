@@ -187,22 +187,22 @@
 
   {
       "key": "极速资源",
-      "name": "极速💜资源",
+      "name": "最大💜资源",
       "type": 1,
-      "api": "http://umao.ml/api.php/provide/vod/ ",
+      "api": "https://api.zuidapi.com/api.php/provide/vod/ ",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "playurl": "https://jsjiexi.com/play/?url=",
+      
       "categories": [
        
-        "短剧",
+        "爽文短剧",
         "动作片",
         "科幻片",
         "喜剧片",
-        "中国动漫",
-        "内地剧",
+        "国产动漫",
+        "国产剧",
         "香港剧",
         "韩剧",
         "大陆综艺"
