@@ -46,6 +46,18 @@
       "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/白嫖影视.json"
     },
 
+	 {
+      "key": "csp_厂长",
+      "name": " 厂长🐯直播",
+       "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+       
+      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/厂长.py"
+    },
+
   {
       "key": "py_DY",
       "name": "alist🐟直播",
