@@ -1,0 +1,500 @@
+{
+  "spider": "./DMpy.jar;md5;c435869db6a928f45df09b736d81f02f",
+  "wallpaper":"" ,
+  "sites": [
+  
+      
+        {
+      "key": "美少女",
+      "name": "少女🍓影视",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "meowtv_115",
+      "name": "115🍓资源",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "",
+        "categories": [
+        "无码专区",
+        "麻豆传媒",
+        "AI换脸",
+        "美女主播",
+        "国产自拍",
+        "抖音视频",
+        "网红头条",
+        "韩国主播",
+        "网曝黑料"
+      ]
+    },
+
+     {
+      "key": "meowtv_md",
+      "name": "麻豆🍓资源",
+      "type": 1,
+      "api": "https://c.mdvod.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "",
+        "categories": [
+        "偷拍自拍",
+        "字幕女忧",
+        "国产AV",
+        "吃瓜黑料",
+        "网红福利姬",
+        "91视频",
+        "删除"
+      ]
+    },
+
+     {
+      "key": "meowtv_jikun",
+      "name": "姬坤🍓资源",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "",
+        "categories": [
+        "日本无码",
+        "cosplay",
+        "SWAG",
+        "网红主播",
+        "自拍偷拍",
+        "探花系列",
+        "国产传媒",
+        "素人搭讪",
+        "门事件"
+      ]
+    },
+      
+       {
+        "key": "橘猫🍓资源",
+        "name": "橘猫资源",
+        "api": "https://to.to-long.com/api.php/provide/vod/",
+        "download": "",
+        "jiexiUrl": "",
+        "group": "影视",
+        "status": true,
+        "isActive": true,
+        "type": 1,
+        "id": 90
+      },
+ {
+      "key": "meowtv_nxx",
+      "name": "奶香香🍓资源",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "",
+        "categories": [
+        "国产自拍",
+        "偷拍偷窥",
+        "网爆吃瓜",
+        "主播诱惑",
+        "传媒剧情",
+        "探花约炮",
+        "日韩主播",
+        "日韩无码",
+        "换脸明星"
+      ]
+    },
+        {
+      "key": "meowtv_ask",
+      "name": "奥斯卡🍓资源",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "",
+        "categories": [
+        "国产视频",
+        "国产传媒",
+        "国产主播",
+        "明星换脸",
+        "抖音视频",
+        "网曝黑料",
+        "极品媚黑",
+        "网红头条",
+        "韩国主播"
+      ]
+    },
+      
+       
+
+      {
+      "key": "老鸭",
+      "name": "老鸭🍓影视",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "",
+        "categories": [
+        "国产色情",
+        "国产主播",
+        "自拍偷拍",
+        "AI换脸",
+        "国产传媒",
+        "网红黑料",
+        "学生系列",
+        "极品少妇",
+        "日本无码"
+      ]
+    },
+   
+     {
+      "key": "乐播",
+      "name": "乐播🍓福利",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+       "categories": [
+        "国产自拍",
+        "国产主播",
+        "无码专区",
+        "制服诱惑",
+        "少女萝莉",
+        "人兽性交",
+        "无码专区",
+        "欧美性爱"
+      
+      ]
+    },
+     
+     
+     
+     {
+      "key": "csp_直播",
+      "name": "福利🍓直播",
+      "type": 3,
+      "api": "./lib/直播转点播.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/直播转点播.txt"
+    },
+   
+     {
+      "key": "*白资源",
+      "name": "白云🍓资源",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+       {
+      "key": "*水资源",
+      "name": "水滴🍓资源",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     
+       {
+      "key": "gdlsp.com",
+      "name": "香儿🍓资源",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    }
+  ],
+  "parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "神秘的哥哥们",
+      "type": 1,
+      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+
+     {
+      "name": "Meow",
+      "type": 1,
+      "url": "http://jx.meowtv.cn/?url="
+    },
+    {
+      "name": "一线",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+      "name": "二线",
+      "type": 1,
+      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
+    },
+    {
+      "name": "极速",
+      "type": 1,
+      "url": "https://jx.2s0.cn/player/?url="
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "免费分享",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "hwk",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "10.0099",
+        "10.3333",
+        "16.0599",
+        "8.1748",
+        "10.85"
+      ]
+    },
+    {
+      "name": "yqk",
+      "hosts": [
+        "yqk88"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "15.1666",
+        "15.2666"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz1",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "18.5333"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "25.0666"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "name": "sao0",
+      "type": 0,
+      "url": "",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "ipv6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
