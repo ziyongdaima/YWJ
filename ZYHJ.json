@@ -54,7 +54,19 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/py_douyu.py"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/py_白嫖.py"
+     
+    },
+
+	{
+      "key": "py_bp",
+      "name": "baipiao🐟直播",
+      "type": 3,
+      "api": "py_alist",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/py_douy.py"
      
     },
 
