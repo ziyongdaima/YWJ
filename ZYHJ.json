@@ -21,29 +21,19 @@
     },
 
     
-     {
-      "key": "csp_虎牙网",
-      "name": " 玩偶🐯直播",
-       "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/tvbox/token.txt",
-      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/xdy/玩偶哥哥XYQHikerAL.json"
-	     
+   https://m.gdtv.cn/tvChannelDetail/44
 	     
     },
   {
       "key": "csp_白嫖",
       "name": " 爆破🐯直播",
        "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_BIBI",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
        
-      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/白嫖影视.json"
+      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18hai/live.json"
     },
 
 	 {
