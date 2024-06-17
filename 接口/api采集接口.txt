@@ -1,0 +1,63 @@
+多线采集
+极客：https://www.jkdy.cc/api.php/provide/vod/
+映迷：https://www.inmi.app/api.php/provide/vod/
+秒播：https://www.nvxvn.com/api.php/provide/vod/
+追风：http://www.zfsp.cc/api.php/provide/vod/
+小宝：http://www.xiaobao168.com/api.php/provide/vod/
+金蝉：https://www.jcys.bf/api.php/provide/vod/
+剧狗：https://www.youmuz.cn/api.php/provide/vod/
+BILFUN：https://www.bilfun.cc/api.php/provide/vod/
+阿里：https://alivod.com/api.php/provide/vod/
+天堂：http://www.qoordgc.com/api.php/provide/vod/
+无忧：https://www.wyvod.com/api.php/provide/vod/
+次萌：https://www.ecmys.com/api.php/provide/vod/
+柠檬：https://www.nmnm.cc/api.php/provide/vod/
+38：https://vod38.com/api.php/provide/vod/
+51：http://www.51zhuiju.cc/api.php/provide/vod/
+看剧：https://www.zhuijuju.net/api.php/provide/vod/
+一舟：http://www.mandao.site/api.php/provide/vod/
+嗨米：https://www.himi.cc/api.php/provide/vod/
+
+爱酷解析：http://caiji.ikum.cc:8099/api.php/provide/vod/
+
+单线采集
+优质：https://api.1080zyku.com/inc/ldg_api.php
+          https://vip.zykbf.com/?url=
+鸭鸭：https://yayazy2.com/api.php/provide/vod/
+          https://jx.yayazy.cc/m3u8/?url=
+牛牛：https://niuniuzy6.com/api.php/provide/vod/
+          https://jiexi.niuniuzy.org/m3u8/?url=
+木耳：https://heimuer.tv/api.php/provide/vod/
+          https://player.heimuer.tv/index.html?url=
+豪华：https://hhzyapi.com/api.php/provide/vod/?ac=list
+          https://hhjiexi.com/play/?url=
+闪电：https://shandianzy.com/api.php/provide/vod/
+          https://www.shankubf.com/m3u8/?url=
+U酷：https://api.ukuapi.com/api.php/provide/vod/?ac=list
+         https://api.ukubf.com/m3u8/?url=
+淘片：https://taopianapi.com/cjapi/mc/vod/json.html
+360：https://360zy.com/api.php/provide/vod
+         https://bofang.360jiexi.com/?url=
+最大：https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8
+          https://jx.zuidplay.com/m3u8Player/?url=
+IKUN：https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json
+           https://www.ikdmjx.com/?url=
+乐视：https://leshiapi.com/api.php/provide/vod/at/json/
+          https://leshivideoplayurl.com/?url=
+OK：https://okzyw9.com/api.php/provide/vod/
+        https://jiexi.okzyw.info/m3u8/?url=
+鱼乐：https://ylzy13.com/api.php/provide/vod/
+         https://jx.ylzy.me/dplayer/?url=
+
+
+
+魔都动漫：https://www.moduzy.cc/api.php/provide/vod/
+lili动漫：https://lililili.cc/api.php/provide/vod/
+欧派动漫：https://www.opacg.com/api.php/provide/vod/
+       
+
+
+          
+
+
+ 

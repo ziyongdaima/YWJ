@@ -1,0 +1,17 @@
+NETFIY：https://www.netfly.tv/api.php/app/
+鸭奈飞：https://yanetflix.me/api.php/app/
+追剧兔：https://www.zjtu.one/api.php/app/
+河狸：https://www.heli888.cc/api.php/app/
+小马：https://mas.szyyds.cn/api.php/app/
+老蟹：http://www.ajj001.top/api.php/app/
+柠檬：http://mf.songshu.cyou/api.php/app/
+星影：https://www.xingyiying.com/api.php/v1.vod
+爱迪：https://adys.tv/xgapp.php/v1/
+影库：https://xn--p3t583cbin.top/api.php/app/
+影馆：https://4kdyg.top/api.php/v1.vod
+银河：http://134.175.219.46/mogai_api.php/v1.vod
+美剧：https://www.69mj.com/xgapp.php/v2/
+大米：https://damifi.com/api.php/app/
+思古：https://siguyy.cn/api.php/app/
+零刻：https://ys.51bro.cn/mogai_api.php/v1.vod
+
