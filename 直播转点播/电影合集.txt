@@ -49,6 +49,8 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
 A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 飞鹰计划,https://vip.ffzy-play6.com/20221112/6252_a77ddc97/index.m3u8
 奇谋妙计五福星,https://vip.ffzy-play7.com/20221115/4730_a7515224/index.m3u8
+最佳损友,https://vip.ffzy-play7.com/20221115/4630_078a1b22/index.m3u8
+最佳损友闯情关,https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
 
 
 
@@ -198,9 +200,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 法内情,https://vip.ffzy-play6.com/20221128/8900_ee5eabf3/index.m3u8
 龙之家族,https://vip.ffzy-play6.com/20221116/7265_dd503587/index.m3u8
 哗！英雄,https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8
-最佳损友,https://vip.ffzy-play7.com/20221115/4630_078a1b22/index.m3u8
-最佳损友闯情关,https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
-江湖情,https://vip.ffzy-play7.com/20221115/4682_5ffb4872/index.m3u8
 江湖情,https://vip.ffzy-play7.com/20221115/4682_5ffb4872/index.m3u8
 群龙夺宝,https://vip.ffzy-play7.com/20221115/4561_89102ea4/index.m3u8
 肝胆相照,https://vip.ffzy-play7.com/20221115/4468_44f459bb/index.m3u8
@@ -251,7 +250,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 洪熙官,https://vip.ffzy-play7.com/20221223/9381_0fb84a1d/index.m3u8
 赞先生与找钱华,https://vip.ffzy-play6.com/20221207/10710_1642c7db/index.m3u8
 英雄无泪,https://vip.ffzy-play6.com/20221207/10694_f9088e66/index.m3u8
-让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 义不容辞,https://vip.ffzy-play7.com/20221208/8724_89db1c6d/index.m3u8
 秋天的童话,https://vip.ffzy-play6.com/20221130/9473_24b3f22f/index.m3u8
