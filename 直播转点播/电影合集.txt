@@ -42,8 +42,8 @@
 龙在天涯,https://cdn2.yzzy-tv-cdn.com/20220331/4882_d282e1a0/index.m3u8
 不二神探,https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
 功夫之王,https://cdn1.yzzy-tv-cdn.com/20220326/Fu3xA9TS/index.m3u8
-封神传奇,https://cdn1.yzzy-tv-cdn.com/20220326/ga3SHNAV/index.m3u8
-建国大业,https://cdn1.yzzy-tv-cdn.com/20220325/lWDJZBdb/index.m3u8
+
+
 警察故事,https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
