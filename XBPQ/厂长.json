@@ -4,7 +4,7 @@
     
     "站名":"厂长资源",
     
-    "主页url":"https://www.czys03.com/",
+    "主页url":"https://czzy.top/",
     
     "简介":"+<div class=\"yp_context\">&&</div>",
     
@@ -30,7 +30,7 @@
     
     "搜索模式":"1",
     
-    "搜索url":"https://search.ymck.me/index.php?q={wd}",
+    "搜索url":"https://czzy.top/index.php?q={wd}",
     
     "搜索数组":"<b>&&</b>[包含:厂长资源]",
     
@@ -54,7 +54,7 @@
     
     "播放链接":"href=\"&&\"",
     
-    "分类url":"https://www.czys03.com/{cateId}/{class}/{area}/page/{catePg};;m0",
+    "分类url":"https://czzy.top/{cateId}/{class}/{area}/page/{catePg};;m0",
     
     "分类":"全部&豆瓣电影Top250&高分影视&最新电影&热映中&站长推荐&电影&国产剧&电视剧&动画&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&欧美电影&法国电影&英国电影&韩国电影&纪录片",
     
