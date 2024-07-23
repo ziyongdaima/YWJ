@@ -114,8 +114,6 @@
 电视剧频道二,http://zby.xjqxz.top/dsdsj2/live.m3u8
 电视剧频道三,http://zby.xjqxz.top/gzdsj1/live.m3u8
 电视剧频道四,http://zby.xjqxz.top/gzdsj2/live.m3u8
-与凤行电视剧,http://159.75.85.63:35455/huya/26355866#http://cfss.cc/cdn/hy/26355866.m3u8
-开端电视轮播,http://159.75.85.63:35455/huya/11342397#http://cfss.cc/cdn/hy/11342397.m3u8
 
 电影解说,#genre#
 解说_电影狂人,http://cfss.cc/cdn/hy/18715610.flv
