@@ -75,7 +75,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         rsp = session.get(url)
         if '人机验证' in rsp.text:
             append = self.regStr(rsp.text, 'src=\"(/.*?)\"')
-            nurl = 'https://www.czzy77.com' + append
+            nurl = 'https://czzy.top/' + append
             nrsp = session.get(nurl, headers=header)
             key = self.regStr(nrsp.text, 'var key=\"(.*?)\"')
             avalue = self.regStr(nrsp.text, 'value=\"(.*?)\"')
@@ -89,7 +89,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             return session.get(url, headers=header)
         elif '检测中' in rsp.text:
             append = self.regStr(rsp.text, 'href =\"(/.*?)\"')
-            session.get('https://www.cz233.com{0}'.format(append), headers=header)
+            session.get('https://czzy.top/{0}'.format(append), headers=header)
             return session.get(url, headers=header)
         else:
             return rsp
