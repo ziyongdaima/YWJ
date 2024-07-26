@@ -56,9 +56,9 @@
     
     "分类url":"http://www.czys.pro/{cateId}/{class}/{area}/page/{catePg};;m0",
     
-    "分类":"全部&高分影视&最新电影&热映中&电影&国产剧&电视剧&动画&日剧&韩剧&美剧&华语电影&日本电影&欧美电影&韩国电影",
+    "分类":"全部&高分影视&最新电影&电影&国产剧&电视剧&动画&日剧&韩剧&美剧&华语电影&日本电影&欧美电影&韩国电影",
     
-    "分类值":"movie_bt&gaofenyingshi&zuixindianying&reyingzhong&movie_bt_series/dyy&movie_bt_series/guochanju&movie_bt_series/dianshiju&movie_bt_series/dohua&movie_bt_series/rj&movie_bt_series/hj&movie_bt_series/mj&movie_bt_series/huayudianying&movie_bt_series/ribendianying&movie_bt_series/meiguodianying&movie_bt_series/hanguodianying",
+    "分类值":"movie_bt&gaofenyingshi&zuixindianying&movie_bt_series/dyy&movie_bt_series/guochanju&movie_bt_series/dianshiju&movie_bt_series/dohua&movie_bt_series/rj&movie_bt_series/hj&movie_bt_series/mj&movie_bt_series/huayudianying&movie_bt_series/ribendianying&movie_bt_series/meiguodianying&movie_bt_series/hanguodianying",
     
     "筛选":{
     "movie_bt":[
