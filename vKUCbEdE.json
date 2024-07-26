@@ -13,7 +13,7 @@
       "name": "🦊量子资源",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -28,6 +28,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,    
       "filterable": 1,
       "ext": "./lib/奇艺视频.js"
     },
@@ -38,6 +39,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1,
       "ext": "./lib/you酷视频.js"
     },
@@ -48,6 +50,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,	    
       "filterable": 1,
       "ext": "./lib/tengxun.js"
     },
@@ -58,6 +61,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,	    
       "filterable": 1,
       "ext": "./lib/芒果视频.js"
     },
@@ -87,6 +91,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,	    
       "filterable": 1,
       "ext": "./lib/caigou.js"
     },
@@ -112,6 +117,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1,
       "ext": "./lib/厂长.json"
     },
@@ -174,7 +180,7 @@
       "name": "🎬优质资源",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "changeable": 1,
       "playurl": "http://43.248.129.14:20240/?url=",
@@ -193,7 +199,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playurl": "http://43.248.129.14:20240/?url= ",
-      "playerType": 1,
+      "playerType": 2,
       "categories": ["动作片","喜剧片","科幻片","战争片","国产剧","香港剧",
         "韩国剧","台湾剧","国产动漫","日韩动漫","港台动漫","大陆综艺","港台综艺"]
     },
@@ -204,6 +210,7 @@
       "api": "./lib/直播转点播.js",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,	    
       "filterable": 1,
       "ext": "./lib/直播转点播.txt"
     },
@@ -214,6 +221,7 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1,
       "categories": ["短剧","动作片","喜剧片","科幻片","恐怖片",
         "国产剧","香港剧","国产动漫","大陆综艺","港台综艺"]
@@ -225,6 +233,7 @@
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1,
       "ext": "./lib/农民影视.json"
     },
@@ -238,6 +247,7 @@
       "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
       "filterable": 1,
       "searchable": 1,
+      "playerType": 2,
       "quickSearch": 1,
       "categories": ["电影","剧集","综艺","动漫"]
       }
