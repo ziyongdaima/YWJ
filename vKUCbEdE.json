@@ -109,18 +109,7 @@
       "ext": "./lib/pyhuya.py"
     },
    
-   
-    {
-      "key": "py_影视",
-      "name": "📡厂长影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "./lib/厂长.json"
-    },
+  
     {
       "key": "csp_Bili资源",
       "name": "🐼哔哩资源",
@@ -158,7 +147,7 @@
      
        {
       "key": "秒播短剧",
-      "name": "👌秒播短剧",
+      "name": "📡秒播短剧",
       "type": 3,
       "api": "csp_Wexduanjuvip",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -190,30 +179,7 @@
     },
 
   
-    {
-      "key": "zy_暴风",
-      "name": "🌿暴风资源",
-     "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "http://43.248.129.14:20240/?url= ",
-      "playerType": 2,
-      "categories": ["动作片","喜剧片","科幻片","战争片","国产剧","香港剧",
-        "韩国剧","台湾剧","国产动漫","日韩动漫","港台动漫","大陆综艺","港台综艺"]
-    },
-    {
-      "key": "直播资源",
-      "name": "🍎直转点播",
-      "type": 3,
-      "api": "./lib/直播转点播.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,	    
-      "filterable": 1,
-      "ext": "./lib/直播转点播.txt"
-    },
+   
     {
       "key": "meowtv_ffzy",
       "name": "🍒非凡资源",
