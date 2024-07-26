@@ -107,13 +107,13 @@
    
     {
       "key": "py_影视",
-      "name": "📡骚火影视",
+      "name": "📡厂长影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/骚火.json"
+      "ext": "./lib/厂长.json"
     },
     {
       "key": "csp_Bili资源",
