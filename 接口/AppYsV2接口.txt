@@ -15,3 +15,4 @@ NETFIY：https://www.netfly.tv/api.php/app/
 思古：https://siguyy.cn/api.php/app/
 零刻：https://ys.51bro.cn/mogai_api.php/v1.vod
 
+极狐：https://www.kuin.one/api.php/app/
