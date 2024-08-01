@@ -68,7 +68,7 @@
 
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥",
+      "name": "👽玩偶影视",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -79,21 +79,21 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.link/",
+        "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
     },
    
     {
-      "key": "csp_sougou",
-      "name": "♻️搜狗追剧",
+      "key": "csp_jingpai",
+      "name": "♻️金牌追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "csp_Jpys",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 2,	    
-      "filterable": 1,
-      "ext": "./lib/caigou.js"
+      "jar": "./lib/fan.txt",	
+      "changeable": 1
     },
      
    
