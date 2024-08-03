@@ -137,12 +137,13 @@
     {
       "key": "星芽短剧",
       "name": "🎋星芽短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "jar": "http://www.wya6.cn/tz/wyog.php",
+       "type": 3,
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "playerType": 2,	    
+      "filterable": 1,
+      "ext": "./lib/星芽.js"
     },
      
        {
