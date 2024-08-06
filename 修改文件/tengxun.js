@@ -20,8 +20,8 @@ var rule = {
     timeout:5000,
     // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
     cate_exclude:'会员|游戏|全部',
-    class_name:'精选&电视剧&电影&综艺&动漫&少儿&纪录片&短剧',
-    class_url:'choice&tv&movie&variety&cartoon&child&doco&mini_drama',
+    class_name:'电视剧&电影&综艺&动漫&少儿&纪录片',
+    class_url:'tv&movie&variety&cartoon&child&doco',
     limit:20,
     // play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
