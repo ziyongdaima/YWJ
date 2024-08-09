@@ -4,7 +4,7 @@ var rule = {
 	title:'大师兄影视',
 	模板:'mxpro',
 	// host:'https://dsxys.com',
-	host:'https://dsxys.pro',
+	host:'https://dsx888.com/',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vodshow/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
