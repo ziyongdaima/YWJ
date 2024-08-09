@@ -18,7 +18,7 @@
       "name": "🍁爱奇艺追剧js",
       "type": 3,
       "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/奇异视频.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/奇艺视频.js"
     },
      {
       "key": "csp_优酷",
@@ -94,7 +94,7 @@
       "key": "csp_chchang",
       "name": "🍁changzhan2js",
       "type": 3,
-      "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/厂长资源.js"
     },
 	{
@@ -132,20 +132,8 @@
       "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/奇米动漫.js"
     },
-	{
-      "key": "csp_xbcx",
-      "name": "🍁小白菜电影js",
-      "type": 3,
-      "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/小白菜电影.js"
-    },
-	{
-      "key": "csp_ysj",
-      "name": "🍁异世界动漫js",
-      "type": 3,
-      "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/异世界动漫.js"
-    },
+	
+	
 	{
       "key": "csp_yxdm",
       "name": "🍁怡萱动漫js",
@@ -165,7 +153,7 @@
       "name": "🍁星芽js",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/lib/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/星芽.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/星芽短剧.js"
     },
 	{
       "key": "csp_atm",
@@ -207,13 +195,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/酷云77.js"
     },
-	{
-      "key": "csp_xysh",
-      "name": "🍁骚火js",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/lib/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/骚火.js"
-    },
+	
 	
 
 
