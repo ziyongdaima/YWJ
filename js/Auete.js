@@ -6,7 +6,7 @@
 var rule = {
 	title: 'Auete',
 	// host:'https://haozhansou.com',
-	host: 'https://auete.site',
+	host: 'https://auete.pro/',
 	hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src = jsp.pdfh(html,"ul&&li&&a&&href");print(src);HOST=src',//网页域名根动态抓取js代码。通过HOST=赋值
 	// url:'/fyclassfyfilter/indexfypage.html[/fyclassfyfilter/index.html]',
 	url: '/fyclassfyfilter/indexfypage.html[/fyclassfyfilter/index.html]',
