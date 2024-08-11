@@ -14,5 +14,5 @@ NETFIY：https://www.netfly.tv/api.php/app/
 大米：https://damifi.com/api.php/app/
 思古：https://siguyy.cn/api.php/app/
 零刻：https://ys.51bro.cn/mogai_api.php/v1.vod
-
+酷影：https://www.tvkuys.xyz/api.php/app/
 极狐：https://www.kuin.one/api.php/app/
