@@ -183,10 +183,10 @@
     },
 	{
       "key": "csp_hyzzb",
-      "name": "🍁虎牙直播js",
+      "name": "🍁Auetejs",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/lib/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/虎牙直播.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/Auete.js"
     },
 	{
       "key": "csp_xy77",
