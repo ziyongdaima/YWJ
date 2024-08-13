@@ -170,10 +170,10 @@
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/直播合集.js"
     },{
       "key": "csp_xyzh",
-      "name": "🍁直播综合js",
+      "name": "🍁hy2js",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/lib/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/直播综合.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/修改文件/huya2.js"
     },{
       "key": "csp_djtt",
       "name": "🍁短剧天堂js",
