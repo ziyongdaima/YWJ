@@ -205,7 +205,29 @@
       "ext": "./lib/农民影视.json"
     },
    
-
+ {
+      "key": "酷影",
+      "name": "🥥酷影┃4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:3366/api.php/app/"
+    },
+    {
+      "key": "君君",
+      "name": "🚗君君┃4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:1000/api.php/app/"
+    },
+	  
       {
       "key": "csp_蚂蚁",
       "name": "🐭蚂蚁无广",
