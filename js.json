@@ -17,7 +17,7 @@
       "key": "csp_aiqiyi",
       "name": "🍁爱奇艺追剧js",
       "type": 3,
-      "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
+      "api": "./drpy_lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/奇艺视频.js"
     },
      {
