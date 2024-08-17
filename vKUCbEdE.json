@@ -90,6 +90,18 @@
       "playerType": "2",
       "api": "./lib/南瓜.js"
     }, 
+
+    {
+      "key": "csp_zbhj",
+      "name": "🎬直播合集",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"./lib/直播合集.js"
+    },
+	  
   
     {
       "key": "csp_Bili资源",
@@ -154,7 +166,7 @@
     
     {
       "key": "优质资源",
-      "name": "🎬优质资源",
+      "name": "🎼优质资源",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "playerType": 2,
@@ -204,18 +216,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://122.228.85.203:1000/api.php/app/"
-    },
+    }
 	  
     
-    {
-      "key": "csp_Kuaikan",
-      "name": "🐭快看影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }
+  
 
       
  
