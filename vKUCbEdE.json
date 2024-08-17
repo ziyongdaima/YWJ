@@ -8,19 +8,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
     },
-    {
-      "key": "量子资源",
-      "name": "🦊量子资源",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
-      "playerType": 2,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "playurl": "http://43.248.129.14:20240/?url=",
-      "categories": ["短剧","动作片","科幻片","恐怖片","国产动漫",
-        "国产剧","韩剧","大陆综艺"]
-    },
+  
     {
       "key": "csp_aiqiyi",
       "name": "🍄爱奇异视频",
@@ -66,23 +54,7 @@
       "ext": "./lib/芒果视频.js"
     },
 
-    {
-      "key": "玩偶",
-      "name": "👽玩偶影视",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "jar": "./lib/fan.txt",
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-    },
+  
    
     {
       "key": "csp_jingpai",
@@ -96,19 +68,28 @@
       "changeable": 1
     },
      
-   
-    
-    {
-      "key": "py_huya",
-      "name": "🐯虎牙直播",
+     {
+      "key": "csp_XYQHiker_民影视",
+      "name": "🧑🏻‍农‍民影视",
       "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1,
-      "ext": "./lib/pyhuya.py"
+      "ext": "./lib/农民影视.json"
     },
    
+    
+
+
+     {
+      "key": "nangua",
+      "name": "🎃南瓜影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/南瓜.js"
+    }, 
   
     {
       "key": "csp_Bili资源",
@@ -146,7 +127,7 @@
       "ext": "./lib/星芽.js"
     },
      
-       {
+    {
       "key": "秒播短剧",
       "name": "📡秒播短剧",
       "type": 3,
@@ -158,12 +139,18 @@
     },
     
      {
-      "key": "nangua",
-      "name": "🎃南瓜影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "./lib/南瓜.js"
-    }, 
+      "key": "量子资源",
+      "name": "🦊量子资源",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+      "playerType": 2,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playurl": "http://43.248.129.14:20240/?url=",
+      "categories": ["短剧","动作片","科幻片","恐怖片","国产动漫",
+        "国产剧","韩剧","大陆综艺"]
+    },
     
     {
       "key": "优质资源",
@@ -179,7 +166,19 @@
         "国产剧","香港剧","韩国剧","大陆综艺","港台综艺"]
     },
 
-  
+   {
+      "key": "木耳",
+      "name": "📚木耳资源",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "https://player.heimuer.tv/index.html?url=",
+      "filterable": 1,
+      "playerType": 2,
+      "categories": ["动作片","喜剧片","科幻片","恐怖片","国产动漫",
+        "国产剧","国产综艺"]
+    },	 
    
     {
       "key": "meowtv_ffzy",
@@ -193,29 +192,8 @@
       "categories": ["短剧","动作片","喜剧片","科幻片","恐怖片",
         "国产剧","香港剧","国产动漫","大陆综艺","港台综艺"]
     },
-    {
-      "key": "csp_XYQHiker_民影视",
-      "name": "🧑🏻‍农‍民影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "./lib/农民影视.json"
-    },
-   
- {
-      "key": "酷影",
-      "name": "🥥酷影┃4K",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.85.203:3366/api.php/app/"
-    },
+  
+
     {
       "key": "君君",
       "name": "🚗君君┃4K",
@@ -228,18 +206,16 @@
       "ext": "http://122.228.85.203:1000/api.php/app/"
     },
 	  
-      {
-      "key": "csp_蚂蚁",
-      "name": "🐭蚂蚁无广",
-      "type": 1,
-      "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
-      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
-      "filterable": 1,
+    
+    {
+      "key": "csp_Kuaikan",
+      "name": "🐭快看影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
       "searchable": 1,
-      "playerType": 2,
       "quickSearch": 1,
-      "categories": ["电影","剧集","综艺","动漫"]
-      }
+      "filterable": 1
+    }
 
       
  
