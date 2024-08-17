@@ -181,13 +181,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/短剧天堂.js"
     },
-	{
-      "key": "csp_hyzzb",
-      "name": "🍁Auetejs",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/lib/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/Auete.js"
-    },
+	
 	{
       "key": "csp_xy77",
       "name": "🍁酷云77js",
