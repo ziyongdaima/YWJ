@@ -93,13 +93,13 @@
 
     {
       "key": "csp_zbhj",
-      "name": "🎬直播合集",
+      "name": "🐯虎牙直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"./lib/直播合集.js"
+      "ext":"./lib/虎牙直播.js"
     },
 	  
   
@@ -166,7 +166,7 @@
     
     {
       "key": "优质资源",
-      "name": "🎼优质资源",
+      "name": "🎬优质资源",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "playerType": 2,
@@ -208,7 +208,7 @@
 
     {
       "key": "君君",
-      "name": "🚗君君┃4K",
+      "name": "⏮️ 君君4K",
       "playerType": 1,
       "type": 3,
       "api": "csp_AppYsV2",
