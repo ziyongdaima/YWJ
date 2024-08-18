@@ -131,41 +131,8 @@ var rule = {
                     url: playurl[key]
                 })
             }
-          });
-                d.push(
-                    {
-                        title: "虎牙解析",
-                        url: "http://cfss.cc/cdn/hy/" + jo.roomId + ".flv"
-                    },
-                    {
-                        title: "解析1",
-                        url: "http://epg.112114.xyz/huya/" + jo.roomId
-                    },
-                    {
-                        title: "解析2",
-                        url: "https://www.aois.eu.org/live/huya/" + jo.roomId
-                    },
-                    {
-                        title: "解析3",
-                        url: "https://www.goodiptv.club/huya/" + jo.roomId
-                    },
-                    // {
-                    //     title: "解析4",
-                    //     url: "http://maomao.kandiantv.cn/huya1.php?id=" + jo.roomId
-                    // },
-                    {
-                        title: "解析5",
-                        url: "http://43.138.170.29:35455/huya/" + jo.roomId
-                    },
-                    {
-                        title: "解析6",
-                        url: "http://8.210.232.168/php/huya.php?id=" + jo.roomId
-                    },
-                    {
-                        title: "原址嗅探",
-                        url: "https://m.huya.com/" + jo.roomId
-                    },
-        );
+         
+       });
         VOD.vod_play_from = "播放线路";
         VOD.vod_play_url = d.map(function(it) {
             // return it.title + "$" + it.url
