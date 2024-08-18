@@ -165,7 +165,7 @@ var rule = {
                         title: "原址嗅探",
                         url: "https://m.huya.com/" + jo.roomId
                     },
-        });
+        );
         VOD.vod_play_from = "播放线路";
         VOD.vod_play_url = d.map(function(it) {
             // return it.title + "$" + it.url
