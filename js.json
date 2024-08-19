@@ -668,6 +668,14 @@
       "api": "csp_XYQHiker",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/疯狗影视.json"
     },	 
+
+	 {
+      "key": "csp_XYQHiker_hem视",
+      "name": "🧑🏻河马短剧xyq",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/修改文件/河马短剧xyq.json"
+    },	 
   {
       "key": "csp_XYQHiker_bk视",
       "name": "🧑🏻真不卡xyq",
