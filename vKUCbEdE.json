@@ -95,11 +95,11 @@
       "key": "csp_zbhj",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "csp_XYQHiker",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"./lib/虎牙直播.js"
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext":"./lib/虎牙直播.json"
     },
 	  
   
@@ -148,6 +148,44 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+
+     {
+      "key": "csp_XYQHiker_爱你短剧",
+      "name": "💕爱你短剧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/爱你短剧.json"
+    },
+    {
+      "key": "csp_XYQHiker_河马短剧",
+      "name": "👒河马短剧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/河马短剧.json"
+    },
+
+     {
+      "key": "玩偶",
+      "name": "👽玩偶视频",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt",
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
     },
     
      {
