@@ -638,35 +638,35 @@
       "name": "🧑🏻‍555xyq",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/555.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/XYQHiker/555.json"
     },	 
   {
       "key": "csp_XYQHiker_tv视",
       "name": "🧑🏻‍tvbxyq",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/TVB云播.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/XYQHiker/TVB云播.json"
     },	 
 	 {
       "key": "csp_XYQHiker_子子视",
       "name": "🧑🏻子子影视xyq",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/子子影视.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/XYQHiker/子子影视.json"
     },	 
 	 {
       "key": "csp_XYQHiker_工厂视",
       "name": "影视工厂xyq",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/影视工厂.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/XYQHiker/影视工厂.json"
     },	 
   {
       "key": "csp_XYQHiker_疯狗视",
       "name": "🧑🏻疯狗影视xyq",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/疯狗影视.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/XYQHiker/疯狗影视.json"
     },	 
 
 	 {
@@ -681,14 +681,14 @@
       "name": "🧑🏻真不卡xyq",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/真不卡.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/XYQHiker/真不卡.json"
     },	 
 	 {
       "key": "csp_XYQHiker_你可视",
       "name": "🧑🏻耐看影视xyq",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/耐看点播.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/XYQHiker/耐看点播.json"
     }
  
   ],
