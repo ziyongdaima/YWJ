@@ -1,12 +1,12 @@
 {
   "作者": "荷城茶秀",
   "站名": "TVB云播",
-  "主页url": "http://www.tvyb03.com/",
+  "主页url": "http://www.tvyb09.com/",
   "请求头": "手机",
   "影片类型": "分类：&&主演",
   "导演": "导演：</span>&&</p>",
   "主演": "主演：</span>&&</p>",
-  "简介": "关注公众号“东方精英汇”，获取最新接口，加qq群757506243防失联！【东辰影视】提醒您以下为简介：+class=\"sketch content\">&&</span>",
+  "简介": "class=\"sketch content\">&&</span>",
   "数组": "myui-vodlist__thumb&&</a>",
   "标题": "title=\"&&\"",
   "副标题": "pic-tag pic-tag-top\">&&</span>",
@@ -24,6 +24,6 @@
   "播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
   "播放标题": ">&&<",
   "播放列表": "<a&&/a>",
-  "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+  "分类url": "http://www.tvyb09.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 }
