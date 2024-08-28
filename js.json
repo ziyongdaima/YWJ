@@ -594,7 +594,16 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/斗鱼直播.json"
+    },	
+
+ {
+      "key": "csp_XYQHiker_斗鱼g",
+      "name": "🧑🏻‍斗鱼gai播xyq",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/修改文件/douyu.json"
     },	 
+	
 	 {
       "key": "csp_XYQHiker_热播视",
       "name": "🧑🏻‍热播xyq",
