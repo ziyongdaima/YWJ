@@ -6,7 +6,7 @@
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "0",
     "分类起始页码": "1",
-    "分类链接": "https://m.douyu.com/api/room/list?page={catePg}&type={cateId}&iPageSize=290&iLibId=2827&iGid=2834",
+    "分类链接": "https://www.douyu.com/g_yqk?page={catePg}&type={cateId}",
     "分类名称": "一起看&原创IP",
     "分类名称替换词": "yqk&ip",
     "筛选数据": "ext",
