@@ -130,13 +130,12 @@
     {
       "key": "星芽短剧",
       "name": "🎋星芽短剧",
-       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 2,	    
-      "filterable": 1,
-      "ext": "./lib/星芽.js"
+      "filterable": 1
     },
      
     {
@@ -217,17 +216,13 @@
     },
 
    {
-      "key": "木耳",
-      "name": "📚木耳资源",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playurl": "https://player.heimuer.tv/index.html?url=",
-      "filterable": 1,
+      "key": "神仙",
+      "name": "📚神仙影视",
+     "type": 3,
+      "api": "csp_XBPQ",
       "playerType": 2,
-      "categories": ["动作片","喜剧片","科幻片","恐怖片","国产动漫",
-        "国产剧","国产综艺"]
+      "ext":{"分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5" }
     },	 
    
     {
@@ -288,18 +283,7 @@
       "url": "https://www.huaqi.live/?url= "
     },
 
-      {
-      "name": "米饭",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=",
-      "ext": {
-        "flag": ["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视",
-          "leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+    
 
     {
       "name": "mgtv",
@@ -336,18 +320,7 @@
       }
     },
      
-   {
-      "name": "米4k",
-      "type": 1,
-      "url": "http://www.mpanso.com/woainiba.php?url=",
-      "ext": {
-        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷",
-          "sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905" ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+ 
     {
       "name": "咸鱼",
       "type": 0,
