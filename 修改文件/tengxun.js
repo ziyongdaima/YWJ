@@ -23,7 +23,7 @@ searchUrl: '/x/search/?q=**&stag=fypage',
     let d = [];
     
     // 发起请求并解析返回的 JSON 数据
-    let response = JSON.parse(request("https://jx.xmflv.com/?url=" + input));
+    let response = JSON.parse(request("" + input));
     
     // 获取所有字段名
     let keys = Object.keys(response);
