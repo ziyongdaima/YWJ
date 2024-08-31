@@ -127,7 +127,7 @@ var rule = {
         let playUrl = [];
         let tabs = pdfa(html, "div.module-tab-item");
         tabs.forEach((it, index) => {
-            playFrom.push('諾临風-' + pdfh(it, 'span&&Text') + "[" + pdfh(it, 'small&&Text') + "]");
+            playFrom.push('' + pdfh(it, 'span&&Text') + "[" + pdfh(it, 'small&&Text') + "]");
             let playTag = "div.module-play-list:eq(" + index + ") a";
             let tags = pdfa(html, playTag);
             let mapUrl = tags.map((tag) => {
