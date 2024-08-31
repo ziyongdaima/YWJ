@@ -199,6 +199,24 @@
       "playerType": 2,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/348影视.json"
     },
+
+	  {
+      "key": "csp_Cys48",
+      "name": "🎶影视界XB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/文才影视界.json"
+    },
+
+	  {
+      "key": "csp_Cjpz348",
+      "name": "🎶金牌影视XB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/文才金牌影视.json"
+    },
 	 {
       "key": "csp_Cz55",
       "name": "🎶55XB",
