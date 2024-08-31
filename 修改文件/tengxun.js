@@ -1,4 +1,9 @@
-  searchUrl: '/x/search/?q=**&stag=fypage',
+var rule = {
+    title: '腾云驾雾[官]',
+    host: 'https://v.%71%71.com',
+    homeUrl: '/x/bu/pagesheet/list?_all=1&append=1&channel=cartoon&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
+    detailUrl: 'https://node.video.%71%71.com/x/api/float_vinfo2?cid=fyid',
+searchUrl: '/x/search/?q=**&stag=fypage',
     searchable: 2,
     filterable: 1,
     multi: 1,
