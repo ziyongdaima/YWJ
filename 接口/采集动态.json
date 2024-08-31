@@ -3,6 +3,7 @@
   {
     "name": "木耳资源",
     "url": "https://json.heimuer.xyz",
+    "api":"",
     "parse_url": "",
     "cate_exclude": "电影|电视剧|综艺|动漫|",
     "class_name": "动作片|喜剧片|奇幻片&恐怖片&科幻片&网络电影&国产剧&韩剧&国产综艺&国产动漫",
