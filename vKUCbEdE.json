@@ -245,16 +245,12 @@
 
      {
       "name": "虾米",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua" ]}},
-      {
-      "name": "华奇",
-      "type": 0,
-      "url": "https://www.huaqi.live/?url= "
-    },
+
 
     
 
@@ -263,6 +259,27 @@
       "type": 1,
       "url": "http://mgtv.ckflv.cn/?url="
     },
+   
+     {
+      "name": "腾4K",
+      "type": 1,
+      "url": "http://www.mpanso.com/woaini.php?url=",
+      "ext": {
+        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐",
+          "letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905" ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+
+     {
+      "name": "华奇",
+      "type": 0,
+      "url": "https://www.huaqi.live/?url= "
+    },
+	  
+	  
     {
       "name": "m3u8",
       "type": 0,
@@ -280,18 +297,7 @@
       "url": "https://www.yemu.xyz/?url="
     },
    
-  {
-      "name": "腾4K",
-      "type": 1,
-      "url": "http://www.mpanso.com/woaini.php?url=",
-      "ext": {
-        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐",
-          "letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905" ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+ 
      
  
     {
