@@ -1,4 +1,22 @@
 [
+
+{
+    "name": "短剧",
+    "url": "https://json.heimuer.xyz",
+    "api":"",
+    "parse_url": "",
+    "cate_exclude": "^短剧$",
+    "class_name":"虐恋短剧&逆袭短剧&重生短剧&穿越短剧&甜宠短剧&合集短剧",
+    "class_url":"46&47&50&52&25&53&64",
+    "cate_excludes": [
+    "电影",
+    "连续剧",
+    "综艺",
+    "动漫"
+     
+    ]
+  },
+
   
   {
     "name": "木耳资源",
