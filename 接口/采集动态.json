@@ -92,7 +92,7 @@
     ]
   },
     {
-    "name": "高清资源",
+    "name": "优质资源",
     "url": "https://api.1080zyku.com",
     "api":"/inc/apijson.php",
     "parse_url": "http://43.248.129.14:20240/?url=",
