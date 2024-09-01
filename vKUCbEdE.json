@@ -279,7 +279,17 @@
       "url": "https://www.huaqi.live/?url= "
     },
 	  
-	  
+     {
+      "name": "LX",
+      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+      "flag": [
+        "LXTX"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },	  
     {
       "name": "m3u8",
       "type": 0,
