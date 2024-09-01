@@ -28,6 +28,22 @@
     },
  
 
+       {
+      "key": "ttzy",
+      "name": "探探影视",
+      "type": 0,
+      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1，
+       "categories": [
+        "国产视频",
+	"主播直播",
+        "日本无码",
+        "自拍偷拍"
+       
+      ]
+    },
      
        {
       "key": "美少女",
