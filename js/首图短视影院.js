@@ -1,5 +1,5 @@
 var rule = {
-  title: '金牌影院',
+  title: '首图影院',
   host: 'https://tapedistributor.com/',
   url: '/index.php/vod/type/id/fyclass/page/fypage.html',
   searchUrl: '/index.php/vod/search/page/frpage/wd/**.html',
