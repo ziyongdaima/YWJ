@@ -19,7 +19,7 @@
 
 {
     "name": "暴风短剧",
-    "url": "https://bfzy.tv",
+    "url": "http://by.bfzyapi.com",
     "api":"",
     "parse_url": "",
     "cate_exclude": "短剧大全",
