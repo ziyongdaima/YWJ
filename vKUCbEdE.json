@@ -180,46 +180,42 @@
     },
     
      {
-      "key": "量子资源",
-      "name": "🦊量子资源",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+      "key": "暴风资源",
+      "name": "🦊暴风短剧",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
       "playerType": 2,
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "playurl": "http://43.248.129.14:20240/?url=",
-      "categories": ["短剧","动作片","科幻片","恐怖片","国产动漫",
-        "国产剧","韩剧","大陆综艺"]
+      "categories": ["穿越年代","现代言情","反转爽文","女恋总裁","都市脑洞","古装仙侠"]
     },
     
     {
-      "key": "优质资源",
-      "name": "🎬优质资源",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "key": "金牌资源",
+      "name": "🎬金牌影视",
+     "type": 3,
+      "api": "csp_Jpys",
       "playerType": 2,
       "searchable": 1,
-      "changeable": 1,
-      "playurl": "http://43.248.129.14:20240/?url=",
       "quickSearch": 1,
-      "categories": ["短剧大全","动作片","科幻片","恐怖片","动画片","国产动漫",
-        "国产剧","香港剧","韩国剧","大陆综艺","港台综艺"]
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725170502493/fan.txt",	
+      "changeable": 1
     },
 
  
    
     {
       "key": "meowtv_ffzy",
-      "name": "🍒非凡资源",
-       "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+      "name": "🍒采集资源",
+       "type": 3,
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 2,
       "filterable": 1,
-      "categories": ["短剧","动作片","喜剧片","科幻片","恐怖片",
-        "国产剧","香港剧","国产动漫","大陆综艺","港台综艺"]
+      "order_num": 0,
+      "ext": "./lib/采集之王.js?type=url&params=./lib/采集动态.json"
     }
   
 
