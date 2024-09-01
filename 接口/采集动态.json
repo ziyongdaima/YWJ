@@ -40,6 +40,7 @@
   {
     "name": "量子资源",
     "url": "https://cj.lziapi.com",
+    "api":"/api.php/provide/vod/from/lzm3u8/at/xml/",
     "parse_url": "",
     "searchable": 0,
     "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯",
