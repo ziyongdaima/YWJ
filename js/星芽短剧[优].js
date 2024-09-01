@@ -1,1 +1,86 @@
-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
+
+var rule = {
+    类型: '影视',
+    title: '星芽短剧[优]',
+    host: 'https://app.whjzjx.cn',
+    url: '/cloud/v2/theater/home_page?theater_class_id=fyclass&type=fyclass&class2_ids=0&page_num=fypage&page_size=24',
+    searchUrl: '/v3/search',
+    searchable: 2,
+    quickSearch: 0,
+    headers: {
+        'User-Agent': 'okhttp/4.10.0',
+        'Accept-Encoding': 'gzip',
+        'x-app-id': '7',
+        'authorization': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjMxNzQ2MjgsIlVzZXJJZCI6NTA5MDg3NDEsInJlZ2lzdGVyX3RpbWUiOiIyMDI0LTA3LTA5IDIwOjUwOjIxIiwiaXNfbW9iaWxlX2JpbmQiOmZhbHNlfQ.lS-X8Mck6WCISgbp9wjysfIMAlWgThVmbEM4N54cup8',
+        'platform': '1',
+        'manufacturer': 'realme',
+        'version_name': '3.1.0.1',
+        'user_agent': 'Mozilla/5.0 (Linux; Android 9; RMX1931 Build/PQ3A.190605.05081124; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36',
+        'dev_token': 'BFdbZBGOEgG7QDt01ldOQNNfhO2F-rv4QcugZoFZm5_3DlPJEo_bSBeJ6dW2X3eKzxxKKWz3xJCM_u5PppGMqRuYPxcsVg9a-jriWiIoPZvHMSLbcbxTFuasqgTivTY3GabW1yP57LQSsJNQfKoX1BKYGHducrhb0bTwvigfn3gE*',
+        'app_version': '3.1.0.1',
+        'device_platform': 'android',
+        'personalized_recommend_status': '1',
+        'device_type': 'RMX1931',
+        'device_brand': 'realme',
+        'os_version': '9',
+        'channel': 'default',
+        'raw_channel': 'default',
+        'oaid': '',
+        'msa_oaid': '',
+        'uuid': 'randomUUID_8a0324bf-03c8-4789-8ef8-12d3bcff28f5',
+        'device_id': '24250683a3bdb3f118dff25ba4b1cba1a',
+        'ab_id': '',
+        'support_h265': '1'
+    },
+    timeout: 5000,
+    class_name: '剧场&热播剧&会员专享&星选好剧&新剧&阳光剧场',
+    class_url: '1&2&8&7&3&5',
+    play_parse: true,
+    lazy: $js.toString(() => {
+        input = {url: input, parse: 0}
+    }),
+    double: true,
+    一级: $js.toString(() => {
+        let d = [];
+        let html = request(input);
+        let data = JSON.parse(html).data.list;
+        data.forEach(it => {
+            let id = 'https://app.whjzjx.cn/v2/theater_parent/detail?theater_parent_id=' + it.theater.id;
+            d.push({
+                url: id,
+                title: it.theater.title,
+                img: it.theater.cover_url,
+                desc: it.theater.theme,
+            })
+        })
+        setResult(d);
+    }),
+    二级: $js.toString(() => {
+        let urls = [];
+        let html = request(input);
+        let data = JSON.parse(html).data;
+        data.theaters.forEach(it => {
+            urls.push(it.num + '$' + it.son_video_url);
+        })
+        VOD = {
+            vod_name: data.title,
+            vod_pic: data.cover_url,
+            vod_play_from: '球球啦',
+            vod_play_url: urls.join('#')
+        };
+    }),
+    搜索: $js.toString(() => {
+        let html = post(input, {body: {"text": KEY}})
+        let list = JSON.parse(html).data.theater.search_data;
+        list.forEach(it => {
+            let id = 'https://app.whjzjx.cn/v2/theater_parent/detail?theater_parent_id=' + it.id;
+            d.push({
+                url: id,
+                title: it.title,
+                img: it.cover_url,
+                content: it.introduction,
+            })
+        })
+        setResult(d);
+    }),
+}
