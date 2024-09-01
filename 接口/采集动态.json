@@ -2,7 +2,7 @@
 
 {
     "name": "短剧",
-    "url": "https://json.heimuer.xyz",
+    "url": "https://www.heimuer.tv",
     "api":"",
     "parse_url": "",
     "cate_exclude": "^短剧$",
