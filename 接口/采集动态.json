@@ -14,8 +14,8 @@
   },
   {
     "name": "高清资源",
-    "url": "https://www.yzzy.tv",
-    "api":"https://api.1080zyku.com/inc/apijson.php",
+    "url": "https://api.1080zyku.com",
+    "api":"/inc/apijson.php",
     "parse_url": "http://43.248.129.14:20240/?url=",
     "cate_exclude": "电影|连续剧|综艺|动漫",
     "class_name": "动作片&喜剧片&爱情片&恐怖片&科幻片&动画片&国产剧&韩国剧&大陆综艺&国产动漫",
@@ -40,7 +40,7 @@
   {
     "name": "量子资源",
     "url": "https://cj.lziapi.com",
-    "api":"/api.php/provide/vod/from/lzm3u8/at/xml/",
+    "api":"/api.php/provide/vod/from/lzm3u8/",
     "parse_url": "",
     "searchable": 0,
     "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯",
