@@ -1,6 +1,6 @@
 var rule = {
   title: '金牌影院',
-    host: 'https://www.ghw9zwp5.com/',
+    host: 'https://www.cfkj86.com/',
     url: '/vod/show/id/fyclass/page/fypage',
     searchUrl: '/api/mw-movie/anonymous/video/searchByWordPageable?keyword=**&pageNum=fypage&pageSize=12&type=false',
     //searchUrl: '/api/mw-movie/anonymous/video/list?ageNum=1&pageSize=30&sort=1&sortBy=1&type1=1',
@@ -9,7 +9,7 @@ var rule = {
   filterable: 0,
   headers: {
     'User-Agent': 'PC_UA',
-    Referer: 'https://www.ghw9zwp5.com',
+    Referer: 'https://www.cfkj86.com/',
   },
   class_name: '电影&电视剧&综艺&动漫',
   class_url: '1&2&3&4',
