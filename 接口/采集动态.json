@@ -6,24 +6,24 @@
     "api":"",
     "parse_url": "",
     "cate_exclude": "^电影$|^电视剧$|^综艺$|^动漫$",
-    "class_name":"动作片$喜剧片&奇幻片&恐怖片&科幻片&网络电影&国产剧&韩剧&国产综艺&国产动漫",
+    "class_name":"动作片&喜剧片&奇幻片&恐怖片&科幻片&网络电影&国产剧&韩剧&国产综艺&国产动漫",
     "class_url":"7&10&11&12&25&36&13&15&38&60",
     "cate_excludes": [
       "短剧"
     ]
   },
   {
-    "name": "豪华资源",
-    "url": "https://hhzyapi.com",
+    "name": "高清资源",
+    "url": "https://1080zyk9.com/",
     "parse_url": "",
-    "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯",
-    "class_name": "H4sIALGjdWYC/zVPWw6CMBC8Tc/pI6D1w0eCKErCj1ofKBBjokg5DbsLt7Bdy1dnZrezMxS8WuWDVIKCF+hCYKqonluhO0X4zhglF/vg5sjskuIzt6ipTrT0SU4EzM6Nji2iaYFjj7UwNkusqRV8vhbhcImDkKdSuT2cbptSWtQ+ctBr54fVTYDvQcynjEABWzTvO+y1WzCRME578o/+J/StWlkKWOT4qdnhoLrId7L5Z0r1xLRc5D1hE0doWHe7mkOOUgpXXGaWkb5yyOPE1aLkbk78ALNMUSlMAQAA",
-    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&30&31&32&33&34&35&36&37&38",
+    "cate_exclude": "电影|连续剧|综艺|动漫",
+    "class_name": "动作片&喜剧片&爱情片&恐怖片&科幻片&动画片&国产剧&韩国剧&大陆综艺&国产动漫",
+    "class_url": "5&6&7&9&8&41&12&114&62&66",
     "cate_excludes": [
-      "电视剧",
-      "电影",
-      "动漫",
-      "综艺"
+      "福利",
+      "短剧大全",
+      "体育"
+     
     ]
   },
   {
