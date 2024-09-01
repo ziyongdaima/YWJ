@@ -14,7 +14,7 @@
   },
   {
     "name": "高清资源",
-    "url": "https://1080zyk9.com/",
+    "url": "https://api.1080zyku.com",
     "parse_url": "http://43.248.129.14:20240/?url=",
     "cate_exclude": "电影|连续剧|综艺|动漫",
     "class_name": "动作片&喜剧片&爱情片&恐怖片&科幻片&动画片&国产剧&韩国剧&大陆综艺&国产动漫",
