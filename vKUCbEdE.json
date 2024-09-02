@@ -40,7 +40,7 @@
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "./lib/tengxun.js"
+      "ext": "./lib/腾讯.js"
     },
     {
       "key": "csp_mgtv",
@@ -55,17 +55,21 @@
     },
 
     {
-      "key": "君君",
-      "name": "⏮️ 君君4K",
-      "playerType": 1,
+      "key": "玩偶",
+      "name": "👽玩偶视频",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt",
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
     },
-	  
    
 
      
@@ -81,7 +85,17 @@
       "ext": "./lib/农民影视.json"
     },
    
-    
+     {
+      "key": "金牌资源",
+      "name": "🎬金牌影视",
+     "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725170502493/fan.txt",	
+      "changeable": 1
+    },
 
 
      {
@@ -162,22 +176,7 @@
       "ext": "./lib/河马短剧.json"
     },
 
-     {
-      "key": "玩偶",
-      "name": "👽玩偶视频",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt",
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-    },
+    
     
      {
       "key": "暴风资源",
@@ -192,17 +191,7 @@
       "categories": ["穿越年代","现代言情","反转爽文","女恋总裁","都市脑洞","古装仙侠"]
     },
     
-    {
-      "key": "金牌资源",
-      "name": "🎬金牌影视",
-     "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725170502493/fan.txt",	
-      "changeable": 1
-    },
+   
 
  
    
@@ -216,6 +205,18 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/采集之王.js?type=url&params=./lib/采集动态.json"
+    },
+
+   {
+      "key": "君君",
+      "name": "⏮️ 君君4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:1000/api.php/app/"
     }
   
 
