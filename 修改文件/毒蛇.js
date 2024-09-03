@@ -14,7 +14,7 @@ var rule = {
     class_parse: '#nav-swiper&&.nav-swiper-slide;a&&Text;a&&href;/(\\w+).html',
     cate_exclude: 'Netflix|今日更新|专题列表|排行榜',
     tab_order: ['超清'],
-    tab_exclude: '',
+    tab_exclude: 'FF线路',
     play_parse: true,
     lazy: '',
     limit: 20,
