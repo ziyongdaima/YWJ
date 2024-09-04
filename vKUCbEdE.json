@@ -258,9 +258,9 @@
     },
    
      {
-      "name": "腾4K",
+      "name": "4K",
       "type": 1,
-      "url": "http://www.mpanso.com/woaini.php?url=",
+      "url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=",
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐",
           "letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905" ],
@@ -286,7 +286,24 @@
         "User-Agent": "Dalvik/2.1.0"
       },
       "type": "1"
-    },	  
+    },	
+
+   
+ {
+      "name": "1080解析",
+      "type": 1,
+      "url": "https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=",
+      "ext": {
+        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
+          "mgtv","芒果","tnmb","seven","bilibili", "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+
+	  
     {
       "name": "m3u8",
       "type": 0,
