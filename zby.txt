@@ -1,4 +1,5 @@
 广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
 广东新闻,http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
 广东民生,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
-vvv,https:\/\/vod3.ttbfp5.com\/20240904\/6LOiaRbB\/index.m3u8
+vvv,https://vod3.ttbfp5.com/20240905/INtb0IuH/index.m3u8
+ttt,https://vod3.ttbfp5.com/20240905/bdv7a2UC/index.m3u8
