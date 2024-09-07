@@ -30,17 +30,21 @@
 
        {
       "key": "ttzy",
-      "name": "探探影视",
-      "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+      "name": "精品资源",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
        "categories": [
-        "国产视频",
-	"主播直播",
-        "日本无码",
-        "自拍偷拍"
+        "偷拍自拍",
+	"国产大制作",
+        "乱伦毁三观",
+	"淫乱学生妹",
+	"黑料不打烊",
+        "主播网红",
+        "监控摄像头",
+        "嫖妓全过程"
        
       ]
     },
