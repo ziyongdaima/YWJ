@@ -57,7 +57,7 @@
     "name": "非凡资源",
     "url": "http://api.ffzyapi.com",
    "api":"/api.php/provide/vod/from/ffm3u8",
-    "parse_url": "",
+    "parse_url": "json:http://110.42.3.99:880/rmm.php/?url=",
     "searchable": 1,
     "cate_exclude": "电影片|连续剧|综艺片|动漫片",
     "class_name": "短剧&动作片&喜剧片&恐怖片&科幻片&国产剧&香港剧&大陆综艺&国产动漫",
