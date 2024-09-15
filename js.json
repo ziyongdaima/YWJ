@@ -11,7 +11,24 @@
 	"ext": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/douban.js"},
  
    
- 
+  {
+      "key": "36资源",
+      "name": "jp┃测试",
+      “类型”：1，
+      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
+      "playUrl": ""
+      
+    }，
+
+
+	  {
+      "key": "3资源",
+      "name": "sm┃测试",
+      “类型”：1，
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "playUrl": "https://jiexi.semaozy.cc/m3u8/?url="
+      
+    }，
  
     {
       "key": "csp_aiqiyi",
