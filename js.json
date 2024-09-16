@@ -10,24 +10,18 @@
 	"type": 3,"api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
 	"ext": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/douban.js"},
  
-   
-  {
-      "key": "36资源",
-      "name": "jp┃测试",
-      "type":1,
-      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
-      "playUrl": ""
-      
-    },
 
 
-	  {
-      "key": "3资源",
-      "name": "sm┃测试",
-      "type":1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-      "playUrl": "https://jiexi.semaozy.cc/m3u8/?url="
-      
+ {
+      "key": "meowtv_ffzy",
+      "name": "🍒采集资源",
+       "type": 3,
+      "api": "https://bitbucket.org/249886372/ywj/raw/d204f5d2a47f631b43c07098ce52426e1e81fea5/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://bitbucket.org/249886372/ywj/raw/d204f5d2a47f631b43c07098ce52426e1e81fea5/js/采集之王.js?type=url&params=https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/接口/采集动态.json"
     },
  
     {
