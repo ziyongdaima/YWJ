@@ -5,7 +5,7 @@
   {
     "name": "小猫咪",
     "url": "http://zy.xiaomaomi.cc/",
-    "parse_url": "https://jx.xmflv.com/?url=",
+    "parse_url": "json:https://www.huaqi.live/?url=",
     "searchable": 1,
     "cate_exclude": "电影片|连续剧|综艺|动漫",
     "class_name": "电影&连续剧&综艺&动漫",
