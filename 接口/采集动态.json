@@ -4,14 +4,14 @@
 
   {
     "name": "小猫咪",
-    "url": "http://zy.xiaomaomi.cc/",
-    "parse_url": "json:https://www.huaqi.live/?url=",
+    "url": "https://www.hkybqufgh.com/",
+    "parse_url": "",
     "searchable": 1,
-    "cate_exclude": "电影片|连续剧|综艺|动漫",
-    "class_name": "电影&连续剧&综艺&动漫",
+    "cate_exclude": "",
+    "class_name": "电影&电视剧&综艺&动漫",
     "class_url": "1&2&3&4",
     "cate_excludes": [
-      "小破站"
+      ""
     
     ]
   },
