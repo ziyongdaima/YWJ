@@ -108,118 +108,6 @@
 
 
   
-  {
-    "bookSourceComment": "免网页验证，可选国内专线：\nhttps://www.banzhu99999.com\n \n本次处理多余无用规则，更换正文规则，原来沿用的是任尚仁大佬的正文规则，看不懂\n    js模板来自版主178或永远的神，用的版主444免验证专线，简化发现和大量规则",
-    "bookSourceGroup": "",
-    "bookSourceName": "第一版主",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://www.diyibanzhu444444.com/##",
-    "bookUrlPattern": "",
-    "concurrentRate": "",
-    "customOrder": -8,
-    "enabled": true,
-    "enabledCookieJar": true,
-    "enabledExplore": true,
-    "exploreUrl": "[{\"title\":\"全部\",\"url\":\"/shuku/0-lastupdate-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"连载中\",\"url\":\"/shuku/0-lastupdate-1-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"已完本\",\"url\":\"/shuku/0-lastupdate-2-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"总人气\",\"url\":\"/shuku/0-allvisit-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"月人气\",\"url\":\"/shuku/0-monthvisit-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"字数\",\"url\":\"/shuku/0-size-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"新书\",\"url\":\"/shuku/0-postdate-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"玄幻奇幻\",\"url\":\"/shuku/1-lastupdate-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"武侠仙侠\",\"url\":\"/shuku/2-lastupdate-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"都市言情\",\"url\":\"/shuku/3-lastupdate-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"穿越历史\",\"url\":\"/shuku/4-lastupdate-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"科幻灵异\",\"url\":\"/shuku/5-lastupdate-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"藏经阁\",\"url\":\"/shuku/6-lastupdate-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"其他类别\",\"url\":\"/shuku/7-lastupdate-0-{{page}}.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\" \",\"url\":\" \",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}}]",
-    "header": "{\"User-Agent\": \"Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; MI 8 Lite Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.2.0.1100 Mobile Safari/537.36\"}",
-    "lastUpdateTime": 1723373158075,
-    "loginCheckJs": "",
-    "loginUi": "",
-    "loginUrl": "",
-    "respondTime": 3872,
-    "ruleBookInfo": {
-      "author": "",
-      "coverUrl": "",
-      "init": "",
-      "intro": ".bd.2@text",
-      "kind": "",
-      "lastChapter": "ul.list.0@li.0@text",
-      "name": "h1@text",
-      "wordCount": ""
-    },
-    "ruleContent": {
-      "content": ".neirong@html",
-      "imageStyle": "",
-      "nextContentUrl": "",
-      "replaceRegex": ""
-    },
-    "ruleExplore": {
-      "author": "",
-      "bookList": "",
-      "bookUrl": "",
-      "coverUrl": "",
-      "intro": "",
-      "kind": "",
-      "lastChapter": "",
-      "name": "",
-      "wordCount": ""
-    },
-    "ruleSearch": {
-      "author": ".info.0@text##\\s+字数：.*",
-      "bookList": ".column-2 ",
-      "bookUrl": ".name@href",
-      "checkKeyWord": "",
-      "coverUrl": "@js:'http://m.diyibanzhu.quest/images/jipin-default.jpg'",
-      "intro": "",
-      "kind": "span.0@text&&p.info.1@text##更新：",
-      "lastChapter": ".update@a@text",
-      "name": ".name@text",
-      "wordCount": ".info@span@text##字数："
-    },
-    "ruleToc": {
-      "chapterList": ".chapter-list.1@li",
-      "chapterName": "a@text",
-      "chapterUrl": "a@href",
-      "nextTocUrl": "text.下页@href"
-    },
-    "searchUrl": "/s.php,{\n\"charset\": \"gbk\",\n\"method\":\"post\",\n\"body\":\"objectType=2&type=articlename&s={{key}}\"\n}",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "一个同名网站",
-    "bookSourceName": "番茄小说",
-    "bookSourceType": 0,
-    "bookSourceUrl": "祝大家天天开心",
-    "customOrder": -5,
-    "enabled": true,
-    "enabledCookieJar": true,
-    "enabledExplore": true,
-    "lastUpdateTime": 1723798321517,
-    "respondTime": 3514,
-    "ruleBookInfo": {
-      "author": "class.small@span.0@text##作者：",
-      "coverUrl": "img@src",
-      "intro": "class.intro@text",
-      "kind": "class.small@span.1@text##状态：",
-      "lastChapter": "class.last@a@text",
-      "name": "h1@text",
-      "wordCount": ""
-    },
-    "ruleContent": {
-      "content": "id.chaptercontent@html",
-      "nextContentUrl": "text.下一章@href",
-      "replaceRegex": "##[请收藏点击『』].*"
-    },
-    "ruleExplore": {
-      "name": ""
-    },
-    "ruleSearch": {
-      "author": "class.author@text",
-      "bookList": "class.bookbox",
-      "bookUrl": "class.bookimg@a@href",
-      "checkKeyWord": "我不是戏神",
-      "coverUrl": "img@src",
-      "intro": "class.uptime@text",
-      "name": "class.bookname@text"
-    },
-    "ruleToc": {
-      "chapterList": "class.listmain@dl@dd!10",
-      "chapterName": "dd@text",
-      "chapterUrl": "dd@a@href"
-    },
-    "searchUrl": "https://www.fqxs123.cc/s?q={{key}},{\n  \"webView\": true\n}",
-    "weight": 0
-  },
 
 
   
@@ -474,7 +362,7 @@
 
   {
     "bookSourceGroup": "",
-    "bookSourceName": "新书包网",
+    "bookSourceName": "书包阅读",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.jywad.com/",
     "customOrder": 6,
@@ -758,7 +646,7 @@
     "enabled": true,
     "enabledCookieJar": false,
     "enabledExplore": true,
-    "exploreUrl": "@js:\nsort=[];\npush=(title,url,type)=>{\n\t\tjson = JSON.stringify({\n\t\t\t\ttitle: title,\n\t\t\t\turl: url?url:\"\",\n\t\t\t\tstyle: {\n\t\t\t\t\t\tlayout_flexGrow: 1,\n\t\t\t\t\t\tlayout_flexBasisPercent: type\n\t\t\t\t\t}\n\t\t\t});\n\t\treturn sort.push(json);\n\t}\n$$=(category_id,sex)=>`https://s30007.zhongyue001.com/book/index?category_id=${category_id}&sex=${sex}&page={{page}\\}&type=category`;\n[\n\t\t[\"男\",[[\"都市\",2],[\"玄幻\",1],[\"仙侠\",3],[\"奇幻\",5],[\"历史\",6],[\"军事\",7],[\"科幻\",9],[\"游戏\",10]]],\n\t\t[\"女\",[[\"现代言情\",12],[\"古代言情\",13],[\"幻想言情\",14],[\"青春校园\",15]]]\n].map(([title,list],sex)=>{\n\t\tsex++;\n\t\tpush('༺ˇ»`ʚ'+title+'频分类ɞ´«ˇ༻',null,1);\n\t\tlist.map([title,category_id]=>{\n\t\t\t\tpush(title,$$(category_id,sex),0.25);\n\t\t\t});\n\t});\n'['+sort.toString()+']'",
+    "exploreUrl": "@js:\nsort=[];\npush=(title,url,type)=>{\n\t\tjson = JSON.stringify({\n\t\t\t\ttitle: title,\n\t\t\t\turl: url?url:\"\",\n\t\t\t\tstyle: {\n\t\t\t\t\t\tlayout_flexGrow: 1,\n\t\t\t\t\t\tlayout_flexBasisPercent: type\n\t\t\t\t\t}\n\t\t\t});\n\t\treturn sort.push(json);\n\t}\n$$=(category_id,sex)=>`https://s30007.zhongyue001.com/book/index?category_id=${category_id}&sex=${sex}&page={{page}\\}&type=category`;\n[\n\t\t[\"男\",[[\"都市\",2],[\"玄幻\",1],[\"仙侠\",3],[\"奇幻\",5],[\"历史\",6],[\"军事\",7],[\"科幻\",9],[\"游戏\",10]]],\n\t\t[\"女\",[[\"现代言情\",12],[\"古代言情\",13],[\"幻想言情\",14],[\"青春校园\",15]]]\n].map(([title,list],sex)=>{\n\t\tsex++;\n\t\tpush(''+title+'频分类',null,1);\n\t\tlist.map([title,category_id]=>{\n\t\t\t\tpush(title,$$(category_id,sex),0.25);\n\t\t\t});\n\t});\n'['+sort.toString()+']'",
     "header": "{\n\"Content-Type\": \"application/x-www-form-urlencoded\",\n\"ver\": \"1.0.0.0.8\",\n\"token\": \"frbcut22dxuv8wfu31hnvznrd1hht741\",\n\"uid\": \"471097\",\n\"osType\": \"1\",\n\"clientVer\": \"1.0.4\",\n\"User-Agent\": \"okhttp/4.9.1\"\n}",
     "lastUpdateTime": 0,
     "respondTime": 2924,
