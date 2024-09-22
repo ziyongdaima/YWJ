@@ -1,6 +1,6 @@
 [
   {
-    "bookSourceGroup": "小说 书源",
+    "bookSourceGroup": "",
     "bookSourceName": "小说三千",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.xs3000.com",
@@ -47,7 +47,7 @@
   
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "小说 书源",
+    "bookSourceGroup": "",
     "bookSourceName": "爱久久网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.jjjjxs.com",
@@ -113,7 +113,7 @@
   
    {
     "bookSourceComment": "\n<js>java.ajax('https://jyapi.jyacg.com/web/books/detail?id={{$.id}}')</js>data.new_section\n",
-    "bookSourceGroup": "小说 书源",
+    "bookSourceGroup": "",
     "bookSourceName": "鲸云轻说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://jyapi.jyacg.com",
@@ -201,38 +201,11 @@
     "searchUrl": "https://mobile.zongcai666.com/search/{{key}}/",
     "weight": 0
   },
-  {
-    "bookSourceGroup": "搜索链接规则为空,CM优质",
-    "bookSourceName": "2K小说",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://www.2kxs.org",
-    "customOrder": 0,
-    "enabled": true,
-    "enabledCookieJar": true,
-    "enabledExplore": true,
-    "lastUpdateTime": 0,
-    "loginUrl": "",
-    "respondTime": 0,
-    "weight": 2378
-  },
-  {
-    "bookSourceGroup": "已检,搜索链接规则为空",
-    "bookSourceName": "异族小说网",
-    "bookSourceType": 0,
-    "bookSourceUrl": "http://www.ezuxs.com/",
-    "customOrder": 0,
-    "enabled": true,
-    "enabledCookieJar": true,
-    "enabledExplore": true,
-    "lastUpdateTime": 0,
-    "respondTime": 0,
-    "weight": 130
-  },
-
+ 
 
   {
     "bookSourceComment": "20240222By_zhbyjm7783\n发现除排行榜外均为免费分类",
-    "bookSourceGroup": "20240629",
+    "bookSourceGroup": "",
     "bookSourceName": "纵横中文网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.zongheng.com/##zhbyjm7783",
@@ -296,7 +269,7 @@
 
   {
     "bookSourceComment": "//默认开启男频分类，可在发现页自行修改\n//可用详情页url：\nhttps://readbook-service-freebook.cread.com/cx/bookDetailYS?bookid={{$.id}}\nhttps://readbook-service-freebook.cread.com/reader-book/details?bookId={{$.id}}\nhttps://cxb-pro.cread.com/cx/book/recommend,{\n  \"body\": \"bookId={{$.id}}&cnid=10013&type=2\",\n  \"method\": \"POST\"\n}\n",
-    "bookSourceGroup": "⑴🇨🇳 (秦沐)",
+    "bookSourceGroup": "",
     "bookSourceName": "免费追书",
     "bookSourceType": 0,
     "bookSourceUrl": "https://cxb-pro.cread.com/##@遇知",
@@ -533,7 +506,7 @@
 
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "已检测",
+    "bookSourceGroup": "",
     "bookSourceName": "十八书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.52shuwu.net",
@@ -638,7 +611,7 @@
 
    {
     "bookSourceComment": "",
-    "bookSourceGroup": "酷享｜小说",
+    "bookSourceGroup": "",
     "bookSourceName": "灯读文学",
     "bookSourceType": 0,
     "bookSourceUrl": "https://s30007.zhongyue001.com#",
@@ -691,7 +664,7 @@
 
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "本地",
+    "bookSourceGroup": "",
     "bookSourceName": "久久小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.9191net.com#",
@@ -734,7 +707,7 @@
 
    {
     "bookSourceComment": "https://m.xs639.com/\nhttps://www.xs63.me",
-    "bookSourceGroup": "小说 书源",
+    "bookSourceGroup": "",
     "bookSourceName": "小说路上",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xs639.com",
@@ -875,7 +848,7 @@
 
    {
     "bookSourceComment": "",
-    "bookSourceGroup": "酷享｜小说",
+    "bookSourceGroup": "",
     "bookSourceName": "掌阅小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.zhangyue.com#",
@@ -918,7 +891,7 @@
 
    {
     "bookSourceComment": "",
-    "bookSourceGroup": "番茄",
+    "bookSourceGroup": "",
     "bookSourceName": "ＱＱ阅读",
     "bookSourceType": 0,
     "bookSourceUrl": "https://bookshelf.html5.qq.com",
@@ -1025,7 +998,7 @@
 
    {
     "bookSourceComment": "",
-    "bookSourceGroup": "⑵💯  典藏,⑴🇨🇳 (秦沐)",
+    "bookSourceGroup": "",
     "bookSourceName": "七猫小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://api-bc.wtzw.com",
