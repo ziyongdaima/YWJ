@@ -832,7 +832,7 @@
     },
     "searchUrl": "freeapp/1/search,{\n  \"method\": \"POST\",\n  \"body\": \"pageNo={{page}}&queryString={{key}}\"\n}",
     "weight": 0
-  },
+  }
  
 
  
