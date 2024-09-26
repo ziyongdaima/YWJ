@@ -19,14 +19,10 @@
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
+      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
       "filterable": 1,
-      "ext":{
-        "host": "http://110.42.37.106:7788/api.php/app/",
-        "*": [
-          "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
-          ""
-        ]
-      }
+      "ext": "http://110.42.37.106:7788/api.php/app/"
+      "categories": ["电视剧","综艺","动漫"]  
     },
 
 
