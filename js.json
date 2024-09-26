@@ -12,6 +12,20 @@
  
 
 
+      "key": "君君",
+      "name": "⏮️ 瓜子4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://110.42.37.106:7788/api.php/app/"
+    }
+
+
+	
+
  {
       "key": "meowtv_ffzy",
       "name": "🍒采集资源",
