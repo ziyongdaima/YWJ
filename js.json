@@ -25,7 +25,17 @@
       
     },
 
-
+  {
+      "key": "君君",
+      "name": "⏮️ 君君4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:1000/api.php/app/"
+    },
 	
 
  {
@@ -783,7 +793,7 @@
       {
       "name": "米饭",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=",
+      "url": "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
       "ext": {
         "flag": ["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视",
           "leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],
