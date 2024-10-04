@@ -4,7 +4,6 @@ CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 
 
-dc,https://tc-tct.douyucdn2.cn/dyliveflv3a/9220456rM3djymbU.flv
 vvv,https://vod3.ttbfp5.com/20240905/INtb0IuH/index.m3u8
 ttt,https://vod3.ttbfp5.com/20240905/bdv7a2UC/index.m3u8
 
