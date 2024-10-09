@@ -76,7 +76,7 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt",
+      "jar": "./lib/fan.txt",
       "changeable": 0,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
@@ -108,7 +108,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt",	
+      "jar": "./lib/fan.txt",	
       "changeable": 1
     },
 
@@ -196,13 +196,13 @@
    {
       "key": "csp_瓜子",
       "name": "🌰瓜子影视",
-      "api": "csp_Gz360",
       "type": 3,
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
-      "playerType": 2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar",
-      "timeout": 30,
-      "changeable": 0
+      "quickSearch": 1,
+      "playerType": 2,	    
+      "filterable": 1,
+      "ext": "./lib/瓜子.js"
     },
     
    
@@ -253,21 +253,12 @@
       "url": "Web"
     },
    
-
-     {
-      "name": "虾米",
-      "type": 1,
-      "url": "https://jx.xmflv.com/?url="},
-
-
-    
-
-    {
+ {
       "name": "mgtv",
       "type": 1,
       "url": "http://mgtv.ckflv.cn/?url="
     },
-   
+ 
      {
       "name": "4K",
       "type": 1,
@@ -280,37 +271,10 @@
         }
       }
     },
-
-     {
-      "name": "华奇",
-      "type": 0,
-      "url": "https://www.huaqi.live/?url= "
-    },
-	  
-   
-
-   
+ 
+ 
+ 
  {
-      "name": "1080解析",
-      "type": 1,
-      "url": "https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=",
-      "ext": {
-        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
-          "mgtv","芒果","tnmb","seven","bilibili", "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-
-	  
-    {
-      "name": "m3u8",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="},
-
-  {
       "name": "1080",
       "type": 1,
       "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
@@ -353,11 +317,12 @@
     },
  
     {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
+    {"name": "华奇","type": 0,"url": "https://www.huaqi.live/?url="},
  
     {
       "name": "摸鱼",
       "type": 1,
-      "url": "http://www.mpanso.com/反弹/反弹.php?url=",
+      "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","tnmb","seven","bilibili","NBY", "1905"
@@ -367,7 +332,8 @@
         }
       }
     }
-   
+ 
+
    
   ],
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"]
