@@ -193,17 +193,18 @@
 
     
     
-   {
+  {
       "key": "csp_瓜子",
       "name": "🌰瓜子影视",
-     "type": 3,
+      "api": "csp_Gz360",
+      "type": 3,
       "searchable": 1,
       "playerType": 2,
       "jar": "./jar/xiaomi.jar",
       "timeout": 30,
       "changeable": 0
-     },
-    
+    },
+
    
 
  
