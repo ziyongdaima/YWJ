@@ -200,7 +200,7 @@
       "type": 3,
       "searchable": 1,
       "playerType": 2,
-      "jar": "./jar/xiaomi.jar",
+      "jar": "./lib/xiaomi.jar",
       "timeout": 30,
       "changeable": 0
     },
