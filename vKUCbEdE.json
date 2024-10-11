@@ -196,14 +196,13 @@
    {
       "key": "csp_瓜子",
       "name": "🌰瓜子影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
+     "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,	    
-      "filterable": 1,
-      "ext": "./lib/瓜子.js"
-    },
+      "playerType": 2,
+      "jar": "./jar/xiaomi.jar",
+      "timeout": 30,
+      "changeable": 0
+     },
     
    
 
@@ -291,7 +290,7 @@
      {
       "name": "2k解析",
       "type": 1,
-      "url": "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
+      "url": "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url=",
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
