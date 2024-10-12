@@ -196,7 +196,7 @@
   {
       "key": "csp_瓜子",
       "name": "🌰瓜子影视",
-      "api": "app接口API文件.js",
+      "api": "./lib/app接口API文件.js",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
