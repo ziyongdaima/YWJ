@@ -29,7 +29,7 @@
       "quickSearch": 1,
       "api": "http://www.mpanso.com/appys.js",
 	"categories": ["动漫",
-        "电视剧","综艺"]
+        "电视剧","综艺"],
       "ext": {
         "host": "http://110.42.37.106:7788/api.php/app/",
         "*": [
