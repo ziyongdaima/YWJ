@@ -55,16 +55,21 @@
     },
 
   {
-      "key": "君君",
-      "name": "⏮️ 君君4K",
-      "playerType": 1,
+      "key": "junjun",
+      "name": "🚗君君┃1080",
       "type": 3,
-      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "playUrl": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
-      "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
+      "api": "http://www.mpanso.com/appys.js",
+      "ext": {
+        "host": "http://122.228.85.203:1000/api.php/app/",
+        "*": [
+          "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+        ],
+	 "*": [
+          "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url="
+        ]
+      }
     },
 	
 
