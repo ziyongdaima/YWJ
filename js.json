@@ -20,20 +20,20 @@
 "changeable": 1,
 "ext":"动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#喜来乐#documentary#bbcdocumentary"},
 
-
-	 {
-      "key": "GUAZI",
-      "name": "🥁瓜子┃1080",
+    
+  {
+      "key": "csp_瓜子",
+      "name": "🌰瓜子影视",
+      "api": "./lib/app接口API文件.js",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "api": "http://www.mpanso.com/appys.js",
-	"categories": ["动漫",
-        "电视剧","综艺"],
+	"categories": ["电视剧","动漫","综艺"],
       "ext": {
         "host": "http://110.42.37.106:7788/api.php/app/",
         "*": [
-          "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url=",
+          "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
           ""
         ]
       }
