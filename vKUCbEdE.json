@@ -205,7 +205,7 @@
       "ext": {
         "host": "http://110.42.37.106:7788/api.php/app/",
         "*": [
-          "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
+          "http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url=",
           ""
         ]
       }
@@ -298,7 +298,7 @@
      {
       "name": "2k解析",
       "type": 1,
-      "url": "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url=",
+      "url": "http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url=",
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
