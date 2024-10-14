@@ -260,11 +260,7 @@
       "url": "Web"
     },
    
- {
-      "name": "mgtv",
-      "type": 1,
-      "url": "http://mgtv.ckflv.cn/?url="
-    },
+ { "name": "mgtv","type": 1, "url": "http://mgtv.ckflv.cn/?url="},
  
      {
       "name": "4K",
@@ -273,11 +269,7 @@
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐",
           "letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905" ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+        "header": {"User-Agent": "okhttp/4.9.1"}}},
  
  
  
@@ -289,11 +281,7 @@
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","tnmb","seven","bilibili", "1905"
         ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+        "header": {"User-Agent": "okhttp/4.9.1"}}},
  
      {
       "name": "2k解析",
@@ -303,11 +291,7 @@
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
         ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+        "header": {"User-Agent": "okhttp/4.9.1"}}},
  
      {
       "name": "小米",
@@ -317,14 +301,11 @@
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
         ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+        "header": {"User-Agent": "okhttp/4.9.1"}}},
  
-    {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
-    {"name": "华奇","type": 0,"url": "https://www.huaqi.live/?url="},
+    {"name": "西米","type": 1,"url": "https://jx.xmflv.com/?url="},
+    {"name": "华奇","type": 1,"url": "https://www.huaqi.live/?url="},
+    {"name": "麒麟","type": 1,"url": "http://43.248.129.14:20240/qilin/?url="},
  
     {
       "name": "摸鱼",
@@ -334,11 +315,7 @@
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","tnmb","seven","bilibili","NBY", "1905"
         ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    }
+        "header": {"User-Agent": "okhttp/4.9.1"}}}
  
 
    
