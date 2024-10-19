@@ -160,14 +160,14 @@
   
      
     {
-      "key": "秒播短剧",
-      "name": "📡秒播短剧",
+      "key": "星芽短剧",
+      "name": "📡星芽短剧",
       "type": 3,
-      "api": "csp_Wexduanjuvip",
-      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "./lib/星芽短剧.js"
     },
 
      {
