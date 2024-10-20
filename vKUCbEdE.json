@@ -201,9 +201,9 @@
       "type": 3,
       "searchable": 1,
       "playerType": 2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar",
+      "jar": "./lib/xiaomi.jar",
       "timeout": 30,
-      "categories": ["电视剧","动漫","综艺"],
+      "categories": ["电影","国产剧","综艺","短剧","动漫"],
       "changeable": 0
      
       
