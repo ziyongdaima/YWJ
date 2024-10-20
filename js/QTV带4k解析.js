@@ -33,7 +33,7 @@ var rule = {
 
     try {
         // 发起请求并获取响应
-        let responseText = request("http://39.104.230.177:1122/lxjx/mivip.php?url=" + input);
+        let responseText = request("" + input);
         console.log("响应文本:", responseText); // 查看原始响应内容
 
         // 解析 JSON 数据
