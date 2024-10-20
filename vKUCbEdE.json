@@ -203,7 +203,7 @@
       "playerType": 2,
       "jar": "./lib/xiaomi.jar",
       "timeout": 30,
-      "categories": ["电影","国产剧","综艺","短剧","动漫"],
+      "categories": ["国产剧","综艺","短剧","动漫"],
       "changeable": 0
      
       
