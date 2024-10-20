@@ -163,11 +163,11 @@
       "key": "星芽短剧",
       "name": "📡星芽短剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://bitbucket.org/249886372/ywj/raw/d204f5d2a47f631b43c07098ce52426e1e81fea5/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/星芽短剧.js"
+      "ext": "https://bitbucket.org/249886372/ywj/raw/a75f9b49dfc168b86bcc12ebfc8f2007f57f1ebe/js/星芽短剧.js"
     },
 
      {
@@ -306,7 +306,21 @@
     {"name": "西米","type": 1,"url": "https://jx.xmflv.com/?url="},
     {"name": "华奇","type": 1,"url": "https://www.huaqi.live/?url="},
     {"name": "麒麟","type": 1,"url": "http://43.248.129.14:20240/qilin/?url="},
- 
+
+     {
+      "name": "不卡",
+      "type": 1,
+      "url": "http://jk.xn--9hq.icu/jx/?url=",
+      "ext": {
+        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
+          "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+	  
     {
       "name": "摸鱼",
       "type": 1,
