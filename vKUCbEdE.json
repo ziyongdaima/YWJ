@@ -196,19 +196,17 @@
   {
       "key": "csp_瓜子",
       "name": "🌰瓜子影视",
-      "api": "./lib/app接口API文件.js",
+      "type": 3,
+     "api": "csp_Gz360",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
-      "api": "http://www.mpanso.com/appys.js",
-	"categories": ["电视剧","动漫","综艺"],
-      "ext": {
-        "host": "http://110.42.37.106:7788/api.php/app/",
-        "*": [
-          "http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url=",
-          ""
-        ]
-      }
+      "playerType": 2,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar",
+      "timeout": 30,
+      "categories": ["电视剧","动漫","综艺"],
+      "changeable": 0
+     
+      
     },
    
 
@@ -283,16 +281,7 @@
         ],
         "header": {"User-Agent": "okhttp/4.9.1"}}},
  
-     {
-      "name": "2k解析",
-      "type": 1,
-      "url": "http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url=",
-      "ext": {
-        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
-          "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
-        ],
-        "header": {"User-Agent": "okhttp/4.9.1"}}},
- 
+    
      {
       "name": "小米",
       "type": 1,
