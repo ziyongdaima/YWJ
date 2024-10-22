@@ -261,9 +261,9 @@
  { "name": "mgtv","type": 1, "url": "http://mgtv.ckflv.cn/?url="},
  
      {
-      "name": "4K",
+      "name": "芒果",
       "type": 1,
-      "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
+      "url": "http://jk.xn--9hq.icu/jx/mg.php?url=",
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐",
           "letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905" ],
@@ -292,9 +292,9 @@
         ],
         "header": {"User-Agent": "okhttp/4.9.1"}}},
  
-    {"name": "西米","type": 1,"url": "https://jx.xmflv.com/?url="},
-    {"name": "华奇","type": 1,"url": "https://www.huaqi.live/?url="},
-    {"name": "麒麟","type": 1,"url": "http://43.248.129.14:20240/qilin/?url="},
+    {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
+    {"name": "华奇","type": 0,"url": "https://www.huaqi.live/?url="},
+    {"name": "麒麟","type": 0,"url": "http://43.248.129.14:20240/qilin/?url="},
 
      {
       "name": "不卡",
@@ -322,6 +322,7 @@
  
 
    
-  ]
+  ],
+ "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"]
 
 }
