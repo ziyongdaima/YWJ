@@ -107,7 +107,7 @@
       "key": "csp_tengyun",
       "name": "🍁腾迅追剧js",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/drpy_libs/drpy2.min.js",
+      "api": "",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/修改文件/tengxun.js"
     },
 
