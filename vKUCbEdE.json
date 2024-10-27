@@ -227,15 +227,15 @@
     },
 
    {
-      "key": "君君",
-      "name": "⏮️ 君君4K",
+      "key": "闪电",
+      "name": "⏮️ 闪电影视",
       "playerType": 1,
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
+      "ext": "./lib/闪电.js"
     }
   
 
