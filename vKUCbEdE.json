@@ -55,7 +55,7 @@
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "./lib/腾讯.js"
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
     },
     {
       "key": "csp_mgtv",
@@ -71,7 +71,7 @@
 
     {
       "key": "玩偶",
-      "name": "👽玩偶视频",
+      "name": "👽玩偶云盘",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -294,12 +294,24 @@
  
     {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
     {"name": "华奇","type": 0,"url": "https://www.huaqi.live/?url="},
-    {"name": "麒麟","type": 0,"url": "http://43.248.129.14:20240/qilin/?url="},
+     {
+      "name": "巧技",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "ext": {
+        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
+          "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
 
      {
-      "name": "不卡",
+      "name": "qiaoji",
       "type": 1,
-      "url": "http://jk.xn--9hq.icu/jx/?url=",
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
