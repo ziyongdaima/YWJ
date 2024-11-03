@@ -55,7 +55,7 @@
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
+      "ext": "./lib/腾讯.js"
     },
     {
       "key": "csp_mgtv",
