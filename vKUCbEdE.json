@@ -258,7 +258,7 @@
       "url": "Web"
     },
    
- { "name": "mgtv","type": 1, "url": "http://mgtv.ckflv.cn/?url="},
+ 
  
      {
       "name": "芒果",
@@ -285,7 +285,7 @@
      {
       "name": "小米",
       "type": 1,
-      "url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
+      "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url=",
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
