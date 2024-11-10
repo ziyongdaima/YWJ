@@ -20,6 +20,22 @@
 "changeable": 1,
 "ext":"动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#喜来乐#documentary#bbcdocumentary"},
 
+
+	{
+      "key": "木偶弹幕",
+      "name": "️🎠┃木偶┃玩偶",
+      "type": 3,
+      "api": "csp_kongbai",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731218755036/zhenxin.jar;md5;54284DA5F9CABE0C623527D9D0944D6A",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json",
+        "siteUrl": "http://mogg.top",
+        "filter": ""
+      }
+    },
+
     
   {
       "key": "csp_瓜子",
