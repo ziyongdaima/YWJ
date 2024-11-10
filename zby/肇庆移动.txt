@@ -49,5 +49,6 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 纪实科教,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226658/1.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
 金鹰纪实,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 锤锤动漫,http://zzy789.xyz/douyu1.php?id=9018297#https://www.goodiptv.club/douyu/9018297
 大锤轮番,http://zzy789.xyz/douyu1.php?id=9220456#https://www.goodiptv.club/douyu/9220456
