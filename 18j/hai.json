@@ -14,15 +14,7 @@
       "filterable": 1
     },
 
-   {
-      "key": "jingping",
-      "name": "精品🍓影视",
-      "type": 0,
-      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
     
      {
       "key": "meowtv_115",
@@ -46,25 +38,7 @@
       ]
     },
 
-     {
-      "key": "meowtv_md",
-      "name": "麻豆🍓资源",
-      "type": 1,
-      "api": "https://c.mdvod.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "",
-        "categories": [
-        "偷拍自拍",
-        "字幕女忧",
-        "国产AV",
-        "吃瓜黑料",
-        "网红福利姬",
-        "91视频",
-        "删除"
-      ]
-    },
+
 
      {
       "key": "meowtv_jikun",
@@ -88,18 +62,7 @@
       ]
     },
       
-       {
-        "key": "橘猫🍓资源",
-        "name": "橘猫资源",
-        "api": "https://to.to-long.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影视",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 90
-      },
+    
  {
       "key": "meowtv_nxx",
       "name": "奶香香🍓资源",
