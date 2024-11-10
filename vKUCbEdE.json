@@ -116,15 +116,18 @@
     {
       "key": "mogg",
       "name": "🍄木偶云盘",
-       "type": 3,
-      "api": "csp_kongbai",
-      "jar": "./lib/muou.jar",
-      "searchable": 1,
-      "changeable": 0,
+        "type": 3,
+      "api": "csp_Wobg",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
       "ext": {
-        "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json",
-        "siteUrl": "http://mogg.top",
-        "filter": "https://git.acwing.com/iduoduo/orange/-/raw/main/wogg.json"
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://mogg.top",
+        "danmu": true
       }
     },
 
