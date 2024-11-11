@@ -157,10 +157,10 @@
     },
 	{
       "key": "csp_ju",
-      "name": "🍁justLivejs",
+      "name": "🍁瓜子js",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/drpy_libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/justLive.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/瓜子.js"
     },
 	{
       "key": "csp_5cz",
