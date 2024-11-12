@@ -70,7 +70,7 @@
 电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
 电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
-搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
+搞笑_陈翔六点半,http://159.75.85.63:35455/huya/11274154.flv
 
 斗鱼直播,#genre#
 1905电影,http://xxw.me0.cn/1905dy.php?id=1905a
