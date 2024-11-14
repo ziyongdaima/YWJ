@@ -73,19 +73,17 @@
     {
       "key": "玩偶",
       "name": "👽玩偶云盘",
-      "api": "csp_Wogg",
       "type": 3,
+      "api": "csp_WoGG",
       "searchable": 1,
-      "playerType": 2,
-      "jar": "./lib/xiaomi.jar",
-      "timeout": 30,
+      "quickSearch": 1,
+      "jar": "./lib/fan.txt",
       "changeable": 0,
       "ext": {
-        "site_urls": [
-          "https://wogg.xxooo.cf/",
-          "https://www.wogg.bf/",
-          "https://www.wogg.net/"
-        ]
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
       }
     },
    
