@@ -55,7 +55,14 @@
       }
     },
 	
-
+  {
+      "key": "csp_xiaomi",
+      "name": "🌹米UC┃4K4K",
+      "type": 3,
+      "api": "csp_Duopan",
+      "changeable": 0,
+      "ext": "http://www.mucpan.cc"
+    },
     
   {
       "key": "csp_瓜子v",
@@ -65,7 +72,6 @@
       "type": 3,
       "searchable": 1,
       "playerType": 2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar",
       "timeout": 30,
       "categories": ["电影","国产剧","短剧","综艺","动漫"],
       "changeable": 0
@@ -980,7 +986,7 @@
     "芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
  
  
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DMx.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DMx1.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
