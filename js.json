@@ -11,14 +11,50 @@
 	"ext": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/douban.js"},
 
 
-{
-"key": "Youtube",
-"name":"Youtube",
-"type": 4,
-"api":"http://zhangqun1818.serv00.net/yt/yt001.php",
-"searchable":1,
-"changeable": 1,
-"ext":"动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#喜来乐#documentary#bbcdocumentary"},
+ {
+      "key": "csp_zbhlj",
+      "name": "🐯虎牙直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext":"https://bitbucket.org/249886372/ywj/raw/d204f5d2a47f631b43c07098ce52426e1e81fea5/XYQHiker/虎牙直播x.json"
+    },
+ 
+ 
+    {
+      "key": "csp_Billi资源",
+      "name": "🐼哔哩资源",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/249886372/dmbj/raw/b299cd432ba225506c6cf5738096049423fc4eb2/json/Bili短剧xyq.json"
+    },
+
+	
+	  {
+      "key": "csp_LiteApple",
+      "name": "🍎苹果┃无光",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_LiteApple",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+
+
+  {
+      "key": "米搜",
+      "name": "🌾米搜┃4K4K",
+      "type": 3,
+      "api": "csp_MiSou",
+      "changeable": 0
+    },
 
 
 	{
@@ -35,7 +71,23 @@
         "filter": ""
       }
     },
-
+  {
+      "key": "csp_wanou",
+      "name": "🧸玩偶┃4K4K",
+      "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": {
+        "site_urls": [
+          "https://wogg.xxooo.cf/",
+          "https://www.wogg.bf/",
+          "https://www.wogg.net/"
+        ]
+      }
+    },
     
   {
       "key": "csp_瓜子",
@@ -60,9 +112,9 @@
       "name": "🌹米UC┃4K4K",
       "type": 3,
       "api": "csp_Duopan",
-	"categories": ["木偶电影","木偶剧集","木偶动漫"],   
+	"categories": ["小米电影","小米剧集","小米动漫"],   
       "changeable": 0,
-      "ext": "http://mogg.top"
+      "ext": "http://www.mucpan.cc"
     },
     
   {
@@ -78,6 +130,18 @@
       "changeable": 0
      
       
+    },
+
+	 {
+      "key": "君君",
+      "name": "⏮️ 君君4Kapp",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:1000/api.php/app/"
     },
    
 
