@@ -68,7 +68,21 @@
       }
     },
  
-    
+	{
+      "key": "木偶弹幕oo",
+      "name": "️🎠┃木偶┃玩偶oo",
+      "type": 3,
+      "api": "csp_wangpan",
+      
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "",
+        "siteUrl": "http://mogg.top",
+        "filter": ""
+      }
+    },
+	
   {
       "key": "csp_瓜子",
       "name": "🌰瓜子影视",
