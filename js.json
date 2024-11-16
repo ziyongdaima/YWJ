@@ -35,26 +35,6 @@
     },
 
 	
-	  {
-      "key": "csp_LiteApple",
-      "name": "🍎苹果┃无光",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-
-
-  {
-      "key": "米搜",
-      "name": "🌾米搜┃4K4K",
-      "type": 3,
-      "api": "csp_MiSou",
-      "changeable": 0
-    },
 
 
 	{
@@ -71,23 +51,7 @@
         "filter": ""
       }
     },
-  {
-      "key": "csp_wanou",
-      "name": "🧸玩偶┃4K4K",
-      "api": "csp_Wogg",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": {
-        "site_urls": [
-          "https://wogg.xxooo.cf/",
-          "https://www.wogg.bf/",
-          "https://www.wogg.net/"
-        ]
-      }
-    },
+ 
     
   {
       "key": "csp_瓜子",
@@ -1051,7 +1015,7 @@
     "芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
  
  
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DMxm.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DM.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
