@@ -11,15 +11,19 @@
 	"ext": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/douban.js"},
 
 
- {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "📀玩偶哥哥(优)",
+	{
+      "key": "木偶h弹幕",
+      "name": "️🎠┃木偶┃hh玩偶",
       "type": 3,
-      "api": "csp_XYQHikerAL",
+      "api": "csp_kongbai",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731218755036/zhenxin.jar;md5;54284DA5F9CABE0C623527D9D0944D6A",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/XYQHiker/%E7%BD%91%E7%9B%98.json"
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json",
+        "siteUrl": "http://www.mucpan.cc",
+        "filter": ""
+      }
     },
 	
 
@@ -58,7 +62,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json",
+        "commonConfig": "",
         "siteUrl": "http://mogg.top",
         "filter": ""
       }
