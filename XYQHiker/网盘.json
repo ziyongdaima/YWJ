@@ -12,7 +12,7 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     //"分类链接": "http://www.mucpan.cc/index.php/vodshow/{cateId}--{by}------{catePg}---{year}.html",
-    "分类链接": "http://www.mucpan.cc/vodshow/{cateId}--{by}------{catePg}---{year}.html",
+    "分类链接": "http://www.mucpan.cc/index.php/vodshow/{cateId}--{by}------{catePg}---{year}.html",
     "分类名称": "小米电影&小米剧集&小米动漫",
     "分类名称替换词": "20&21&22",
     //"筛选数据": {},
