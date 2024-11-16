@@ -12,6 +12,18 @@
 
 
  {
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "📀玩偶哥哥(优)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/XYQHiker/main/网盘.json"
+    },
+	
+
+ {
       "key": "csp_zbhlj",
       "name": "🐯虎牙直播",
       "type": 3,
