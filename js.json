@@ -127,6 +127,24 @@
     },
 
 	 {
+      "key": "夸克木偶弹幕",
+      "name": "🍁木偶资源┃4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+  
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://mogg.小胡.top",
+        "danmu": true
+      }
+    },
+
+	 {
       "key": "君君",
       "name": "⏮️ 君君4Kapp",
       "playerType": 1,
@@ -1045,7 +1063,7 @@
     "芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
  
  
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DM1.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/jar/danmu.php",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
