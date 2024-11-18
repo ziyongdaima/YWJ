@@ -25,6 +25,20 @@
         "filter": ""
       }
     },
+
+		{
+      "key": "木偶hbb弹幕",
+      "name": "️🎠┃木偶┃zxcs玩偶",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json",
+        "siteUrl": "http://www.mucpan.cc",
+        "filter": ""
+      }
+    },
 	
 
  {
@@ -70,9 +84,9 @@
  
 	{
       "key": "木偶弹幕oo",
-      "name": "️🎠┃木偶┃玩偶sy",
+      "name": "️🎠┃木偶┃玩偶sy1",
       "type": 3,
-      "api": "csp_kongbai",
+      "api": "csp_wangpan",
       
       "searchable": 1,
       "changeable": 0,
