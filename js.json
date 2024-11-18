@@ -30,7 +30,7 @@
       "key": "木偶hbb弹幕",
       "name": "️🎠┃木偶┃zxcs玩偶",
       "type": 3,
-      "api": "csp_kongbai",
+      "api": "csp_wangpan",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -71,8 +71,8 @@
       "key": "木偶弹幕",
       "name": "️🎠┃木偶┃玩偶zx",
       "type": 3,
-      "api": "csp_kongbai",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731218755036/zhenxin.jar;md5;54284DA5F9CABE0C623527D9D0944D6A",
+      "api": "csp_Duopan",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar",
       "searchable": 1,
       "changeable": 0,
       "ext": {
