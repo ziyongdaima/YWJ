@@ -13,7 +13,7 @@
 
 	{
       "key": "木偶h弹幕",
-      "name": "️🎠┃木偶┃hh玩偶",
+      "name": "️🎠┃木偶┃zx玩偶",
       "type": 3,
       "api": "csp_kongbai",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731218755036/zhenxin.jar;md5;54284DA5F9CABE0C623527D9D0944D6A",
@@ -55,7 +55,7 @@
 
 	{
       "key": "木偶弹幕",
-      "name": "️🎠┃木偶┃玩偶",
+      "name": "️🎠┃木偶┃玩偶zx",
       "type": 3,
       "api": "csp_kongbai",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731218755036/zhenxin.jar;md5;54284DA5F9CABE0C623527D9D0944D6A",
@@ -70,9 +70,9 @@
  
 	{
       "key": "木偶弹幕oo",
-      "name": "️🎠┃木偶┃玩偶oo",
+      "name": "️🎠┃木偶┃玩偶sy",
       "type": 3,
-      "api": "csp_Duopan",
+      "api": "csp_kongbai",
       
       "searchable": 1,
       "changeable": 0,
@@ -1063,7 +1063,7 @@
     "芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
  
  
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/jar/danmu.php",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/jar/zx.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
