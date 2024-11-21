@@ -4,5 +4,5 @@
 "name":"老白聽書_JS","instance":"laobai20240831","webSite":"https://apk-lb-json.fodexin.com","remark":"","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0},
 {"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/gzys.js",
 "name":"瓜子影視_JS","instance":"gzys20240822","webSite":"https://api.zaqohu.com","remark":"不支持搜索","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0},
-{"api":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/js/%E5%8D%97%E7%93%9C.js",
-"name":"南瓜影視_JS","instance":"ngys20241121","webSite":"http://ys.changmengyun.com","remark":"不支持搜索","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0}]
+{"api":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/js/1080%E9%97%AA%E7%94%B5.js",
+"name":"闪电影視","instance":"ngys20241121","webSite":"","remark":"不支持搜索","noHistory":false,"userAgent":"","displayClassList":[],"blockClassList":[],"isLock":false,"uiType":0}]
