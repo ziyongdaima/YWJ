@@ -1,6 +1,6 @@
 {
 
-  "spider": "./DM.jar",
+  "spider": "./DMxm.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -16,13 +16,7 @@
 	
   "warningText": "主页刷新接口",
   "sites": [
-    {
-      "key": "豆瓣",
-      "name": "🎲豆瓣推荐",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/douban.js"
-    },
+   
   
     {
       "key": "csp_aiqiyi",
@@ -71,18 +65,20 @@
 
     {
       "key": "玩偶",
-      "name": "👽玩偶云盘",
+      "name": "🎲玩偶云盘",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./lib/fan.txt",
+      "playerType": 2,
+      "categories": ["玩偶电影","玩偶剧集","动漫","短剧"],
+      "timeout": 30,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
+        "site_urls": [
+          "https://wogg.xxooo.cf/",
+          "https://www.wogg.bf/",
+          "https://www.wogg.net/"
+        ]
       }
     },
    
@@ -115,20 +111,12 @@
 
     {
       "key": "mogg",
-      "name": "🍄木偶云盘",
-        "type": 3,
-      "api": "csp_Wobg",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "http://mogg.top",
-        "danmu": true
-      }
+      "name": "🍄小米云盘",
+      "type": 3,
+      "api": "csp_wangpan",
+      "categories": ["小米电影","小米剧集","小米动漫"],
+      "changeable": 0,
+      "ext": "http://www.mucpan.cc"
     },
 
     {
@@ -220,7 +208,15 @@
     },
    
 
-   
+     {
+      "key": "csp_Wwys",
+      "name": "🐶汪汪影视",
+      "type": 3,
+      "playerType": 1,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/"
+    },
 
  
    
@@ -235,6 +231,8 @@
       "order_num": 0,
       "ext": "./lib/采集之王.js?type=url&params=./lib/采集动态.json"
     },
+
+
 
    {
       "key": "闪电",
@@ -270,15 +268,7 @@
    
  
  
-     {
-      "name": "芒果",
-      "type": 1,
-      "url": "http://jk.xn--9hq.icu/jx/mg.php?url=",
-      "ext": {
-        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐",
-          "letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905" ],
-        "header": {"User-Agent": "okhttp/4.9.1"}}},
- 
+   
  
  
  {
