@@ -183,8 +183,9 @@
       "key": "csp_aiqiyi",
       "name": "🍁爱奇艺追剧js",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/奇艺视频.js"
+      "playerType": 2,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/refs/heads/main/lib/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/refs/heads/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.txt"
     },
      {
       "key": "csp_优酷",
