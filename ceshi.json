@@ -38,50 +38,7 @@
       }
     },
   
-    {
-      "key": "csp_aiqiyi",
-      "name": "爱奇异视频",
-      "type": 3,
-      "api": "csp_lqiyi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,    
-      "filterable": 1
-      
-    },
-    {
-      "key": "csp_优酷",
-      "name": "优酷视频",
-      "type": 3,
-      "api": "csp_YouKu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1
-     
-    },
-    {
-      "key": "csp_tengyun",
-      "name": "腾讯视频",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,	    
-      "filterable": 1,
-      "ext": "./lib/腾讯.js"
-    },
-    {
-      "key": "csp_mgtv",
-      "name": "芒果视频",
-      "type": 3,
-      "api": "csp_Mgtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,	    
-      "filterable": 1
-     
-    },
+ 
 
   
 
@@ -137,7 +94,7 @@
       "key": "金牌资源",
       "name": "金牌影视",
      "type": 3,
-      "api": "csp_JPYS",
+      "api": "csp_WebJP",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -215,7 +172,7 @@
       "key": "csp_瓜子",
       "name": "瓜子影视",
       "type": 3,
-      "api": "csp_GZYS",
+      "api": "csp_Gz360",
       "type": 3,
       "searchable": 1,
       "playerType": 2
