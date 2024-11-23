@@ -106,7 +106,7 @@
       "key": "csp_瓜子v",
       "name": "🌰v瓜子影视",
       "type": 3,
-     "api": "csp_Gz360",
+     "api": "csp_GzYS",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
@@ -1055,7 +1055,7 @@
     "芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
  
  
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/jar/DMxm.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/jar/DMfxm.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
