@@ -64,6 +64,16 @@
     },
 
     {
+      "key": "csp_Wwys",
+      "name": "🐶汪汪影视",
+      "type": 3,
+      "playerType": 2,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/"
+    },
+
+    {
       "key": "玩偶",
       "name": "🎲玩偶云盘",
       "type": 3,
@@ -208,15 +218,7 @@
     },
    
 
-     {
-      "key": "csp_Wwys",
-      "name": "🐶汪汪影视",
-      "type": 3,
-      "playerType": 1,
-      "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
-    },
+ 
 
  
    
