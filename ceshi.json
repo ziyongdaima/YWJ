@@ -1,0 +1,363 @@
+{
+
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/jar/DMxm.jar",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./lib/DMBJ.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+
+  ],
+
+	
+  "warningText": "主页刷新接口",
+  "sites": [
+     {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+
+     {
+      "key": "配置中心",
+      "name": "配置｜中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+  
+    {
+      "key": "csp_aiqiyi",
+      "name": "爱奇异视频",
+      "type": 3,
+      "api": "csp_lqiyi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,    
+      "filterable": 1
+      
+    },
+    {
+      "key": "csp_优酷",
+      "name": "优酷视频",
+      "type": 3,
+      "api": "csp_YouKu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1
+     
+    },
+    {
+      "key": "csp_tengyun",
+      "name": "腾讯视频",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,	    
+      "filterable": 1,
+      "ext": "./lib/腾讯.js"
+    },
+    {
+      "key": "csp_mgtv",
+      "name": "芒果视频",
+      "type": 3,
+      "api": "csp_Mgtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,	    
+      "filterable": 1,
+     
+    },
+
+  
+
+    {
+      "key": "玩偶",
+      "name": "玩偶云盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "categories": ["玩偶电影","玩偶剧集","动漫","短剧"],
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "wogg": true,
+        "danmu": true
+      }
+    },
+   
+ {
+      "key": "夸克木偶弹幕",
+      "name": "小米云盘",
+      "type": 3,
+      "api": "csp_wangpan",
+      "quickSearch": 1,
+      "changeable": 1,
+      "categories": ["小米电影","小米剧集","小米动漫"],
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://www.mucpan.cc",
+        "danmu": true
+      }
+    },
+     
+     {
+      "key": "csp_XYQHiker_民影视",
+      "name": "♻农‍民影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      
+    },
+   
+     {
+      "key": "金牌资源",
+      "name": "金牌影视",
+     "type": 3,
+      "api": "csp_JPYS",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+  {
+      "key": "厂长弹幕",
+      "name": "厂长｜弹幕",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+  {
+      "key": "低端影视",
+      "name": "低端｜影视",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+ {
+      "key": "1905",
+      "name": "1905｜影视",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+ {
+      "key": "骚火影视",
+      "name": "骚火｜影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "铁剧影视",
+      "name": "铁剧｜影视",
+      "type": 3,
+      "api": "csp_BrYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	
+  
+  
+     
+    {
+      "key": "星芽短剧",
+      "name": "星芽短剧",
+      "type": 3,
+      "api": "csp_XYDJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+      
+    },
+
+ 
+    
+    
+  {
+      "key": "csp_瓜子",
+      "name": "瓜子影视",
+      "type": 3,
+      "api": "csp_GZYS",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2
+      },
+
+     {
+      "key": "三六零弹幕",
+      "name": "360影视",
+      "type": 3,
+      "api": "csp_Sp360",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+   
+{
+      "key": "哔嘀影视",
+      "name": "哔嘀｜影视",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+ 
+ {
+      "key": "无忧短剧",
+      "name": "无忧｜短剧",
+      "type": 3,
+      "api": "csp_Duanj",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "在线短剧",
+      "name": "在线｜短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "changeable": 0
+    }
+ 
+   
+ 
+  
+
+ 
+    
+  
+
+      
+ 
+  ],
+  "parses": [
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+   
+ 
+ 
+   
+ 
+ 
+ {
+      "name": "1080",
+      "type": 1,
+      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
+      "ext": {
+        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
+          "mgtv","芒果","tnmb","seven","bilibili", "1905"
+        ],
+        "header": {"User-Agent": "okhttp/4.9.1"}}},
+ 
+    
+     {
+      "name": "小米",
+      "type": 1,
+      "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url=",
+      "ext": {
+        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
+          "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
+        ],
+        "header": {"User-Agent": "okhttp/4.9.1"}}},
+ 
+    {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
+    {"name": "华奇","type": 0,"url": "https://www.huaqi.live/?url="},
+    {"name": "一线","type": 0,"url": "https://bd.jx.cn/?url="},
+    {"name": "二线","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
+    {"name": "8090", "type": 0,"url": "https://www.8090g.cn/?url="},
+    {"name": "m3u8","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
+    {"name": "CK","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
+    {
+      "name": "巧技",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "ext": {
+        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
+          "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+
+     {
+      "name": "qiaoji",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "ext": {
+        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
+          "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+	  
+    {
+      "name": "摸鱼",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
+      "ext": {
+        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
+          "mgtv","芒果","tnmb","seven","bilibili","NBY", "1905"
+        ],
+        "header": {"User-Agent": "okhttp/4.9.1"}}}
+ 
+
+   
+  ],
+ "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"]
+
+}
