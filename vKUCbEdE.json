@@ -208,10 +208,10 @@
      "api": "csp_Gz360",
       "type": 3,
       "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "categories": ["国产剧","综艺","短剧","动漫"],
-      "changeable": 0
+      "jar": "./lib/feimao.txt",
+      "playerType": 2
+      
+     
      
       
     },
