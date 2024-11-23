@@ -55,3 +55,5 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
 1905电影,http://xxw.me0.cn/1905dy.php?id=1905a
 豆瓣高分,http://zzy789.xyz/douyu1.php?id=8770422#http://159.75.85.63:35455/douyu/8770422
 漫威剧情,http://zzy789.xyz/douyu1.php?id=6140589#http://159.75.85.63:35455/douyu/6140589
+陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
+电影周星驰,http://120.77.28.4:8648/huya.php?id=11342412
