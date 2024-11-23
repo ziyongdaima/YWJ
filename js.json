@@ -74,23 +74,6 @@
 
 
 
-  {
-      "key": "csp_瓜子",
-      "name": "🌰瓜子影视",
-      "api": "./lib/app接口API文件.js",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "http://www.mpanso.com/appys.js",
-	"categories": ["电视剧","动漫","综艺"],
-      "ext": {
-        "host": "http://110.42.37.106:7788/api.php/app/",
-        "*": [
-          "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
-          ""
-        ]
-      }
-    },
 	
   {
       "key": "csp_xiaomi",
@@ -106,7 +89,7 @@
       "key": "csp_瓜子v",
       "name": "🌰v瓜子影视",
       "type": 3,
-     "api": "csp_GzYS",
+     "api": "csp_Gz360",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
@@ -136,37 +119,16 @@
     },
 
 	 {
-      "key": "君君",
-      "name": "⏮️ 君君4Kapp",
-      "playerType": 1,
+      "key": "瓜子",
+      "name": "🍉瓜子┃APP",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Gz360",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
+      "order_num": 0,
+      "changeable": 0
     },
-   
-
-  {
-      "key": "junjun",
-      "name": "🚗君君┃1080",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "http://www.mpanso.com/appys.js",
-      "ext": {
-        "host": "http://122.228.85.203:1000/api.php/app/",
-        "*": [
-          "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
-        ],
-	 "*": [
-          "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url="
-        ]
-      }
-    },
-	
-
  {
       "key": "meowtv_ffzy",
       "name": "🍒采集资源",
@@ -1055,7 +1017,7 @@
     "芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
  
  
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/jar/DMfxm.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/jar/DMxm.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
