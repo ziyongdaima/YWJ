@@ -25,26 +25,24 @@
         "filter": ""
       }
     },
-
-
-  {
-      "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
+ {
+      "key": "csp_Bili",
+      "name": "🆎哔哩┃哔哩",
       "type": 3,
       "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/refs/heads/main/json/Bili%E7%9F%AD%E5%89%A7xyq.json",
+        "cookie": ""
+      },
       "style": {
         "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/refs/heads/main/json/Bili%E7%9F%AD%E5%89%A7xyq.json"
+        "ratio": 1.333
       }
-    },	
+    },
 
-	
+ 
+      
 
  {
       "key": "csp_zbhlj",
