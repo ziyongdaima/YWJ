@@ -32,7 +32,7 @@
       "api": "csp_Bili",
       "playerType": 2,
       "ext": {
-        "json": "https://bitbucket.org/249886372/dmbj/raw/b299cd432ba225506c6cf5738096049423fc4eb2/json/Bili短剧xyq.json",
+        "json": "https://3450.kstore.vip/bibi.json",
         "cookie": ""
       },
       "style": {
@@ -1030,7 +1030,7 @@
     "芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
  
  
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732528193331/1125xm.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DMxm1.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
