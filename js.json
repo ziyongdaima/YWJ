@@ -64,7 +64,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/音乐.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/Bili短剧xyq.json"
     },
 
 	 {
@@ -1030,7 +1030,7 @@
     "芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
  
  
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/1127DMxm.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/DMxm.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
