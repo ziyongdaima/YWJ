@@ -38,14 +38,31 @@
           "http://ucmi.fun",
           "http://www.ucmi.fun"
         ],
-        "url_key": "MiUc",
+        "url_key": "UCwangpan",
         "threadinfo": {
           "chunksize": 450,
           "threads": 10
         }
       }
     },
-	
+	 {
+      "key": "csp_UCbb",
+      "name": "💌MIUCbb┃4K4K",
+      "type": 3,
+      "api": "csp_UCwangpan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://mogg.top"
+         
+        ],
+        "url_key": "UCwangpan",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
+      }
+    },
  {
       "key": "csp_Bili",
       "name": "🆎哔哩┃哔哩",
