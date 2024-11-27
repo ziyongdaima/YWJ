@@ -144,13 +144,21 @@
     {
       "key": "csp_Bili资源",
       "name": "🐼哔哩资源",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/Bili短剧xyq.json"
+       "api": "csp_Bili",
+      "playerType": 2,
+      "jar": "./lib/1127DMxm.jar",
+      "ext": {
+        "json": "./lib/Bili短剧xyq.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
     },
+
+
+
     {
       "key": "csp_Bili音乐",
       "name": "🎧哔哩音乐",
