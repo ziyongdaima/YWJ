@@ -28,9 +28,9 @@
 
  {
       "key": "csp_UC",
-      "name": "💌MIUC┃4K4K",
+      "name": "💌MiUC┃4K4K",
       "type": 3,
-      "api": "csp_UCwangpan",
+      "api": "csp_MiUc",
       "filterable": 1,
       "ext": {
         "site_urls": [
@@ -38,7 +38,7 @@
           "http://ucmi.fun",
           "http://www.ucmi.fun"
         ],
-        "url_key": "UCwangpan",
+        "url_key": "MiUc",
         "threadinfo": {
           "chunksize": 450,
           "threads": 10
@@ -49,14 +49,14 @@
       "key": "csp_UCbb",
       "name": "💌MIUCbb┃4K4K",
       "type": 3,
-      "api": "csp_UCwangpan",
+      "api": "csp_MiUc",
       "filterable": 1,
       "ext": {
         "site_urls": [
           "http://mogg.top"
          
         ],
-        "url_key": "UCwangpan",
+        "url_key": "MiUc",
         "threadinfo": {
           "chunksize": 450,
           "threads": 10
@@ -98,7 +98,7 @@
       "key": "csp_Billi资源",
       "name": "🐼哔哩资源",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiLi",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
