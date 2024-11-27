@@ -45,20 +45,20 @@
         }
       }
     },
-	 {
-      "key": "csp_UCbb",
-      "name": "💌MIUCbb┃4K4K",
+  {
+      "key": "csp_Netfixtv",
+      "name": "💯至臻┃4K4K",
       "type": 3,
-      "api": "csp_MiUc",
+      "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
         "site_urls": [
           "http://mogg.top"
-         
+          
         ],
-        "url_key": "MiUc",
+        "url_key": "Duopan",
         "threadinfo": {
-          "chunksize": 450,
+          "chunksize": 250,
           "threads": 10
         }
       }
