@@ -98,11 +98,11 @@
       "key": "csp_Billi资源",
       "name": "🐼哔哩资源",
       "type": 3,
-      "api": "csp_BiLi",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/Bili短剧xyq.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/BiBi合集.json"
     },
 
 	 {
