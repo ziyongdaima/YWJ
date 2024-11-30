@@ -146,17 +146,10 @@
       "key": "csp_Bili",
       "name": "🐼哔哩资源",
       "type": 3,
-      "jar": "./lib/1127DMxm.jar",
       "api": "csp_Bili",
       "playerType": 2,
-      "ext": {
-        "json": "./lib/Bili短剧xyq.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
+      "ext": "./lib/Bili短剧xyq.json"
+ 
     },
 
 	  
