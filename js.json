@@ -324,10 +324,10 @@
 	
 	{
       "key": "csp_yxdm",
-      "name": "🍁怡萱动漫js",
+      "name": "🍁小米UC盘js",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/drpy_libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/怡萱动漫.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/小米UC盘.js"
     },
 	{
       "key": "csp_dyzb",
@@ -377,7 +377,55 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/drpy_libs/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/酷云77.js"
     },
+
+
+{
+      "key": "csp_pydouydj",
+      "name": "🍁斗鱼py",
+      "type": 3,
+      "api": "py_douyu",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/斗鱼.py"
+    },
+
+{
+      "key": "csp_pydysdj",
+      "name": "🍁央视py",
+      "type": 3,
+      "api": "py_douyu",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/央视片库.py"
+    },
 	
+	{
+      "key": "csp_pydalydj",
+      "name": "🍁alpy",
+      "type": 3,
+      "api": "py_douyu",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/alist.py"
+    },
+
+{
+      "key": "csp_pydcctvdj",
+      "name": "🍁cctvpy",
+      "type": 3,
+      "api": "py_douyu",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/cctv.py"
+    },
+
+	{
+      "key": "csp_pbaipydj",
+      "name": "🍁白嫖py",
+      "type": 3,
+      "api": "py_douyu",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/白嫖.py"
+    },
+
+	{
+      "key": "csp_phyouydj",
+      "name": "🍁虎牙py",
+      "type": 3,
+      "api": "py_douyu",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/虎牙.py"
+    },
 	
   {
       "key": "csp_Cz348",
