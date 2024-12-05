@@ -19,7 +19,7 @@
   "sites": [
       {
       "key": "配置",
-      "name": "🔧️网盘┃配置",
+      "name": "⏮️网盘┃配置",
       "type": 3,
       "changeable": 0,
       "searchable": 0,
@@ -28,7 +28,7 @@
 
     {
       "key": "csp_QQ",
-      "name": "🐧QQ视频",
+      "name": "▶️QQ视频",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -39,7 +39,7 @@
     },
     {
       "key": "csp_ggtv",
-      "name": "🍁芒果TV",
+      "name": "⏭️芒果TV",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -62,7 +62,7 @@
 
    {
       "key": "csp_Bi",
-      "name": "🆎哔哩站源",
+      "name": "⚛️哔哩站源",
       "type": 3,
       "api": "csp_Bili",
       "playerType": 2,
@@ -84,7 +84,7 @@
 
      {
       "key": "csp_SuBaiBai",
-      "name": "☁️白白影视",
+      "name": "☯️白白影视",
       "type": 3,
       "api": "csp_SuBaiBai",
       "playerType": 2,
@@ -95,7 +95,7 @@
     
     {
       "key": "huohuo",
-      "name": "💥火火影视",
+      "name": "✡️火火影视",
       "type": 3,
       "changeable": 0,
       "api": "csp_SaoHuo"
