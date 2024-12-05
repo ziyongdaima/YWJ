@@ -20,7 +20,7 @@
   
     {
       "key": "csp_aiqiyi",
-      "name": "🍄爱奇异视频",
+      "name": "🥝爱奇异视频",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -31,7 +31,7 @@
     },
     {
       "key": "csp_优酷",
-      "name": "🎉优酷视频",
+      "name": "🛡️优酷视频",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -53,7 +53,7 @@
     },
     {
       "key": "csp_mgtv",
-      "name": "🍁芒果视频",
+      "name": "🍋芒果视频",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -144,7 +144,7 @@
 
  {
       "key": "csp_Bili",
-      "name": "🐼哔哩资源",
+      "name": "☯️哔哩资源",
       "type": 3,
       "api": "csp_Bili",
       "playerType": 2,
