@@ -36,7 +36,7 @@
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
+      "ext": "./js/tengxunX.js"
     },
     {
       "key": "csp_ggtv",
@@ -47,7 +47,7 @@
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+      "ext": "./js/芒果X.js"
     },
 
   
