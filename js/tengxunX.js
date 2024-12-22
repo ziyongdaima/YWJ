@@ -24,8 +24,8 @@ var rule = {
     cate_exclude: '会员|游戏|全部',
     // class_name: '精选&电视剧&电影&综艺&动漫&少儿&纪录片',
     // class_url: 'choice&tv&movie&variety&cartoon&child&doco',
-    class_name: '精选&电影&电视剧&综艺&动漫&少儿&纪录片',
-    class_url: 'choice&movie&tv&variety&cartoon&child&doco',
+    class_name: '电影&电视剧&综艺&动漫&少儿&纪录片',
+    class_url: 'movie&tv&variety&cartoon&child&doco',
     limit: 20,
     // play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
