@@ -144,7 +144,7 @@
 
  {
       "key": "csp_Bili",
-      "name": "☯️哔哩资源",
+      "name": "📚哔哩资源",
       "type": 3,
       "api": "csp_Bili",
       "playerType": 2,
@@ -287,7 +287,7 @@
         "header": {"User-Agent": "okhttp/4.9.1"}}},
  
     {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
-    {"name": "华奇","type": 0,"url": "https://www.huaqi.live/?url="},
+  
     {"name": "一线","type": 0,"url": "https://bd.jx.cn/?url="},
     {"name": "二线","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
     {"name": "8090", "type": 0,"url": "https://www.8090g.cn/?url="},
@@ -319,17 +319,9 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    },
+    }
 	  
-    {
-      "name": "摸鱼",
-      "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url=",
-      "ext": {
-        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
-          "mgtv","芒果","tnmb","seven","bilibili","NBY", "1905"
-        ],
-        "header": {"User-Agent": "okhttp/4.9.1"}}}
+   
  
 
    
