@@ -245,6 +245,7 @@
       "type": 3,
       "api": "csp_SuBaiBai",
       "playerType": 2,
+      "categories": ["电影","国产剧","欧美剧","韩剧","动漫剧"],
       "ext": "https://subaibai.com/"
     }
   
