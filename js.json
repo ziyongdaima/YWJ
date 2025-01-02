@@ -210,7 +210,7 @@
       "name": "🍁优酷追剧js",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/drpy_libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/guazi2.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/文才2.js"
     },
      {
       "key": "csp_tengyun",
@@ -246,7 +246,7 @@
     },
  {
       "key": "csp_555",
-      "name": "🍁QTVjs",
+      "name": "🍁虎牙js",
       "type": 3,
 	  "searchable": 1,
       "quickSearch": 1,
@@ -254,7 +254,7 @@
       "order_num": 0,
       "changeable": 0,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/drpy_libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/js/QTV%E5%B8%A64k%E8%A7%A3%E6%9E%90.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/js/虎牙直播.js"
     },
 {
       "key": "csp_fr",
