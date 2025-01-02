@@ -233,7 +233,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/采集之王.js?type=url&params=../lib/采集动态.json"
+      "ext": "./lib/采集之王.js?type=url&params=./lib/采集动态.json"
     },
 
 
