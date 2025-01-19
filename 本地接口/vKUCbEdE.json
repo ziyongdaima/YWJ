@@ -64,13 +64,13 @@
     },
 
     {
-      "key": "csp_Wwys",
-      "name": "🐶汪汪影视",
+      "key": "sdgg",
+      "name": "🔥闪电云盘",
       "type": 3,
-      "playerType": 2,
+      "api": "csp_wangpan",
+      "categories": ["闪电电影","闪电剧集","闪电动漫","闪电短剧","闪电综艺"],
       "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
+      "ext": "http://1.95.79.193/"
     },
 
     {
