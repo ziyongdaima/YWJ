@@ -1,12 +1,12 @@
 {
 
-  "spider": "./DMxm.jar",
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "spider": "./jar/DM.jar",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/DMBJ.txt",
+      "url": "./txt/DMBJ.txt",
       "playerType": 2,
       "logo": "https://epg.iill.top/logo/{name}.png"
     }
@@ -27,7 +27,7 @@
       "quickSearch": 1,
       "playerType": 2,    
       "filterable": 1,
-      "ext": "./lib/奇艺视频.js"
+      "ext": "./js/奇艺视频.js"
     },
     {
       "key": "csp_优酷",
@@ -38,7 +38,7 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "./lib/you酷视频.js"
+      "ext": "./js/you酷视频.js"
     },
     {
       "key": "csp_tengyun",
@@ -49,7 +49,7 @@
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "./lib/腾讯.js"
+      "ext": "./js/腾讯.js"
     },
     {
       "key": "csp_mgtv",
@@ -60,38 +60,36 @@
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "./lib/芒果视频.js"
+      "ext": "./js/芒果视频.js"
     },
 
-    {
-      "key": "sdgg",
-      "name": "🔥闪电云盘",
+ {
+      "key": "csp_SaoHuo",
+      "name": "🔥蓝莓短剧",
       "type": 3,
-      "api": "csp_wangpan",
-      "categories": ["闪电电影","闪电剧集","闪电动漫","闪电短剧","闪电综艺"],
-      "changeable": 0,
-      "ext": "http://1.95.79.193/"
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext":"./json/XB你好帅短剧.json"
     },
 
     {
       "key": "玩偶",
       "name": "🎲玩偶云盘",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_WoGGGuard",
       "searchable": 1,
-      "playerType": 2,
-      "categories": ["玩偶电影","玩偶剧集","动漫","短剧"],
-      "timeout": 30,
+      "jar": "./jar/fan.txt;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
+      "categories": ["玩偶电影","玩偶剧集","动漫","短剧","云盘配置"],
+      "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "site_urls": [
-          "https://wogg.xxooo.cf/",
-          "https://www.wogg.bf/",
-          "https://www.wogg.net/"
-        ]
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
       }
     },
-   
+
 
      
      {
@@ -103,7 +101,7 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "./lib/农民影视.json"
+      "ext": "./json/虎牙直播.json"
     },
    
      {
@@ -114,59 +112,79 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./lib/DMx.jar",	
-      "changeable": 1
+      "changeable": 1,
+      "ext":"KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="
+     
     },
 
 
-    {
-      "key": "mogg",
-      "name": "👻小米云盘",
+
+      
+  {
+      "key": "csp_Xlys",
+      "name": "👻修罗影视",
       "type": 3,
-      "api": "csp_wangpan",
-      "categories": ["小米电影","小米剧集","小米动漫"],
-      "changeable": 0,
-      "ext": "http://www.mucpan.cc"
+      "api": "csp_xlys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.xlys.ltd.ua"
     },
 
-    {
-      "key": "csp_zbhj",
+   {
+      "key": "虎牙直播js",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext":"./lib/虎牙直播.json"
+      "playerType": 1,
+      "ext": "./js/虎牙直播.js"
     },
 	  
 
 
  {
       "key": "csp_Bili",
-      "name": "📚哔哩资源",
+      "name": "💌哔哩资源",
       "type": 3,
       "api": "csp_Bili",
       "playerType": 2,
-      "ext": "./lib/Bili短剧xyq.json"
+      "ext": "./json/Bili资源.json"
  
     },
 
 	  
 
-    {
-      "key": "csp_Bili音乐",
-      "name": "🎧哔哩音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/音乐.json"
-    },
 
    
-	
+	 {
+      "key": "csp_UC",
+      "name": "🍚小米云盘",
+      "type": 3,
+      "changeable": "0",
+      "api": "csp_DuopanGuard",
+      "categories": ["电影","剧集","动漫","综艺","短剧","闪电电影","闪电剧集","闪电动漫","闪电综艺","闪电短剧","木偶电影","木偶剧集","木偶动漫"],
+      "jar": "./jar/xm0327.jar;md5;6411fd495912c546a91ea10c03a76e99",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+        "https://xiaomi.banye.tech:7086",
+        "https://woog.nxog.eu.org",
+        "http://1.95.79.193/",
+        "https://mogg.banye.tech:7086"
+        
+        ],
+        "url_key": "UC",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 400,
+          "threads": 12
+        }
+      }
+    },
   
   
      
@@ -181,26 +199,21 @@
       "ext": "https://bitbucket.org/249886372/ywj/raw/a75f9b49dfc168b86bcc12ebfc8f2007f57f1ebe/js/星芽短剧.js"
     },
 
-     {
-      "key": "csp_XYQHiker_爱你短剧",
-      "name": "💕爱你短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/爱你短剧.json"
-    },
+
+    
     {
-      "key": "csp_XYQHiker_河马短剧",
+      "key": "csp_HMDJ",
       "name": "🎋河马短剧",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_AppHMDJ",
       "searchable": 1,
       "quickSearch": 1,
+      "categories": ["推荐","新剧","排行榜","经典好剧","微短剧大赛"],
       "filterable": 1,
-      "ext": "./lib/河马短剧.json"
-    },
+      "ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
+      },
+      
+    
 
     
     
@@ -208,16 +221,12 @@
       "key": "csp_瓜子",
       "name": "🌰瓜子影视",
       "type": 3,
-     "api": "csp_Gz360",
+     "api": "csp_AppGZ",
+     "categories": ["电影","电视剧","动漫","综艺"],
       "type": 3,
       "searchable": 1,
-      "jar": "./lib/DMx.jar",
       "playerType": 2
-      
-     
-     
-      
-    },
+       },
    
 
  
@@ -233,7 +242,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/采集之王.js?type=url&params=./lib/采集动态.json"
+      "ext": "./js/采集之王.js?type=url&params=./json/采集动态.json"
     },
 
 
@@ -241,14 +250,60 @@
  
      {
       "key": "csp_SuBaiBai",
-      "name": "⏮️白白影视",
+      "name": "⏮️移动影视",
       "type": 3,
-      "api": "csp_SuBaiBai",
+      "api": "csp_YDjisu",
+      "searchable":1,
+      "changeable":1
+    },
+    
+    
+  {
+      "key": "巧技",
+      "name": "📽️巧技专线",
+      "type": 3,
+      "api": "csp_qiao2",
       "playerType": 2,
-      "categories": ["电影","国产剧","欧美剧","韩剧","动漫剧"],
-      "ext": "https://subaibai.com/"
+      "jar": "./jar/QJ.jar",
+      "ext": "./txt/QJZX.txt"
+    },
+    
+ 
+    {
+     "key":"韩小圈",
+     "name":"🌂韩圈｜影视",
+     "type":3,
+     "api":"csp_HanXiaoQuan",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+    },
+
+
+      {
+      "key": "Wexpan123ziyuanGuard",
+      "name": "🐻123网盘",
+      "type": 3,
+      "api": "csp_Wexpan123ziyuanGuard",
+      "jar": "./jar/wex.txt;md5;e2d407df1191777ce506ef1896142098",
+      "searchable": 1,
+      "changeable": 1
+    },
+    
+       {
+      "key": "csp_UCss",
+      "name": "⏳️优汐搜索",
+      "type": 3,
+      "api": "csp_UuSsGuard",
+      "jar": "./jar/fan.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     }
-  
 
  
     
@@ -268,25 +323,10 @@
       "type": 3,
       "url": "Web"
     },
-   
- 
- 
-   
- 
 
-    
-     {
-      "name": "小米",
-      "type": 1,
-      "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url=",
-      "ext": {
-        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
-          "mgtv","芒果","tnmb","seven","bilibili", "1905","NetFilx"
-        ],
-        "header": {"User-Agent": "okhttp/4.9.1"}}},
  
     {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
-  
+    {"name": "夜幕","type": 0,"url": "https://www.yemu.xyz/v/d.php?url="},
     {"name": "一线","type": 0,"url": "https://bd.jx.cn/?url="},
     {"name": "二线","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
     {"name": "8090", "type": 0,"url": "https://www.8090g.cn/?url="},
