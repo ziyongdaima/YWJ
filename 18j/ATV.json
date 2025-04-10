@@ -15,7 +15,7 @@
     {"key":"搜av资源","name":"搜av资源","type":1,"api":"https://api.souavzy.vip/api.php/provide/vod/at/json","searchable":0,"quickSearch":0},
         {
       "key": "美少女",
-      "name": "少女🍓影视",
+      "name": "美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -27,7 +27,7 @@
     
      {
       "key": "meowtv_115",
-      "name": "115🍓资源",
+      "name": "115",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/",
       "searchable": 1,
@@ -49,32 +49,12 @@
 
 
 
-     {
-      "key": "meowtv_jikun",
-      "name": "姬坤🍓资源",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "",
-        "categories": [
-        "日本无码",
-        "cosplay",
-        "SWAG",
-        "网红主播",
-        "自拍偷拍",
-        "探花系列",
-        "国产传媒",
-        "素人搭讪",
-        "门事件"
-      ]
-    },
+    
       
     
  {
       "key": "meowtv_nxx",
-      "name": "奶香香🍓资源",
+      "name": "奶香香",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -93,55 +73,14 @@
         "换脸明星"
       ]
     },
-        {
-      "key": "meowtv_ask",
-      "name": "奥斯卡🍓资源",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "",
-        "categories": [
-        "国产视频",
-        "国产传媒",
-        "国产主播",
-        "明星换脸",
-        "抖音视频",
-        "网曝黑料",
-        "极品媚黑",
-        "网红头条",
-        "韩国主播"
-      ]
-    },
       
        
 
-      {
-      "key": "老鸭",
-      "name": "老鸭🍓影视",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      
-        "categories": [
-        "国产色情",
-        "国产主播",
-        "自拍偷拍",
-        "AI换脸",
-        "国产传媒",
-        "网红黑料",
-        "学生系列",
-        "极品少妇",
-        "日本无码"
-      ]
-    },
+     
    
      {
       "key": "乐播",
-      "name": "乐播🍓福利",
+      "name": "乐播",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
       "searchable": 1,
