@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "",
+      "url": "./zby/DMBJ.txt",
       "playerType": 2,
       "logo": "https://epg.iill.top/logo/{name}.png"
     }
@@ -22,7 +22,7 @@
   
   
   
-    {
+   {
       "key": "csp_aiqiyi",
       "name": "🥝爱奇异视频",
       "type": 3,
@@ -31,7 +31,7 @@
       "quickSearch": 1,
       "playerType": 2,    
       "filterable": 1,
-      "ext": "./js/奇艺视频.js"
+      "ext": "./js/爱奇艺X.js"
     },
     {
       "key": "csp_优酷",
@@ -42,7 +42,7 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "./js/you酷视频.js"
+      "ext": "./js/优酷x.js"
     },
     {
       "key": "csp_tengyun",
@@ -53,7 +53,7 @@
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "./js/腾讯.js"
+      "ext": "./js/tengxunX.js"
     },
     {
       "key": "csp_mgtv",
@@ -64,10 +64,8 @@
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "./js/芒果视频.js"
+      "ext": "./js/芒果X.js"
     },
-
-
     {
       "key": "玩偶",
       "name": "🎲玩偶云盘",
