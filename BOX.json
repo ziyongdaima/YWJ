@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./txt/DMBJ.txt",
+      "url": "",
       "playerType": 2,
       "logo": "https://epg.iill.top/logo/{name}.png"
     }
