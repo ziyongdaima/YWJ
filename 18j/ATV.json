@@ -1,18 +1,18 @@
 {
-  "spider": "./DM.jar;md5;c435869db6a928f45df09b736d81f02f",
+  "spider": "./jar/DM.jar",
   "wallpaper":"" ,
   "sites": [
   
-      {"key":"博天堂资源","name":"博天堂资源","type":0,"api":"http://bttcjz.com/inc/sapi.php","searchable":0,"quickSearch":0},
+      {"key":"博天堂","name":"博天堂","type":0,"api":"http://bttcjz.com/inc/sapi.php","searchable":0,"quickSearch":0},
 
-      {"key":"丝袜资源","name":"丝袜资源","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
+      {"key":"丝袜资源","name":"丝袜","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 
-      {"key":"老色逼资源","name":"老色逼资源","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
+      {"key":"老色逼资源","name":"老色逼","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 
-    {"key":"乐播资源","name":"乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
+    {"key":"乐播资源","name":"乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 
   
-    {"key":"搜av资源","name":"搜av资源","type":1,"api":"https://api.souavzy.vip/api.php/provide/vod/at/json","searchable":0,"quickSearch":0},
+    {"key":"搜av资源","name":"搜av","type":1,"api":"https://api.souavzy.vip/api.php/provide/vod/at/json","searchable":0,"quickSearch":0},
         {
       "key": "美少女",
       "name": "美少女",
