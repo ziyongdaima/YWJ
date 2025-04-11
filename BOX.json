@@ -134,7 +134,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "playerType": 1,
+      "playerType": 2,
       "ext": "./js/虎牙直播.js"
     },
 	  
