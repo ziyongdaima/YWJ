@@ -229,20 +229,13 @@
     
 
      
-   {"key":"火火影视","name":"💡火火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
+   {"key":"火火影视","name":"🔥火火影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 
  
 
 
     
- {
-      "key": "csp_SaoHuo",
-      "name": "🔥蓝莓短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "ext":"./json/XB你好帅短剧.json"
-    },
+
 
 
       {
