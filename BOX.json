@@ -68,7 +68,7 @@
     },
     {
       "key": "玩偶",
-      "name": "📀玩偶云盘",
+      "name": "🎲玩偶云盘",
       "type": 3,
       "api": "csp_WoGGGuard",
       "searchable": 1,
@@ -167,30 +167,15 @@
       "ext": "https://bitbucket.org/249886372/ywj/raw/a75f9b49dfc168b86bcc12ebfc8f2007f57f1ebe/js/星芽短剧.js"
     },
 
+	  
+    {"key":"雨滴","name":"🎋雨滴影视","type":3,"api":"csp_Xdai","playerType":1,
+	    "ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"},
 
+  
+      {"key":"苹果影视","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
     
-    {
-      "key": "csp_HMDJ",
-      "name": "🎋百斯影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"./XYQHiker/百斯派.json"
-      },
-      
     
-    {
-      "key": "csp_HMDJ",
-      "name": "🎲VS影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"./XYQHiker/VS影院.json"
-      },
+   
       
     
     
@@ -207,8 +192,8 @@
    
 
  
-{"key":"csp_红狐狸影视","name":"🔨狐狸┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
- 
+
+ {"key":"奇妙","name":"🔨奇妙影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovLzE1NC4xMi45MS4yMTE6NjY4fDEyMzQ1Njc4OUFCQ0RFRkd8MTIzNDU2Nzg5QUJDREVGR3wxMDY="},
    
     {
       "key": "meowtv_ffzy",
