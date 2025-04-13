@@ -68,7 +68,7 @@
     },
     {
       "key": "玩偶",
-      "name": "🎲玩偶云盘",
+      "name": "📀玩偶云盘",
       "type": 3,
       "api": "csp_WoGGGuard",
       "searchable": 1,
@@ -95,7 +95,7 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "./json/农民影视.json"
+      "ext": "./XYQHiker/农民影视.json"
     },
    
      {
@@ -171,18 +171,27 @@
     
     {
       "key": "csp_HMDJ",
-      "name": "🎋河马短剧",
+      "name": "🎋百斯影视",
       "type": 3,
-      "api": "csp_AppHMDJ",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
-      "categories": ["推荐","新剧","排行榜","经典好剧","微短剧大赛"],
       "filterable": 1,
-      "ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
+      "ext":"./XYQHiker/百斯派.json"
       },
       
     
-
+    {
+      "key": "csp_HMDJ",
+      "name": "🎲VS影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"./XYQHiker/VS影院.json"
+      },
+      
     
     
   {
@@ -198,7 +207,7 @@
    
 
  
-
+{"key":"csp_红狐狸影视","name":"🔨狐狸┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
  
    
     {
