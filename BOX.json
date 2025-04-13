@@ -168,13 +168,7 @@
     },
 
 	  
-    {"key":"雨滴","name":"🎋雨滴影视","type":3,"api":"csp_Xdai","playerType":1,
-	    "ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"},
 
-  
-      {"key":"苹果影视","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
-    
-    
    
       
     
@@ -191,8 +185,6 @@
        },
    
 
-  {"key":"嗨皮影视","name":"🔨嗨皮影视","type":3,"api":"。/PY/嗨皮影视.py"
-	  ,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
 
    
