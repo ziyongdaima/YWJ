@@ -191,9 +191,10 @@
        },
    
 
- 
+  {"key":"嗨皮影视","name":"🔨嗨皮影视","type":3,"api":"。/PY/嗨皮影视.py"
+	  ,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
- {"key":"奇妙","name":"🔨奇妙影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovLzE1NC4xMi45MS4yMTE6NjY4fDEyMzQ1Njc4OUFCQ0RFRkd8MTIzNDU2Nzg5QUJDREVGR3wxMDY="},
+
    
     {
       "key": "meowtv_ffzy",
