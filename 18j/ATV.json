@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/DM.jar",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/jar/DMx.jarr",
   "wallpaper":"" ,
   "sites": [
   
@@ -103,18 +103,18 @@
      
      {
       "key": "csp_直播",
-      "name": "福利🍓直播",
+      "name": "福利",
       "type": 3,
-      "api": "./lib/直播转点播.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/直播转点播.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/直播转点播.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/直播转点播.txt"
     },
    
      {
       "key": "*白资源",
-      "name": "白云🍓资源",
+      "name": "白嫖",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -123,7 +123,7 @@
     },
        {
       "key": "*水资源",
-      "name": "水滴🍓资源",
+      "name": "水滴",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -133,7 +133,7 @@
      
        {
       "key": "gdlsp.com",
-      "name": "香儿🍓资源",
+      "name": "香奶",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
