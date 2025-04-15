@@ -227,8 +227,8 @@
       "name": "🐻123网盘",
       "type": 3,
       "api": "csp_Wexpan123ziyuanGuard",
-      "jar": "./jar/wex.txt;md5;e2d407df1191777ce506ef1896142098",
-      "searchable": 1,
+      "jar": "./jar/wex.txt",
+       "searchable": 1,
       "changeable": 1
     },
     
@@ -243,6 +243,7 @@
       "type": 3,
       "api": "csp_WexvipduanjuGuard",
       "jar": "./jar/wex.txt",
+      "categories": ["逆袭","虐恋","玄幻","重生","都市","现代言情","古装","古代言情","神豪","战神"],
       "searchable": 1,
       "changeable": 1
     },
