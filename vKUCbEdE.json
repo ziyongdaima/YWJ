@@ -19,53 +19,49 @@
    
   
   
-  
-  
-  
-  
-    {
+   {
       "key": "csp_aiqiyi",
       "name": "🥝爱奇异视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,    
       "filterable": 1,
-      "ext": "./js/奇艺视频.js"
+      "ext": "./js/爱奇艺X.js"
     },
     {
       "key": "csp_优酷",
       "name": "🛡️优酷视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "./js/you酷视频.js"
+      "ext": "./js/优酷x.js"
     },
     {
       "key": "csp_tengyun",
       "name": "🐧腾讯视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "./js/腾讯.js"
+      "ext": "./js/tengxunX.js"
     },
     {
       "key": "csp_mgtv",
       "name": "🍋芒果视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,	    
       "filterable": 1,
-      "ext": "./js/芒果视频.js"
+      "ext": "./js/芒果x.js"
     },
 
 
