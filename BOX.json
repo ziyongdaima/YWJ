@@ -119,9 +119,9 @@
       "name": "👻修罗影视",
       "type": 3,
       "api": "csp_xlys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
       "ext": "https://v.xlys.ltd.ua"
     },
 
