@@ -139,22 +139,19 @@
 
 
  {
-      "key": "csp_Bili",
-      "name": "💌哔哩资源",
+      "key": "haip",
+      "name": "💡嗨皮影视",
       "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": "./json/Bili资源.json"
- 
+      "api": "./py/嗨皮影视.py",
+      "categories": ["电影","剧集","动画","短剧","综艺"],
+      "searchable": 0,
+      "quickSearch": 0,
+      "playerType": 2
+     
     },
-
 	  
 
 
-   
-	
-  
-  
      
     {
       "key": "星芽短剧",
@@ -241,7 +238,7 @@
       "name": "🌎三盘搜索",
       "type": 3,
       "api": "csp_YpanSoGuard",
-      "jar": "./jar/fan.txt;md5;b070447e9df94e2350a300aabc346b85",
+      "jar": "./jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
