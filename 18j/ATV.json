@@ -101,16 +101,7 @@
      
      
      
-     {
-      "key": "csp_直播",
-      "name": "福利",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/直播转点播.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/直播转点播.txt"
-    },
+  
    
      {
       "key": "*白资源",
