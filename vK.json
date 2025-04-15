@@ -17,13 +17,6 @@
   "warningText": "主页刷新接口",
   "sites": [
    
-      {
-      "key": "csp_douban",
-      "name": "✡︎主页刷新",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable":0
-    },
   
    {
       "key": "csp_aiqiyi",
@@ -228,15 +221,7 @@
       "changeable":1
     },
     
-      {
-      "key": "Wexpan123ziyuanGuard",
-      "name": "🐻123网盘",
-      "type": 3,
-      "api": "csp_Wexpan123ziyuanGuard",
-      "jar": "./jar/wex.txt",
-       "searchable": 1,
-      "changeable": 1
-    },
+   
     
   
      
@@ -254,7 +239,6 @@
       "api": "csp_qiao2",
       "playerType": 2,
       "categories": ["搜索"],
-      "jar": "./jar/QJ.jar",
       "ext": "./txt/QJZX.txt"
     },
 
@@ -263,7 +247,7 @@
       "name": "🌎三盘搜索",
       "type": 3,
       "api": "csp_YpanSoGuard",
-      "jar": "./jar/fan.txt;md5;b070447e9df94e2350a300aabc346b85",
+      "jar": "./jar/fan.txt,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
