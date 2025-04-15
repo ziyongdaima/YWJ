@@ -136,13 +136,21 @@
       "ext": "./js/虎牙直播.js"
     },
 	  
-
+ {
+      "key": "csp_Bili",
+      "name": "💌哔哩资源",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": "./Bili/Bili资源.json"
+ 
+    },
 
  {
       "key": "haip",
       "name": "💡嗨皮影视",
       "type": 3,
-      "api": "./py/嗨皮影视.py",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/py/嗨皮影视.py",
       "categories": ["电影","剧集","动画","短剧","综艺"],
       "searchable": 0,
       "quickSearch": 0,
