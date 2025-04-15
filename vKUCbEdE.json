@@ -18,23 +18,10 @@
   "sites": [
    
   
-    {
-      "key": "csp_douban",
-      "name": "✡︎主页刷新",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/豆瓣.js"
-    },
   
   
-    {"key":"配置中心",
-    "name":"🌂配置中心",
-    "type":3,"api":"csp_Config",
-    "searchable":0,
-    "changeable":0,
-    "indexs":0,
-    "style":{"type":"rect","ratio":1.597}},
-
+  
+  
   
     {
       "key": "csp_aiqiyi",
@@ -160,7 +147,7 @@
       "type": 3,
       "api": "csp_Bili",
       "playerType": 2,
-      "ext": "./json/Bili资源.json"
+      "ext": "./Bili/Bili资源.json"
  
     },
 
@@ -168,34 +155,7 @@
 
 
    
-	 {
-      "key": "csp_UC",
-      "name": "🍚小米云盘",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_DuopanGuard",
-      "categories": ["电影","剧集","动漫","综艺","短剧","闪电电影","闪电剧集","闪电动漫","闪电综艺","闪电短剧","木偶电影","木偶剧集","木偶动漫"],
-      "jar": "./jar/xm.jar;md5;bb5b6235948920d74911e12f70b947cd",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-        "https://xiaomi.banye.tech:7086",
-        "https://woog.nxog.eu.org",
-        "http://1.95.79.193/",
-        "https://mogg.banye.tech:7086"
-        
-        ],
-        "url_key": "UC",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 400,
-          "threads": 12
-        }
-      }
-    },
-  
+	
   
      
     {
@@ -212,15 +172,14 @@
 
     
     {
-      "key": "csp_HMDJ",
-      "name": "🎋河马短剧",
+      "key": "csp_tqDJ",
+      "name": "🎋甜圈短剧",
       "type": 3,
-      "api": "csp_AppHMDJ",
+      "api": "./py/甜圈短剧.py",
       "searchable": 1,
       "quickSearch": 1,
-      "categories": ["推荐","新剧","排行榜","经典好剧","微短剧大赛"],
-      "filterable": 1,
-      "ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
+      "filterable": 1
+   
       },
       
     
@@ -277,22 +236,7 @@
       "changeable": 1
     },
     
-    {"key":"百盘",
-    "name":"🐮百度云盘",
-    "type":3,
-    "api":"csp_PanWebQu",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "style":{"type":"list","ratio":1.433},   "ext":"w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKhwqXDqcOUw6jDrMOiwphewpPCn8OmwprCpsKZwqHCp8KZwqBXwrPCk8Khw5Tlh7/phJvmj5XlkJNc5Yel5L6K5ZGxwrPlv6vop7notbTmu4DnrInDlsKawqbCmcKhwpfClcKTwqLDssOjw67DhMOfwqxXalDCoMOqw6/DssOjaWZmV8O2"},
-    
-    
-   {"key":"天翼",
-    "name":"🌺天翼云盘",
-     "type":3,"api":
-     "csp_PanWebShareCloudHM",
-     "searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
-     "style":{"type":"rect","ratio":1.433},"ext":"./json/天翼.json?"},
+  
      
    {"key":"火火影视","name":"💡火火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 
@@ -302,20 +246,12 @@
       "name": "🎬短剧综合",
       "type": 3,
       "api": "csp_WexvipduanjuGuard",
-      "jar": "./jar/wex.txt;md5;e2d407df1191777ce506ef1896142098",
+      "jar": "./jar/wex.txt",
       "searchable": 1,
       "changeable": 1
     },
 
-    
- {
-      "key": "csp_SaoHuo",
-      "name": "🔥蓝莓短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "ext":"./json/XB你好帅短剧.json"
-    },
+
 
 
       {
