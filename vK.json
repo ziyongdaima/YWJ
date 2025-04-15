@@ -247,7 +247,7 @@
       "name": "🌎三盘搜索",
       "type": 3,
       "api": "csp_YpanSoGuard",
-      "jar": "./jar/fan.txt,
+      "jar": "./jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
