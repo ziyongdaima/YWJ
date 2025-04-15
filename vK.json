@@ -94,7 +94,7 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "./json/农民影视.json"
+      "ext": "./XYQHiker/农民影视.json"
     },
    
      {
@@ -128,7 +128,7 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "playerType": 1,
