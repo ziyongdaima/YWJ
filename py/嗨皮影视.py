@@ -1,33 +1,33 @@
-# -*- 编码: utf-8 -*-
-# 由 @嗷呜
-导入系统模块
+# -*- coding: utf-8 -*-
+# 作者：@嗷呜
+import sys
 sys.path.append('..')
-从 base.spider 导入 Spider
-导入requests
+from base.spider import Spider
+import requests
 
 
-类蜘蛛(蜘蛛):
+class Spider(Spider):
 
-    def init(self, extend=""):
-        通过
+    def __init__(self, extend=""):
+        pass
 
     def getName(self):
         return "hitv"
 
     def isVideoFormat(self, url):
-        通过
+        pass
 
     def manualVideoCheck(self):
-        通过
+        pass
 
     def destroy(self):
-        通过
+        pass
 
     def homeContent(self, filter):
         result = {}
         cateManual = {
             # "直播": "live",
-            '排行榜': '排名',
+            '排行榜': 'rank',
             "电影": "1",
             "剧集": "2",
             "综艺": "3",
@@ -35,23 +35,23 @@ sys.path.append('..')
             "短片": "5"
         }
         classes = []
-        对于 k 在 cateManual:
+        for k in cateManual:
             classes.append({
                 'type_name': k,
                 'type_id': cateManual[k]
             })
         result['class'] = classes
-        返回结果
+        return result
 
     host = "https://wys.upfuhn.com"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) " 
                       "Chrome/80.0.3987.149 Safari/537.36"
     }
 
-    def 列表(self, 列表):
+    def list(self, list):
         videos = []
-        对于列表中的it：
+        for it in list:
             videos.append({
                 "vod_id": it['video_site_id'],
                 "vod_name": it['video_name'],
@@ -59,35 +59,34 @@ sys.path.append('..')
                 "vod_remarks": it['newest_series_num'],
                 "vod_year": it['years'],
             })
-        返回视频
+        return videos
 
     def homeVideoContent(self):
-        url = f'/{self.host}/v1/ys_videoSites/hot?t=1'
+        url = f'"{self.host}/v1/ys_video_sites/hot?t=1"
         data = requests.get(url, headers=self.headers).json()
         videos = self.list(data['data']['data'])
-        result = {'列表': 视频}
+        result = {'list': videos}
         返回结果
 
     def categoryContent(self, tid, pg, filter, extend):
-
-        path = f'/v1/ys_videoSites?t={tid}&s_t=0&a&y&o=0&ps=21&pn={pg}'
-        排名 = False
-        if tid == 'rank':
+        path = f' /v1/ys_video_sites?t={tid}&s_t=0&a&y&o=0&ps=21&pn={pg}'
+        rank = False
+        if tid == 'rank>:
             if pg == 1:
-                path = f'/v1/ys_videoSites/ranking'
-                排名 = True
-            否则:
+                path = f' /v1/ys_video_sites/ranking'
+                rank = True
+            else:
                 path = ''
         # elif tid == 'live' and pg == 1:
-        #     path = f'/v1/ys_live_tvs'
+        #     path = f' /v1/ys_live_tvs'
         videos = []
         result = {}
-        尝试:
+        try:
             data = requests.get(self.host + path, headers=self.headers).json()
-            如果排名：
-                对于 data['data'] 中的视频：
-                    videos.extend(data['data'][video])
-            否则:
+            if rank:
+                for video in data['data']:
+                    videos.
+            else:extend(data['data'][video])
                 videos = data['data']['data']
             result = {}
             result['list'] = self.list(videos)
@@ -95,34 +94,34 @@ sys.path.append('..')
             result['pagecount'] = 9999
             result['limit'] = 90
             result['total'] = 999999
-        例外:
+        except:
             result['list'] = []
-        返回结果
+        return result
 
     def detailContent(self, ids):
         tid = ids[0]
-        url = f'/{self.host}/v1/ys_video_series/by_vid/{tid}'
+        url = f'{self.host}/v1/ys_video_series/by_vid/{tid}'
         data = requests.get(url, headers=self.headers).json()
-        data1 = data['data']['ys_video_site']
+        data1 = data['data']['ys_video_site']]
         urls = []
-        对于 data['data']['data'] 中的 it：
+        for it in data['data']['data']:
             urls.append(it['系列编号'] + '$' + it['视频链接'])
         vod = {
-            'vod_name': data1['video_name'],
-            'type_name': data1['tag'],
-            'vod_year': data1['years'],
-            'vod_area': data1['area'],
-            'vod_director': data1['main_actor'],
-            'vod_content': data1['video_desc'],
-            'vod_play_from': '在线播放',
-            'vod_play_url': '#'.join(urls),
+            '视频名称': data1['视频名称'],
+            '类型名称': data1['标签'],
+            '视频年份': data1['年份'],
+            '视频地区': data1['地区'],
+            '视频导演': data1['主演'],
+            '视频内容': data1['视频描述'],
+            '视频播放来源': '嗨皮在线',
+            '视频播放链接': '#'.join(urls),
         }
-        结果 = {
-            'list': [
-                水
+        result = {
+            '列表':[
+                vod
             ]
         }
-        返回结果
+        return result
 
     def searchContent(self, key, quick, pg=1):
         url = f'/{self.host}/v1/ys_video_sites/search?s={key}&o=0&ps=200&pn={pg}'
@@ -133,18 +132,15 @@ sys.path.append('..')
         result = {}
         result['list'] = self.list(videos)
         result['page'] = pg
-        返回结果
+        return result
 
     def playerContent(self, flag, id, vipFlags):
-        结果 = {
+        result = {
             'url': id,
-            '解析': 0,
-            'header': self.headers
-        }
+            'parse': 0,
+            'header': self.
         返回结果
+        }headers
 
-    def localProxy(self, param):
-        通过
-Google 翻译
-原文
-提供更好的翻译建议
+    def localProxy(self, param>:
+        pass
