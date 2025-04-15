@@ -3,16 +3,43 @@
   "wallpaper":"" ,
   "sites": [
   
-      {"key":"博天堂","name":"博天堂","type":0,"api":"http://bttcjz.com/inc/sapi.php","searchable":0,"quickSearch":0},
+      {"key":"博天堂","name":"博天堂","type":0,"api":"http://bttcjz.com/inc/sapi.php","searchable":0,"quickSearch":0, "categories": [
+        "国产片商",
+        "无码典藏",
+        "中文字幕",
+        "日本AV",
+        "欧美刺激"
+       
+      ]},
 
-      {"key":"丝袜资源","name":"丝袜","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
+      {"key":"丝袜资源","name":"丝袜","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0, "categories": [
+        "亚洲无码",
+        "美女主播",
+        "国产自拍",
+        "欧美情色"
+       
+      ]},
 
-      {"key":"老色逼资源","name":"老色逼","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
+      {"key":"老色逼资源","name":"老色逼","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0,"categories": [
+        "亚洲无码",
+        "制服诱惑",
+        "AI换脸",
+        "网爆视频",
+        "国产传媒",
+        "主播直播",
+        "国产精品",
+        "国产探花",
+        "国产乱伦",
+        "国产丝袜",
+        "国产SM",
+        "国产人妻",
+        "自拍偷拍"
+      ]},
 
-    {"key":"乐播资源","name":"乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
+ 
 
   
-    {"key":"搜av资源","name":"搜av","type":1,"api":"https://api.souavzy.vip/api.php/provide/vod/at/json","searchable":0,"quickSearch":0},
+   
         {
       "key": "美少女",
       "name": "美少女",
