@@ -70,7 +70,7 @@
       "type": 3,
       "api": "csp_WoGGGuard",
       "searchable": 1,
-      "jar": "./jar/fan.txt;md5;b070447e9df94e2350a300aabc346b85",
+      "jar": "./jar/fan.txt",
       "categories": ["玩偶电影","玩偶剧集","动漫","短剧","云盘配置"],
       "quickSearch": 1,
       "changeable": 0,
