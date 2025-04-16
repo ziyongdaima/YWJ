@@ -1,6 +1,6 @@
 
 {
-    "cookie": "clan://XYQTVBox/bilicookie.txt",
+    
     "class": [
         {
             "type_name": "👓沙雕动漫",
@@ -29,7 +29,7 @@
 
 
     ],
-    "filter": {
+    "filters": {
         "一口气沙雕动漫": [
         
         	{
