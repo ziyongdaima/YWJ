@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./txt/DMBJ.txt",
+      "url": "./zby/DMBJ.txt",
       "playerType": 2,
       "logo": "https://epg.iill.top/logo/{name}.png"
     }
@@ -249,7 +249,7 @@
       "api": "csp_qiao2",
       "playerType": 2,
       "categories": ["搜索"],
-      "ext": "./txt/QJZX.txt"
+      "ext": "./zby/QJZX.txt"
     },
 
       {
