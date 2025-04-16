@@ -140,9 +140,19 @@
       "key": "csp_Bili",
       "name": "💌哔哩资源",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiLi",
       "playerType": 2,
-      "ext": "./Bili/Bili资源.json"
+      "ext": {
+        "json": "./Bili/xmBL资源.json",
+        "cookie": "DedeUserID=602263620;DedeUserID__ckMd5=a2d1051a27f8c630;Expires=1760340518;SESSDATA=7dcbcb69,1760340518,7a53e*42CjB9gw-ptGkprhxHjnWADOkxnuWO-ekQH3HQ2YjjlNa0Lg2UQAgCipMhMFBiNWeY90kSVnlzUUc0NEZHNEQ4VkMtc1BGa1hYVHNFUGdIN1BxOHVfNzluSW9QVklzVUdmalNIeUQ4Z0RXMUNrZ0hkakIzV1pNOFR2cnRCNmJicmllYmJ3eHRselFnIIEC;bili_jct=53b8abddf5f3515fd94fe0d1c7c87411;gourl=https://www.bilibili.com;first_domain=.bilibili.com;"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    
+ 
+    },
  
     },
 
