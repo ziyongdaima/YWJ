@@ -88,24 +88,23 @@
       "key": "csp_XYQHiker_民影视",
       "name": "♻️农‍民影视",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "./XYQHiker/农民影视.json"
+      "api":"csp_Wwys",
+	     "searchable":1,
+	     "quickSearch":1,
+	     "filterable":1,
+	     "ext":"https://wwgz.cn/"	
     },
    
      {
       "key": "金牌资源",
       "name": "🥇金牌影视",
      "type": 3,
-      "api": "csp_Jpys",
+      "api": "./py/金牌影视.py",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-
+      "changeable": 1,
+     "ext": {"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
      
     },
 
@@ -140,9 +139,9 @@
       "key": "csp_Bili",
       "name": "💌哔哩资源",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "./libs/drpy2.min.js",
       "playerType": 2,
-      "ext": "./Bili/Bili资源.json"
+      "ext": "./js/我的哔哩.js?type=url&params=../Bili/Bili资源.json"
  },
  
 
@@ -225,9 +224,7 @@
    
     
   
-     
-   {"key":"火火影视","name":"💡火火影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
-
+ 
  
 
 
