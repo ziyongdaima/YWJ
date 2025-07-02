@@ -362,7 +362,7 @@ var rule = {
                 part + '$' + aid + '_' + cid
             )
         });
-        treeMap['B站'] = playurls.join('#');
+        treeMap['播放'] = playurls.join('#');
         let relatedData = JSON.parse(html).data.Related;
         playurls = [];
         relatedData.forEach(function(rd) {
@@ -373,7 +373,7 @@ var rule = {
                 title + '$' + aaid + '_' + ccid
             )
         });
-        treeMap['欧歌推荐'] = playurls.join('#');
+        treeMap['哔哩推荐'] = playurls.join('#');
         vod.vod_play_from = Object.keys(treeMap).join("$$$");
         vod.vod_play_url = Object.values(treeMap).join("$$$");
         VOD = vod;
