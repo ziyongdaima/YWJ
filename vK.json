@@ -89,10 +89,10 @@
       "name": "♻️农‍民影视",
       "type": 3,
       "api":"csp_Wwys",
-	     "searchable":1,
-	     "quickSearch":1,
-	     "filterable":1,
-	     "ext":"https://wwgz.cn/"	
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wwgz.cn/"	
     },
    
      {
@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-     "ext": {"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
+      "ext": {"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
      
     },
 
@@ -141,7 +141,7 @@
       "type": 3,
       "api": "./libs/drpy2.min.js",
       "playerType": 2,
-      "ext": "./js/我的哔哩.js?type=url&params=../Bili/Bili资源.json"
+      "ext": "./js/我的哔哩.js?type=url&params=./Bili/Bili资源.json"
  },
  
 
