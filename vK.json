@@ -141,7 +141,7 @@
       "type": 3,
       "api": "./libs/drpy2.min.js",
       "playerType": 2,
-      "ext": "./js/我的哔哩.js?type=url&params=./Bili/Bili资源.json"
+      "ext": "./js/我的哔哩.js?type=url&params=../Bili/Bili资源.json"
  },
  
 
