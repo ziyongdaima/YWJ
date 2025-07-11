@@ -168,9 +168,9 @@
     
     {
       "key": "csp_tqDJ",
-      "name": "🎋甜圈短剧",
+      "name": "🎋蓝莓短剧",
       "type": 3,
-      "api": "./py/甜圈短剧.py",
+      "api": "./py/蓝莓短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
