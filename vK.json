@@ -170,7 +170,7 @@
       "key": "csp_tqDJ",
       "name": "🎋蓝莓短剧",
       "type": 3,
-      "api": "./py/蓝莓短剧.py",
+      "api": "https://cnb.cool/ztr2018/tvbox/-/git/raw/main/py/蓝莓短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
