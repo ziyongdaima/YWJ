@@ -18,51 +18,50 @@
   "sites": [
    
   
-   {
-      "key": "csp_aiqiyi",
+      {
+      "key": "csp_aqy",
       "name": "🥝爱奇异视频",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "csp_AuthIQIYI",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,    
-      "filterable": 1,
-      "ext": "./js/爱奇艺X.js"
+      "filterable": 1
+      
     },
     {
-      "key": "csp_优酷",
+      "key": "csp_uk",
       "name": "🛡️优酷视频",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "csp_AuthYOUKU",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
-      "filterable": 1,
-      "ext": "./js/优酷x.js"
+      "filterable": 1
+      
     },
     {
-      "key": "csp_tengyun",
+      "key": "csp_tx",
       "name": "🐧腾讯视频",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "csp_AuthQQ",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,	    
-      "filterable": 1,
-      "ext": "./js/tengxunX.js"
+      "filterable": 1
+      
     },
     {
-      "key": "csp_mgtv",
+      "key": "csp_mg",
       "name": "🍋芒果视频",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "csp_AuthMGTV",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,	    
-      "filterable": 1,
-      "ext": "./js/芒果x.js"
+      "filterable": 1
+     
     },
-
 
     {
       "key": "玩偶",
@@ -123,7 +122,7 @@
     },
 
    {
-      "key": "虎牙直播js",
+      "key": "虎牙js",
       "name": "🐯虎牙直播",
       "type": 3,
       "api": "./libs/drpy2.min.js",
@@ -154,14 +153,14 @@
   
      
     {
-      "key": "星芽短剧",
+      "key": "星芽",
       "name": "📡星芽短剧",
       "type": 3,
-      "api": "https://bitbucket.org/249886372/ywj/raw/d204f5d2a47f631b43c07098ce52426e1e81fea5/drpy_libs/drpy2.min.js",
+      "api": "csp_AppXY",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://bitbucket.org/249886372/ywj/raw/a75f9b49dfc168b86bcc12ebfc8f2007f57f1ebe/js/星芽短剧.js"
+      "changeable": 1
+    
     },
 
 
@@ -182,7 +181,7 @@
     
     
   {
-      "key": "csp_瓜子",
+      "key": "csp_gz",
       "name": "🌰瓜子影视",
       "type": 3,
      "api": "csp_Gz360",
@@ -198,7 +197,7 @@
  
    
     {
-      "key": "meowtv_ffzy",
+      "key": "meowtv_zy",
       "name": "🍒采集资源",
        "type": 3,
       "api": "./libs/drpy2.min.js",
@@ -213,7 +212,7 @@
 
  
      {
-      "key": "csp_SuBaiBai",
+      "key": "csp_yd",
       "name": "⏮️移动影视",
       "type": 3,
       "api": "csp_YDjisu",
