@@ -1,0 +1,29 @@
+[
+  {
+    "name": "推荐",
+    "list": [
+      {
+        "url": "",
+        "icon": "https://mpimg.cn/view.php/e009033f7c927f2c4de54557d9c1b962.jpg",
+        "version": " "
+      }
+    ]
+  },
+  {
+    "name": "本地包",
+    "list": [
+      {
+        "name": "当前版本",
+        "url": "",
+        "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png",
+        "version": ""
+      },
+      {
+        "name": "点击下载",
+        "url": "https://www.gitlink.org.cn/api/LLwj/YWJ/raw/%E6%9C%AC%E5%9C%B0%E6%8E%A5%E5%8F%A3%2FDM.zip?ref=main",
+        "icon": "https://9877.kstore.space/Market/single.png",
+        "version": "07.21.3"
+      }
+    ]
+  }
+]
