@@ -33,7 +33,7 @@
       "key": "csp_uk",
       "name": "🛡️优酷视频",
       "type": 3,
-      "api": "csp_AuthYOUKU",
+      "api": "./py/优酷视频.py",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
@@ -163,7 +163,7 @@
     
         {
             "key": "甜圈短剧",
-            "name": "🥨甜圈短剧",
+            "name": "🐌甜圈短剧",
             "type": 3,
             "api": "./py/甜圈短剧.py",
             "searchable": 1,
@@ -207,7 +207,7 @@
             "key": "行动",
             "name": "👑行动APP",
             "type": 3,
-            "api": "csp_AppSy",
+            "api": "csp_AppYs",
             "ext": {
                 "url": "http://160.202.246.9:2356",
                 "key1": "aassddwwxxllsx1x",
