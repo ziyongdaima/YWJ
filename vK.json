@@ -72,6 +72,7 @@
       "name": "♻️农‍民影视",
       "type": 3,
       "api":"csp_Wwys",
+	     "categories": ["电影","电视剧","短剧","动漫","综艺"],
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
@@ -124,7 +125,7 @@
       "type": 3,
       "api": "./libs/drpy2.min.js",
       "playerType": 2,
-      "ext": "./js/我的哔哩.js?type=url&params=../Bili/Bili资源.json"
+      "ext": "./js/我的哔哩.js?type=url&params=./Bili/Bili资源.json"
  },
  
 
@@ -143,22 +144,22 @@
       "api": "csp_AppXY",
       "searchable": 1,
       "quickSearch": 1,
+	"categories": ["剧场","热播剧","星选好剧"],
       "changeable": 1
     
     },
 
 
-    
-    {
-      "key": "csp_tqDJ",
-      "name": "🎋蓝莓短剧",
-      "type": 3,
-      "api": "./py/蓝莓短剧.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-   
-      },
+          {
+            "key": "电影牛",
+            "name": "短剧集合",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/短剧屋.json"
+        },
       
     
         {
@@ -205,9 +206,11 @@
   
          {
             "key": "行动",
-            "name": "👑行动APP",
+            "name": "🎋行动APP",
             "type": 3,
-            "api": "csp_AppYs",
+            "api": "csp_AppSy",
+	    "jar":"./jar/DMxx.jar",
+	     "categories": ["电影","剧集","动漫","综艺"],
             "ext": {
                 "url": "http://160.202.246.9:2356",
                 "key1": "aassddwwxxllsx1x",
