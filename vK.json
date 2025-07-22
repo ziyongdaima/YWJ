@@ -63,23 +63,7 @@
      
     },
 
-    {
-      "key": "玩偶",
-      "name": "🎲玩偶云盘",
-      "type": 3,
-      "api": "csp_WoGGGuard",
-      "searchable": 1,
-      "jar": "./jar/fan.txt",
-      "categories": ["玩偶电影","玩偶剧集","动漫","短剧","云盘配置"],
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-    },
+   
 
 
      
@@ -177,7 +161,17 @@
       },
       
     
-
+        {
+            "key": "甜圈短剧",
+            "name": "🥨甜圈短剧",
+            "type": 3,
+            "api": "./py/甜圈短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
     
     
   {
@@ -195,21 +189,7 @@
  
 
  
-   
-    {
-      "key": "meowtv_zy",
-      "name": "🍒采集资源",
-       "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/采集之王.js?type=url&params=../js/采集动态.json"
-    },
-
-
-
+ 
  
      {
       "key": "csp_yd",
@@ -223,52 +203,24 @@
    
     
   
+         {
+            "key": "行动",
+            "name": "👑行动APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "http://160.202.246.9:2356",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "aassddwwxxllsx1x",
+                "key3": "aassddwwxxllsx1x"
+            }
+        }
  
- 
 
 
 
 
-      {
-      "key": "巧技",
-      "name": "📽️巧技搜索",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "categories": ["搜索"],
-      "ext": "./zby/QJZX.txt"
-    },
-
-      {
-      "key": "YpanSo",
-      "name": "🌎三盘搜索",
-      "type": 3,
-      "api": "csp_YpanSoGuard",
-      "jar": "./jar/fan.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    
-       {
-      "key": "csp_UCss",
-      "name": "⏳️优汐搜索",
-      "type": 3,
-      "api": "csp_UuSsGuard",
-      "jar": "./jar/fan.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    }
-
+   
  
     
   
