@@ -1,6 +1,6 @@
 {
 
-  "spider": "./jar/DMx.jar",
+  "spider": "./jar/DMxx.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
@@ -102,6 +102,7 @@
       "api": "csp_xlys",
       "searchable": 0,
       "quickSearch": 0,
+      "jar":"./jar/DMx",
       "filterable": 0,
       "ext": "https://v.xlys.ltd.ua"
     },
@@ -209,7 +210,7 @@
             "name": "🎋行动APP",
             "type": 3,
             "api": "csp_AppSy",
-	    "jar":"./jar/DMxx.jar",
+	 
 	     "categories": ["电影","剧集","动漫","综艺"],
             "ext": {
                 "url": "http://160.202.246.9:2356",
