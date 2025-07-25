@@ -101,7 +101,7 @@
       "api": "csp_xlys",
       "searchable": 0,
       "quickSearch": 0,
-      "jar":"./jar/DMx",
+      "jar":"./jar/DMx.jar",
       "filterable": 0,
       "ext": "https://v.xlys.ltd.ua"
     },
