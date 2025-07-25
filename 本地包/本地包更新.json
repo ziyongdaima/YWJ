@@ -12,12 +12,7 @@
   {
     "name": "本地包",
     "list": [
-      {
-        "name": "当前版本",
-        "url": "",
-        "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png",
-        "version": ""
-      },
+     
       {
         "name": "点击下载",
         "url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ziyongdaima/YWJ/refs/heads/main/本地包/单线路.zip",
