@@ -17,54 +17,86 @@
   "warningText": "主页刷新接口",
   "sites": [
    
+          {
+            "key": "追忆",
+            "name": "🎀追忆APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "http://110.42.7.130:1866",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "2083c87e98b6ce08",
+                "key3": "2083c87e98b6ce08"
+            }
+        },
   
-      {
-      "key": "csp_aqy",
-      "name": "🥝爱奇异视频",
-      "type": 3,
-      "api": "csp_AuthIQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,    
-      "filterable": 1
-      
-    },
-    {
-      "key": "csp_uk",
-      "name": "🛡️优酷视频",
-      "type": 3,
-      "api": "./py/优酷视频.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1
-      
-    },
-    {
-      "key": "csp_tx",
-      "name": "🐧腾讯视频",
-      "type": 3,
-      "api": "csp_AuthQQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,	    
-      "filterable": 1
-      
-    },
-    {
-      "key": "csp_mg",
-      "name": "🍋芒果视频",
-      "type": 3,
-      "api": "csp_AuthMGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,	    
-      "filterable": 1
-     
-    },
-
    
+        {
+            "key": "咖啡",
+            "name": "🐱咖啡APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://omofun.lol/1.txt",
+                "dataKey": "skdhalkshqklwkj1",
+                "dataIv": "skdhalkshqklwkj1",
+                "deviceId": "",
+                "version": "109",
+                "ua": "okhttp/3.10.0"
+            }
+        },
 
+
+	          {
+            "key": "榴莲",
+            "name": "🎑榴莲APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.ll4k.xyz",
+                "dataKey": "1yGA85sJ5STtE7uj",
+                "dataIv": "1yGA85sJ5STtE7uj",
+                "deviceId": "",
+                "version": "50000"
+            }
+        },
+
+
+
+	          {
+            "key": "仓鼠",
+            "name": "🐰仓鼠APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://newappcms.cs4k.top",
+                "dataKey": "Z98KXaLtO2wC1Pte",
+                "dataIv": "Z98KXaLtO2wC1Pte",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+
+
+	          {
+            "key": "鲸鱼",
+            "name": "🐟鲸鱼APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "",
+                "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+                "dataKey": "AAdgrdghjfgswerA",
+                "dataIv": "AAdgrdghjfgswerA",
+                "deviceId": "",
+                "version": ""
+            }
+        },
 
      
      {
