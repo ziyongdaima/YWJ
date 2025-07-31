@@ -17,18 +17,14 @@
   "warningText": "主页刷新接口",
   "sites": [
    
-          {
-            "key": "追忆",
-            "name": "🎀追忆APP",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": {
-                "url": "http://110.42.7.130:1866",
-                "key1": "aassddwwxxllsx1x",
-                "key2": "2083c87e98b6ce08",
-                "key3": "2083c87e98b6ce08"
-            }
-        },
+           {
+      "key": "幕启",
+      "name": "🌉幕启影视",
+      "type": 3,
+      "api": "csp_AppSy",
+      "quickSearch": 0,
+      "ext": "J7WBJTWvt49Rro0WaKnCpcwiAwtiA57atMnVBDAP3YRNynoyyCyLIvc6/nXpdo/2nerMlKFDJbIGRKuy0qJdB6Qkf23z5CWmuH7UTrHERqI="
+    },
   
    
         {
@@ -37,15 +33,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://omofun.lol/1.txt",
-                "dataKey": "skdhalkshqklwkj1",
-                "dataIv": "skdhalkshqklwkj1",
-                "deviceId": "",
-                "version": "109",
-                "ua": "okhttp/3.10.0"
-            }
+           "ext": "qoNcYCY4SGJFWERC5ewNdoRMWRiiOH3dKBG5+Zte38B0REfz5STn0coM8gQ4pJtU"
         },
 
 
@@ -100,7 +88,7 @@
 
      
      {
-      "key": "csp_XYQHiker_民影视",
+      "key": "csp_nnom",
       "name": "♻️农‍民影视",
       "type": 3,
       "api":"csp_Wwys",
@@ -139,7 +127,7 @@
     },
 
    {
-      "key": "虎牙js",
+      "key": "虎牙yjs",
       "name": "🐯虎牙直播",
       "type": 3,
       "api": "./libs/drpy2.min.js",
@@ -152,7 +140,7 @@
 
 
  {
-      "key": "csp_Bili",
+      "key": "csp_BL",
       "name": "💌哔哩资源",
       "type": 3,
       "api": "./libs/drpy2.min.js",
@@ -164,7 +152,7 @@
 
 	  
         {
-            "key": "锦鲤短剧",
+            "key": "锦鲤短剧j",
             "name": "🐢锦鲤短剧",
             "type": 3,
             "api": "./py/锦鲤短剧.py",
@@ -180,7 +168,7 @@
   
      
     {
-      "key": "星芽",
+      "key": "星芽j",
       "name": "📡星芽短剧",
       "type": 3,
       "api": "csp_AppXY",
@@ -193,7 +181,7 @@
 
 
           {
-            "key": "电影牛",
+            "key": "电影牛j",
             "name": "🐼短剧集合",
             "type": 3,
             "api": "csp_XYQHiker",
@@ -204,21 +192,10 @@
         },
       
     
-        {
-            "key": "甜圈短剧",
-            "name": "🐌甜圈短剧",
-            "type": 3,
-            "api": "./py/甜圈短剧x.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-    
+      
     
   {
-      "key": "csp_gz",
+      "key": "csp_gzo",
       "name": "🌰瓜子影视",
       "type": 3,
      "api": "csp_Gz360",
@@ -235,31 +212,18 @@
  
  
      {
-      "key": "csp_yd",
+      "key": "csp_ydd",
       "name": "⏮️移动影视",
       "type": 3,
       "api": "csp_YDjisu",
       "searchable":1,
       "changeable":1
-    },
+    }
     
    
     
   
-         {
-            "key": "行动",
-            "name": "🎋行动APP",
-            "type": 3,
-            "api": "csp_AppSy",
-	 
-	     "categories": ["电影","剧集","动漫","综艺"],
-            "ext": {
-                "url": "http://160.202.246.9:2356",
-                "key1": "aassddwwxxllsx1x",
-                "key2": "aassddwwxxllsx1x",
-                "key3": "aassddwwxxllsx1x"
-            }
-        }
+      
  
 
 
