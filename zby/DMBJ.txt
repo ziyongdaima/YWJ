@@ -181,7 +181,7 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 湖南卫视,http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 湖南卫视,http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8
 贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-29.ctv#https://stream1.freetv.fun/yan-dong-zhu-jiang-8.ctv
  
  
  
@@ -189,7 +189,7 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
  
 锤锤动漫,http://zzy789.xyz/douyu1.php?id=9018297#https://www.goodiptv.club/douyu/9018297
 大锤轮番,http://zzy789.xyz/douyu1.php?id=9220456#https://www.goodiptv.club/douyu/9220456
-陈翔六点半,http://dns.yiandrive.com:15907/huya/11274154#http://127.0.0.1:35456/huya/11274154
+
  
  
 咪咕TV,#genre#
