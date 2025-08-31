@@ -22,7 +22,34 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m
  
  
  
- 
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
+CCTV2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+CCTV3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
+CCTV4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+CCTV5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
+CCTV6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+CCTV6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
+CCTV8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+CCTV8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
+CCTV10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
+CCTV10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
+CCTV11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
+CCTV11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
+CCTV12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
+CCTV12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+CCTV14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
+CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
+CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
  
  
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
@@ -69,10 +96,13 @@ CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
  
  
- 
+
  
 卫视频道,#genre# 
  
+
+
+
  
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
@@ -105,7 +135,40 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
  
  
  
- 
+江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
+黑龙江视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
+北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
+湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
+安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
+天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
+广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
+山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
+东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
+河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
+青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
+山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
+河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
+四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
+海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
+贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
+新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
+
  
  
  
@@ -140,7 +203,7 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 黑龙江视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
  
-广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8#http://219.159.147.195:9901/tsfile/live/1002_1.m3u8?key=txiptv
+
  
  
  
@@ -181,14 +244,27 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 湖南卫视,http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 湖南卫视,http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8
 贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-29.ctv#https://stream1.freetv.fun/yan-dong-zhu-jiang-8.ctv
+
+
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-8.ctv
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+无线娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
+香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
  
  
  
 
  
-锤锤动漫,http://zzy789.xyz/douyu1.php?id=9018297#https://www.goodiptv.club/douyu/9018297
-大锤轮番,http://zzy789.xyz/douyu1.php?id=9220456#https://www.goodiptv.club/douyu/9220456
+锤锤动漫,http://zzy789.xyz/douyu1.php?id=9018297
+大锤轮番,http://zzy789.xyz/douyu1.php?id=9220456
+
+爱奇艺影院,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+
 
  
  
@@ -239,3 +315,5 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
